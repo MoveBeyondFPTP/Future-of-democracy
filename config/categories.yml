@@ -82,6 +82,8 @@ categories:
         - '\b(prohibit|ban|bar|preclude|disallow)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
         - '\b(ranked|instant|rcv|preferential)\w*.{0,80}\b(prohibited|may not be used|shall not be used|is not permitted)'
         - '\brepeal\w*\b.{0,80}\b(ranked|instant|rcv|final[- ]five|top[- ]four)'
+        - '\b(no|not)\b.{0,60}\b(may|shall)\b.{0,15}\b(use|adopt|conduct|implement|employ)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
+        - '\b(may|shall) not (use|adopt|conduct|implement|employ)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
       adoption:
         - '\b(establish|adopt|authoriz|implement|require|creat)\w*\b.{0,80}\b(ranked|instant|rcv|preferential)'
       local_option:
@@ -237,7 +239,7 @@ categories:
       semi_proportional:
         - '\b(cumulative|limited) voting'
       congressional:
-        - '\b(congress|u\.?s\.? house|house of representatives)'
+        - '\b(congress(ional)?\b|united states house|u\.?s\.? house|representatives? in congress)'
       electoral_college:
         - '\belector(s|al)\b'
       local_government:
