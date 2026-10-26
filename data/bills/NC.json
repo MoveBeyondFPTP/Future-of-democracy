@@ -1,0 +1,2584 @@
+{
+ "state": "NC",
+ "name": "North Carolina",
+ "generated": "2026-10-26T06:06:00Z",
+ "bills": [
+  {
+   "id": "nc-2025-H958",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 958",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Election Law Changes.",
+   "summary": "An act to make various changes to election administration laws and campaign finance laws.",
+   "sponsors": [
+    {
+     "name": "Blackwell",
+     "role": "primary"
+    },
+    {
+     "name": "Stevens",
+     "role": "primary"
+    },
+    {
+     "name": "Blust",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dixon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kidwell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Penny",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pike",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Ward",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-04-10",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H958",
+   "actions": [
+    {
+     "date": "2025-04-10",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-14",
+     "chamber": "House",
+     "text": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-04-14",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2025-06-26",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-06-26",
+     "chamber": "House",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2025-06-30",
+     "chamber": "House",
+     "text": "Re-ref to the Com on Judiciary 1, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-06-30",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2025-07-31",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-07-31",
+     "chamber": "House",
+     "text": "Reptd Fav Com Sub 2"
+    },
+    {
+     "date": "2025-09-25",
+     "chamber": "House",
+     "text": "Re-ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-09-25",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "Reptd Fav Com Sub 3"
+    },
+    {
+     "date": "2026-06-24",
+     "chamber": "House",
+     "text": "Placed On Cal For 06/30/2026"
+    },
+    {
+     "date": "2026-06-24",
+     "chamber": "House",
+     "text": "Cal Pursuant Rule 36(b)"
+    },
+    {
+     "date": "2026-06-24",
+     "chamber": "House",
+     "text": "Reptd Fav Com Sub 4"
+    },
+    {
+     "date": "2026-06-30",
+     "chamber": "House",
+     "text": "Ordered Engrossed"
+    },
+    {
+     "date": "2026-06-30",
+     "chamber": "House",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2026-06-30",
+     "chamber": "House",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2026-06-30",
+     "chamber": "House",
+     "text": "Amend Failed A3"
+    },
+    {
+     "date": "2026-06-30",
+     "chamber": "House",
+     "text": "Amend Adopted A2"
+    },
+    {
+     "date": "2026-06-30",
+     "chamber": "House",
+     "text": "Amend Adopted A1"
+    },
+    {
+     "date": "2026-07-01",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-07-01",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2026-07-01",
+     "chamber": "Senate",
+     "text": "Regular Message Received From House"
+    },
+    {
+     "date": "2026-07-01",
+     "chamber": "House",
+     "text": "Regular Message Sent To Senate"
+    },
+    {
+     "date": "2026-07-27",
+     "chamber": "Senate",
+     "text": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-07-27",
+     "chamber": "Senate",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Engrossed"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A10"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A9"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A8"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A7"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A6"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Failed A4"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Adopted A5"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A3"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Tabled A2"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Amend Adopted A1"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Placed on Today's Calendar"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Reptd Fav"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Re-ref Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Com Substitute Adopted"
+    },
+    {
+     "date": "2026-07-28",
+     "chamber": "Senate",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2026-07-29",
+     "chamber": "House",
+     "text": "Regular Message Received For Concurrence in S Com Sub"
+    },
+    {
+     "date": "2026-07-29",
+     "chamber": "Senate",
+     "text": "Regular Message Sent To House"
+    },
+    {
+     "date": "2026-07-30",
+     "chamber": "House",
+     "text": "Placed On Cal For 08/04/2026"
+    },
+    {
+     "date": "2026-07-30",
+     "chamber": "House",
+     "text": "Cal Pursuant 36(b)"
+    },
+    {
+     "date": "2026-08-04",
+     "chamber": "House",
+     "text": "Ordered Enrolled"
+    },
+    {
+     "date": "2026-08-04",
+     "chamber": "House",
+     "text": "Concurred In S Com Sub"
+    },
+    {
+     "date": "2026-08-06",
+     "chamber": "",
+     "text": "Ratified"
+    },
+    {
+     "date": "2026-08-07",
+     "chamber": "",
+     "text": "Pres. To Gov. 8/7/2026"
+    },
+    {
+     "date": "2026-08-17",
+     "chamber": "House",
+     "text": "Received from the Governor"
+    },
+    {
+     "date": "2026-08-17",
+     "chamber": "",
+     "text": "Vetoed 08/17/2026"
+    },
+    {
+     "date": "2026-08-31",
+     "chamber": "House",
+     "text": "Placed On Cal For 09/02/2026"
+    }
+   ],
+   "subjects": [
+    "Armed Forces",
+    "Auditing & Audits",
+    "Boards",
+    "Campaign Finance",
+    "Census",
+    "Citizenship",
+    "Colleges & Universities",
+    "Community Colleges",
+    "Community Colleges Board",
+    "Council Of State",
+    "Counties",
+    "Courts",
+    "Crimes",
+    "Data & Records Systems",
+    "Dmv",
+    "Drivers Licenses",
+    "Education",
+    "Elections",
+    "Elections Boards",
+    "Elections, State Board Of",
+    "Emerging Technologies",
+    "Employment",
+    "Higher Education",
+    "Id Systems",
+    "Information Technology",
+    "Licenses & Permits",
+    "Lobbying",
+    "Local Government",
+    "Moratoriums",
+    "Motor Vehicles",
+    "Notification",
+    "Pacs",
+    "Personnel",
+    "Pilot Programs",
+    "Political Activity",
+    "Political Parties",
+    "Presented",
+    "Public",
+    "Public Officials",
+    "Ratified"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H958v9.html",
+   "hearings": [],
+   "last_action": "Placed On Cal For 09/02/2026",
+   "last_action_date": "2026-08-31",
+   "status": "vetoed",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H1246",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 1246",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Safeguarding Elections Act.",
+   "summary": "An act to make various changes under the laws pertaining to elections.",
+   "sponsors": [
+    {
+     "name": "Buansi",
+     "role": "primary"
+    },
+    {
+     "name": "Dahle",
+     "role": "primary"
+    },
+    {
+     "name": "F. Jackson",
+     "role": "primary"
+    },
+    {
+     "name": "Clark",
+     "role": "primary"
+    },
+    {
+     "name": "Ager",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Baker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Ball",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Belk",
+     "role": "cosponsor"
+    },
+    {
+     "name": "G. Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "K. Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "T. Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cervania",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Colvin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Greenfield",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Harrison",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hawkins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Helfrich",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lopez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "R. Pierce",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Price",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Quick",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roberson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rubin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "von Haefen",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2026-07-30",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H1246",
+   "actions": [
+    {
+     "date": "2026-07-30",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-08-04",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-08-04",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Armed Forces",
+    "Auditing & Audits",
+    "Boards",
+    "Confidentiality",
+    "Counties",
+    "Elections",
+    "Elections Boards",
+    "Elections, State Board Of",
+    "Emergency Services",
+    "Law Enforcement",
+    "Law Enforcement Officers",
+    "Local Government",
+    "Personnel",
+    "Political Activity",
+    "Privacy",
+    "Public",
+    "Public Officials",
+    "Records",
+    "National Guard",
+    "Ballots & Ballot Issues"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H1246v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2026-08-04",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "voter intimidation"
+     ],
+     "subtags": [
+      "dilution_cause_of_action"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H1035",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 1035",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Various Local Election Changes III.",
+   "summary": "An act restoring certain voting methods in elections in the town of pink hill and requiring that municipal elections in the town of pink hill be held in even-numbered years.",
+   "sponsors": [
+    {
+     "name": "Humphrey",
+     "role": "primary"
+    },
+    {
+     "name": "Ward",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2026-04-21",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H1035",
+   "actions": [
+    {
+     "date": "2026-04-21",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "House",
+     "text": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2026-05-05",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-05-05",
+     "chamber": "House",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "House",
+     "text": "Placed On Cal For 05/07/2026"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "House",
+     "text": "Cal Pursuant Rule 36(b)"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "House",
+     "text": "Reptd Fav"
+    },
+    {
+     "date": "2026-05-07",
+     "chamber": "House",
+     "text": "Regular Message Sent To Senate"
+    },
+    {
+     "date": "2026-05-07",
+     "chamber": "House",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2026-05-07",
+     "chamber": "House",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2026-05-11",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-05-11",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2026-05-11",
+     "chamber": "Senate",
+     "text": "Regular Message Received From House"
+    },
+    {
+     "date": "2026-05-22",
+     "chamber": "Senate",
+     "text": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-05-22",
+     "chamber": "Senate",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2026-06-10",
+     "chamber": "Senate",
+     "text": "Re-ref Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-06-10",
+     "chamber": "Senate",
+     "text": "Com Substitute Adopted"
+    },
+    {
+     "date": "2026-06-10",
+     "chamber": "Senate",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2026-06-15",
+     "chamber": "Senate",
+     "text": "Reptd Fav"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "Engrossed"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "Amend Adopted A1"
+    },
+    {
+     "date": "2026-06-17",
+     "chamber": "House",
+     "text": "Regular Message Received For Concurrence in S Com Sub"
+    },
+    {
+     "date": "2026-06-17",
+     "chamber": "Senate",
+     "text": "Regular Message Sent To House"
+    },
+    {
+     "date": "2026-06-18",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-06-23",
+     "chamber": "House",
+     "text": "Ordered Enrolled"
+    },
+    {
+     "date": "2026-06-23",
+     "chamber": "House",
+     "text": "Concurred In S Com Sub"
+    },
+    {
+     "date": "2026-06-23",
+     "chamber": "House",
+     "text": "Added to Calendar"
+    },
+    {
+     "date": "2026-06-23",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2026-06-24",
+     "chamber": "",
+     "text": "Ch. SL 2026-18"
+    },
+    {
+     "date": "2026-06-24",
+     "chamber": "",
+     "text": "Ratified"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Mayors",
+    "Municipalities",
+    "Political Parties",
+    "Ratified",
+    "Session Laws",
+    "Term Lengths & Limits",
+    "Title Change",
+    "Brunswick County",
+    "Edgecombe County",
+    "Catawba County",
+    "Lenoir County",
+    "Martin County",
+    "Craven County",
+    "Forsyth County",
+    "Greene County",
+    "Marion",
+    "Mcdowell County",
+    "Hickory",
+    "Catawba",
+    "Polk County",
+    "Newton",
+    "New Bern",
+    "Old Fort",
+    "Belville",
+    "Chaptered",
+    "Claremont",
+    "Maiden",
+    "Conover",
+    "Bolivia",
+    "Pink Hill",
+    "Snow Hill",
+    "Columbus",
+    "Rural Hall",
+    "Conetoe"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H1035v6.html",
+   "hearings": [],
+   "last_action": "Ratified",
+   "last_action_date": "2026-06-24",
+   "status": "passed_both",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large. the aldermen shall each reside in and represent a ward",
+      "method of election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H1038",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 1038",
+   "chamber": "House",
+   "type": "bill",
+   "title": "At-Large Elections/Jacksonville City Council.",
+   "summary": "An act to require that all members of the jacksonville city council be elected at-large.",
+   "sponsors": [
+    {
+     "name": "Gable",
+     "role": "primary"
+    },
+    {
+     "name": "Shepard",
+     "role": "primary"
+    }
+   ],
+   "introduced": "2026-04-22",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H1038",
+   "actions": [
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "House",
+     "text": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2026-06-09",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-06-09",
+     "chamber": "House",
+     "text": "Reptd Fav Com Substitute"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Municipalities",
+    "Session Laws",
+    "Onslow County",
+    "Jacksonville"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H1038v2.html",
+   "hearings": [],
+   "last_action": "Reptd Fav Com Substitute",
+   "last_action_date": "2026-06-09",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large and four of the councilmembers shall be elected from the wards",
+      "at-large elections"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "nc-2025-S1077",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 1077",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "City of New Bern Even-Year Elections.",
+   "summary": "An act to change the timing and manner of regular municipal elections for the city of new bern.",
+   "sponsors": [
+    {
+     "name": "Brinson",
+     "role": "primary"
+    },
+    {
+     "name": "Ford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sanderson",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2026-05-05",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/S1077",
+   "actions": [
+    {
+     "date": "2026-05-05",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "Senate",
+     "text": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "Senate",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-05-06",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Municipalities",
+    "Session Laws",
+    "Craven County",
+    "New Bern"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/HTML/S1077v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2026-05-06",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H1117",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 1117",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Even-Year Municipal Elections/Catawba County.",
+   "summary": "An act to require that regular municipal elections for all municipalities in catawba county be held in even-numbered years.",
+   "sponsors": [
+    {
+     "name": "Adams",
+     "role": "primary"
+    },
+    {
+     "name": "Setzer",
+     "role": "primary"
+    }
+   ],
+   "introduced": "2026-04-29",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H1117",
+   "actions": [
+    {
+     "date": "2026-04-29",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-04-30",
+     "chamber": "House",
+     "text": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-04-30",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Mayors",
+    "Municipalities",
+    "Session Laws",
+    "Term Lengths & Limits",
+    "Catawba County",
+    "Hickory",
+    "Catawba",
+    "Newton",
+    "Claremont",
+    "Maiden",
+    "Conover",
+    "Long View",
+    "Brookford"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H1117v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2026-04-30",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large. the aldermen council members shall be nominated by wards"
+     ],
+     "subtags": []
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "number of offices to be filled"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-S810",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 810",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Even-Year Municipal Elections/Catawba Co.",
+   "summary": "An act to require that regular municipal elections for all municipalities in catawba county be held in even-numbered years.",
+   "sponsors": [
+    {
+     "name": "Hollo",
+     "role": "primary"
+    },
+    {
+     "name": "Moffitt",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2026-04-21",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/S810",
+   "actions": [
+    {
+     "date": "2026-04-21",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "Senate",
+     "text": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "Senate",
+     "text": "Withdrawn From Com"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Mayors",
+    "Municipalities",
+    "Session Laws",
+    "Catawba County",
+    "Hickory",
+    "Catawba",
+    "Newton",
+    "Claremont",
+    "Maiden",
+    "Conover",
+    "Local Ordinances",
+    "Long View",
+    "Brookford"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/HTML/S810v1.html",
+   "hearings": [],
+   "last_action": "Withdrawn From Com",
+   "last_action_date": "2026-04-23",
+   "status": "failed",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large. the aldermen council members shall be nominated by wards"
+     ],
+     "subtags": []
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "number of offices to be filled"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-S804",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 804",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Fair Maps Act.",
+   "summary": "An act to amend the north carolina constitution to provide for an independent redistricting process, to establish the north carolina citizens redistricting commission, and to make conforming changes to the general statutes.",
+   "sponsors": [
+    {
+     "name": "Bradley",
+     "role": "primary"
+    },
+    {
+     "name": "Chitlik",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Garrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Garson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Grafstein",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mohammed",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Salvador",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Theodros",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Waddell",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2026-04-21",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/S804",
+   "actions": [
+    {
+     "date": "2026-04-21",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Appointments",
+    "Auditing & Audits",
+    "Census",
+    "Commissions",
+    "Constitution, Nc",
+    "Council Of State",
+    "Elections",
+    "Ethics",
+    "General Assembly",
+    "Membership",
+    "Political Parties",
+    "Public",
+    "Public Meetings",
+    "Public Officials",
+    "Public Records",
+    "Redistricting",
+    "State Auditor",
+    "Records",
+    "Ethics Comn.",
+    "Redistricting Comn."
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/HTML/S804v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2026-04-22",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic data",
+      "minority communit",
+      "tribal nation"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H3",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 3",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Various Local Election Changes II.",
+   "summary": "An act to provide that regular municipal elections in the village of simpson shall be held in even-numbered years.",
+   "sponsors": [
+    {
+     "name": "Reeder",
+     "role": "primary"
+    },
+    {
+     "name": "Clampitt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Humphrey",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kidwell",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-01-29",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H3",
+   "actions": [
+    {
+     "date": "2025-01-29",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-01-30",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-01-30",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "House",
+     "text": "Re-ref to the Com on State and Local Government, if favorable, Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "House",
+     "text": "Re-ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2025-03-04",
+     "chamber": "House",
+     "text": "Placed On Cal For 03/05/2025"
+    },
+    {
+     "date": "2025-03-04",
+     "chamber": "House",
+     "text": "Cal Pursuant Rule 36(b)"
+    },
+    {
+     "date": "2025-03-04",
+     "chamber": "House",
+     "text": "Reptd Fav"
+    },
+    {
+     "date": "2025-03-04",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-03-04",
+     "chamber": "House",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "Senate",
+     "text": "Regular Message Received From House"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "House",
+     "text": "Regular Message Sent To Senate"
+    },
+    {
+     "date": "2025-06-05",
+     "chamber": "Senate",
+     "text": "Re-ref to Elections. If fav, re-ref to Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-06-05",
+     "chamber": "Senate",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2025-06-11",
+     "chamber": "Senate",
+     "text": "Re-ref Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-06-11",
+     "chamber": "Senate",
+     "text": "Com Substitute Adopted"
+    },
+    {
+     "date": "2025-06-11",
+     "chamber": "Senate",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2025-06-17",
+     "chamber": "Senate",
+     "text": "Reptd Fav"
+    },
+    {
+     "date": "2025-06-18",
+     "chamber": "Senate",
+     "text": "Engrossed"
+    },
+    {
+     "date": "2025-06-18",
+     "chamber": "Senate",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2025-06-18",
+     "chamber": "Senate",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2025-06-18",
+     "chamber": "Senate",
+     "text": "Amend Tabled A2"
+    },
+    {
+     "date": "2025-06-18",
+     "chamber": "Senate",
+     "text": "Amend Adopted A1"
+    },
+    {
+     "date": "2025-06-19",
+     "chamber": "House",
+     "text": "Cal Pursuant 36(b)"
+    },
+    {
+     "date": "2025-06-19",
+     "chamber": "House",
+     "text": "Special Message Received For Concurrence in S Com Sub"
+    },
+    {
+     "date": "2025-06-19",
+     "chamber": "Senate",
+     "text": "Special Message Sent To House"
+    },
+    {
+     "date": "2025-06-23",
+     "chamber": "House",
+     "text": "Placed On Cal For 06/24/2025"
+    },
+    {
+     "date": "2025-06-24",
+     "chamber": "House",
+     "text": "Ordered Enrolled"
+    },
+    {
+     "date": "2025-06-24",
+     "chamber": "House",
+     "text": "Concurred In S Com Sub"
+    },
+    {
+     "date": "2025-06-25",
+     "chamber": "",
+     "text": "Ch. SL 2025-13"
+    },
+    {
+     "date": "2025-06-25",
+     "chamber": "",
+     "text": "Ratified"
+    }
+   ],
+   "subjects": [
+    "Boards",
+    "Charters",
+    "City Councils",
+    "Counties",
+    "County Commissioners",
+    "Education",
+    "Education Boards",
+    "Elections",
+    "Elementary Education",
+    "Kindergarten",
+    "Local",
+    "Local Government",
+    "Mayors",
+    "Municipalities",
+    "Political Parties",
+    "Public Officials",
+    "Ratified",
+    "Referendum & Initiative",
+    "Secondary Education",
+    "Session Laws",
+    "Term Lengths & Limits",
+    "Union County",
+    "Pitt County",
+    "Monroe",
+    "Pamlico County",
+    "Currituck County",
+    "Minnesott Beach",
+    "Oriental",
+    "Cabarrus County",
+    "Grantsboro",
+    "Vacancies",
+    "Simpson",
+    "Vandemere",
+    "Alliance",
+    "Arapahoe",
+    "Bayboro",
+    "Mesic",
+    "Stonewall $(Document).Ready(Function () { $('#Additional-Rows').On('Show.Bs.Collapse', Function () { $('#Vote-Header').Text('All Votes')",
+    "$('#Additionalvote"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H3v6.html",
+   "hearings": [],
+   "last_action": "Ratified",
+   "last_action_date": "2025-06-25",
+   "status": "passed_both",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large. for the four residency districts",
+      "method of election"
+     ],
+     "subtags": [
+      "at_large_conversion"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H271",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 271",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Cabarrus County Local Omnibus.",
+   "summary": "An act to provide that regular municipal elections for municipalities in cabarrus county shall be conducted on a partisan basis and to provide that only voters residing in the district the city council member represents shall vote for that member in the city of concord.",
+   "sponsors": [
+    {
+     "name": "Echevarria",
+     "role": "primary"
+    },
+    {
+     "name": "Almond",
+     "role": "primary"
+    },
+    {
+     "name": "Adams",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Riddell",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-03",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H271",
+   "actions": [
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "House",
+     "text": "Re-ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "House",
+     "text": "Withdrawn From Com"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Cal Pursuant Rule 36(b)"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Withdrawn From Cal"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Placed On Cal For 05/14/2025"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Cal Pursuant Rule 36(b)"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Reptd Fav"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "House",
+     "text": "Reptd Fav Com Substitute"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "House",
+     "text": "Passed 3rd Reading"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "House",
+     "text": "Passed 2nd Reading"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "House",
+     "text": "Added to Calendar"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "House",
+     "text": "Withdrawn From Cal"
+    },
+    {
+     "date": "2025-05-15",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-05-15",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2025-05-15",
+     "chamber": "Senate",
+     "text": "Regular Message Received From House"
+    },
+    {
+     "date": "2025-05-15",
+     "chamber": "House",
+     "text": "Regular Message Sent To Senate"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Mayors",
+    "Municipalities",
+    "Political Parties",
+    "Session Laws",
+    "Title Change",
+    "Midland",
+    "Rowan County",
+    "Concord",
+    "Kannapolis",
+    "Mount Pleasant",
+    "Harrisburg",
+    "Cabarrus County $(Document).Ready(Function () { $('#Additional-Rows').On('Show.Bs.Collapse', Function () { $('#Vote-Header').Text('All Votes')",
+    "$('#Additionalvote"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H271v2.html",
+   "hearings": [],
+   "last_action": "Regular Message Sent To Senate",
+   "last_action_date": "2025-05-15",
+   "status": "passed_both",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H825",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 825",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Election Improvements.",
+   "summary": "An act to prohibit ranked choice voting, clarify the laws regarding election-related activity, reduce the early voting period, and amend the requirements for acceptable forms of identification when a voter requests an absentee ballot.",
+   "sponsors": [
+    {
+     "name": "Echevarria",
+     "role": "primary"
+    },
+    {
+     "name": "Scott",
+     "role": "primary"
+    },
+    {
+     "name": "Adams",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Blust",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cairns",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Eddins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Iler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pike",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Ward",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-04-08",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H825",
+   "actions": [
+    {
+     "date": "2025-04-08",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-09",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-04-09",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Boards",
+    "Elections",
+    "Elections, State Board Of",
+    "Political Activity",
+    "Public",
+    "Public Officials",
+    "Ballots & Ballot Issues"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H825v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-04-09",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H580",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 580",
+   "chamber": "House",
+   "type": "bill",
+   "title": "State Board of Elections Legislative Changes.",
+   "summary": "An act to make various elections law changes, as recommended by the north carolina state board of elections.",
+   "sponsors": [
+    {
+     "name": "Dahle",
+     "role": "primary"
+    },
+    {
+     "name": "Baker",
+     "role": "primary"
+    },
+    {
+     "name": "Buansi",
+     "role": "primary"
+    },
+    {
+     "name": "Rubin",
+     "role": "primary"
+    },
+    {
+     "name": "Ball",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Belk",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Butler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cervania",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Crawford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Greenfield",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Harrison",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hawkins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Logan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Majeed",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Morey",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roberson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "von Haefen",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-31",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H580",
+   "actions": [
+    {
+     "date": "2025-03-31",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Armed Forces",
+    "Boards",
+    "Campaign Finance",
+    "Confidentiality",
+    "Counties",
+    "Education",
+    "Elections",
+    "Elections Boards",
+    "Elections, State Board Of",
+    "Emergency Services",
+    "Id Systems",
+    "Information Technology",
+    "Internet",
+    "Local Government",
+    "Personnel",
+    "Privacy",
+    "Public",
+    "Public Officials",
+    "Public Records",
+    "Session Laws",
+    "Students",
+    "Volunteers",
+    "Records",
+    "Electronic Government",
+    "Ballots & Ballot Issues"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H580v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-04-01",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "dilution_cause_of_action"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H541",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 541",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Option Top-2 Same-Day Primary Runoff/Elections.",
+   "summary": "An act to allow political parties the option of using a top-two, same-day runoff method in selected primaries that may trigger a runoff.",
+   "sponsors": [
+    {
+     "name": "Morey",
+     "role": "primary"
+    },
+    {
+     "name": "Harrison",
+     "role": "primary"
+    },
+    {
+     "name": "Belk",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Logan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Majeed",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Price",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-26",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H541",
+   "actions": [
+    {
+     "date": "2025-03-26",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Appropriations",
+    "Auditing & Audits",
+    "Boards",
+    "Budgeting",
+    "Council Of State",
+    "Elections",
+    "Elections, State Board Of",
+    "Political Parties",
+    "Public",
+    "Public Officials",
+    "State Auditor",
+    "Primaries",
+    "Ballots & Ballot Issues"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H541v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-03-27",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "instant runoff"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-S698",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 698",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Fair Districts Stronger Democracy Act.",
+   "summary": "An act to amend the north carolina constitution to provide for an independent redistricting process, to establish the north carolina independent redistricting commission, and to make conforming changes to the general statutes.",
+   "sponsors": [
+    {
+     "name": "Applewhite",
+     "role": "primary"
+    },
+    {
+     "name": "Mohammed",
+     "role": "primary"
+    },
+    {
+     "name": "Garrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mayfield",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Smith",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Waddell",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-25",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/S698",
+   "actions": [
+    {
+     "date": "2025-03-25",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Administration Dept.",
+    "Appointments",
+    "Commissions",
+    "Constitution, Nc",
+    "Discrimination",
+    "Elections",
+    "Ethics",
+    "General Assembly",
+    "Human Relations Comn.",
+    "Membership",
+    "Minorities",
+    "Public",
+    "Public Officials",
+    "Redistricting",
+    "Ethics Comn.",
+    "Redistricting Comn."
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/HTML/S698v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-03-26",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic data",
+      "minority communit",
+      "tribal nation"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-S638",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 638",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Fair Maps Act.",
+   "summary": "An act to amend the north carolina constitution to provide for an independent redistricting process, to establish the north carolina citizens redistricting commission, and to make conforming changes to the general statutes.",
+   "sponsors": [
+    {
+     "name": "Bradley",
+     "role": "primary"
+    },
+    {
+     "name": "Everitt",
+     "role": "primary"
+    },
+    {
+     "name": "Chitlik",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Garrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Grafstein",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mayfield",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Meyer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Murdock",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Smith",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-25",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/S638",
+   "actions": [
+    {
+     "date": "2025-03-25",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Appointments",
+    "Auditing & Audits",
+    "Commissions",
+    "Constitution, Nc",
+    "Council Of State",
+    "Elections",
+    "General Assembly",
+    "Legislative Services Office",
+    "Local Government",
+    "Membership",
+    "Minorities",
+    "Public",
+    "Public Meetings",
+    "Public Officials",
+    "Public Records",
+    "Redistricting",
+    "State Auditor",
+    "Tribes & Tribal Government",
+    "Records",
+    "Redistricting Comn."
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/HTML/S638v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-03-26",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic data",
+      "minority communit",
+      "tribal nation"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-S392",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 392",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Safeguard Fair Elections.",
+   "summary": "An act to provide increased protections for voters and elections officials against various forms of interference with an election and to appropriate funds for certain purposes.",
+   "sponsors": [
+    {
+     "name": "Chaudhuri",
+     "role": "primary"
+    },
+    {
+     "name": "Murdock",
+     "role": "primary"
+    },
+    {
+     "name": "Smith",
+     "role": "primary"
+    },
+    {
+     "name": "Applewhite",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Garrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Grafstein",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mohammed",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Robinson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Salvador",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Theodros",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Waddell",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-24",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/S392",
+   "actions": [
+    {
+     "date": "2025-03-24",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-25",
+     "chamber": "Senate",
+     "text": "Ref To Com On Rules and Operations of the Senate"
+    },
+    {
+     "date": "2025-03-25",
+     "chamber": "Senate",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Assault",
+    "Auditing & Audits",
+    "Boards",
+    "Commerce",
+    "Confidentiality",
+    "Counties",
+    "Courts",
+    "Crimes",
+    "Elections",
+    "Elections Boards",
+    "Local Government",
+    "Personnel",
+    "Privacy",
+    "Privatization",
+    "Public",
+    "Public Officials"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/HTML/S392v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-03-25",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "voter intimidation"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H20",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 20",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Fair Maps Act.",
+   "summary": "An act to amend the north carolina constitution to provide for an independent redistricting process, to establish the north carolina citizens redistricting commission, and to make conforming changes to the general statutes.",
+   "sponsors": [
+    {
+     "name": "Harrison",
+     "role": "primary"
+    },
+    {
+     "name": "Morey",
+     "role": "primary"
+    },
+    {
+     "name": "Hawkins",
+     "role": "primary"
+    },
+    {
+     "name": "Prather",
+     "role": "primary"
+    },
+    {
+     "name": "Ager",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Alston",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Baker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Ball",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Belk",
+     "role": "cosponsor"
+    },
+    {
+     "name": "G. Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "K. Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "T. Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Buansi",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Budd",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Butler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cervania",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Clark",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cohn",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Colvin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Crawford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dahle",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Greenfield",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Helfrich",
+     "role": "cosponsor"
+    },
+    {
+     "name": "F. Jackson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jeffers",
+     "role": "cosponsor"
+    },
+    {
+     "name": "A. Jones",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liu",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Logan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Longest",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lopez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Majeed",
+     "role": "cosponsor"
+    },
+    {
+     "name": "R. Pierce",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Price",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Quick",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Reives",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roberson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rubin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Turner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "von Haefen",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-01-29",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H20",
+   "actions": [
+    {
+     "date": "2025-01-29",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-01-30",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-01-30",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Appointments",
+    "Auditing & Audits",
+    "Commissions",
+    "Constitution, Nc",
+    "Council Of State",
+    "Elections",
+    "General Assembly",
+    "Legislative Services Office",
+    "Local Government",
+    "Membership",
+    "Minorities",
+    "Public",
+    "Public Meetings",
+    "Public Officials",
+    "Public Records",
+    "Redistricting",
+    "State Auditor",
+    "Tribes & Tribal Government",
+    "Records",
+    "Redistricting Comn."
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H20v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-01-30",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic data",
+      "minority communit",
+      "tribal nation"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,727 @@
+{
+ "state": "WI",
+ "name": "Wisconsin",
+ "generated": "2026-10-26T06:06:00Z",
+ "bills": [
+  {
+   "id": "wi-2025-SB1130",
+   "state": "WI",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 1130",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked-choice voting, granting rule-making authority, and making an appropriation. (FE)",
+   "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1130",
+   "text_url": "https://docs.legis.wisconsin.gov/2025/related/proposals/sb1130",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-03-19",
+     "chamber": "Senate",
+     "text": "Introduced by Senators Spreitzer, Pfaff, Larson, Dassler-Alfheim and Roys; cosponsored by Representatives Anderson, Brown, Clancy, Emerson, Hong, Moore Omokunde, Rivera-Wagner, Sheehan, Sinicki, Subeck, Stroud, Stubbs, Tenorio, Udell and Palmeri"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "Senate",
+     "text": "Read first time and referred to Committee on Government Operations, Labor and Economic Development"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "Senate",
+     "text": "Failed to pass pursuant to Senate Joint Resolution 1"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "Senate",
+     "text": "Fiscal estimate received"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Spreitzer",
+     "role": "primary"
+    },
+    {
+     "name": "Pfaff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Larson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dassler-Alfheim",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roys",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Clancy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Emerson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hong",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Moore Omokunde",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rivera-Wagner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sheehan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sinicki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Subeck",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stroud",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stubbs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tenorio",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Udell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Palmeri",
+     "role": "cosponsor"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Fiscal estimate received",
+   "last_action_date": "2026-05-13",
+   "introduced": "2026-03-19",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential vote",
+      "ranked vote",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option",
+      "primaries",
+      "study_commission"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "surplus votes"
+     ],
+     "subtags": [
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "wi-2025-AB1165",
+   "state": "WI",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "AB 1165",
+   "chamber": "Assembly",
+   "type": "bill",
+   "title": "Ranked-choice voting, granting rule-making authority, and making an appropriation. (FE)",
+   "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1165",
+   "text_url": "https://docs.legis.wisconsin.gov/2025/related/proposals/ab1165",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-03-19",
+     "chamber": "Assembly",
+     "text": "Introduced by Representatives Anderson, Brown, Clancy, Emerson, Hong, Moore Omokunde, Rivera-Wagner, Sheehan, Sinicki, Subeck, Stroud, Stubbs, Tenorio and Udell; cosponsored by Senators Spreitzer, Pfaff, Larson, Dassler-Alfheim and Roys"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "Assembly",
+     "text": "Read first time and referred to Committee on Campaigns and Elections"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "Assembly",
+     "text": "Failed to pass pursuant to Senate Joint Resolution 1"
+    },
+    {
+     "date": "2026-05-01",
+     "chamber": "Assembly",
+     "text": "Fiscal estimate received"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Anderson",
+     "role": "primary"
+    },
+    {
+     "name": "Brown",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Clancy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Emerson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hong",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Moore Omokunde",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rivera-Wagner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sheehan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sinicki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Subeck",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stroud",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stubbs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tenorio",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Udell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pfaff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Larson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dassler-Alfheim",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roys",
+     "role": "cosponsor"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Fiscal estimate received",
+   "last_action_date": "2026-05-01",
+   "introduced": "2026-03-19",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential vote",
+      "ranked vote",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option",
+      "primaries",
+      "study_commission"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "surplus votes"
+     ],
+     "subtags": [
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "wi-2025-SB922",
+   "state": "WI",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 922",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Automatic voter registration, deceptive election practices, voter intimidation and suppression, voter rights, polling place posting and language requirements, election manual requirements, withholding of voluntarily provided elector information, granting rule-making authority, and providing a penalty. (FE)",
+   "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb922",
+   "text_url": "https://docs.legis.wisconsin.gov/2025/related/proposals/sb922",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-02-06",
+     "chamber": "Senate",
+     "text": "Introduced by Senators Smith, Drake, Ratcliff, Roys, Spreitzer, Hesselbein and Larson; cosponsored by Representatives Emerson, Fitzgerald, Udell, Miresse, Prado, DeSmidt, Sinicki, Stubbs, J. Jacobson, Stroud and Joers"
+    },
+    {
+     "date": "2026-02-06",
+     "chamber": "Senate",
+     "text": "Read first time and referred to Committee on Government Operations, Labor and Economic Development"
+    },
+    {
+     "date": "2026-02-09",
+     "chamber": "Senate",
+     "text": "Representative Palmeri added as a cosponsor"
+    },
+    {
+     "date": "2026-02-17",
+     "chamber": "Senate",
+     "text": "Fiscal estimate received"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "Senate",
+     "text": "Representative Subeck added as a cosponsor"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "Senate",
+     "text": "Failed to pass pursuant to Senate Joint Resolution 1"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Smith",
+     "role": "primary"
+    },
+    {
+     "name": "Drake",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Ratcliff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roys",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Spreitzer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hesselbein",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Larson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Fitzgerald",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Udell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Miresse",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Prado",
+     "role": "cosponsor"
+    },
+    {
+     "name": "DeSmidt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sinicki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stubbs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "J. Jacobson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stroud",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joers",
+     "role": "cosponsor"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+   "last_action_date": "2026-03-23",
+   "introduced": "2026-02-06",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "deceptive election",
+      "voter intimidation"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "wi-2025-SB594",
+   "state": "WI",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "SB 594",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked-choice voting for local nonpartisan elections, granting rule-making authority, and making an appropriation. (FE)",
+   "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb594",
+   "text_url": "https://docs.legis.wisconsin.gov/2025/related/proposals/sb594",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2025-10-30",
+     "chamber": "Senate",
+     "text": "Introduced by Senators Larson, Dassler-Alfheim, L. Johnson and Spreitzer; cosponsored by Representatives Rivera-Wagner, Snodgrass, Andraca, Arney, Clancy, DeSmidt, Emerson, Johnson, Madison, Miresse, Phelps, Roe, Sinicki, Stroud, Stubbs and Subeck"
+    },
+    {
+     "date": "2025-10-30",
+     "chamber": "Senate",
+     "text": "Read first time and referred to Committee on Licensing, Regulatory Reform, State and Federal Affairs"
+    },
+    {
+     "date": "2025-11-10",
+     "chamber": "Senate",
+     "text": "Fiscal estimate received"
+    },
+    {
+     "date": "2026-02-09",
+     "chamber": "Senate",
+     "text": "Representative J. Jacobson added as a cosponsor"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "Senate",
+     "text": "Failed to pass pursuant to Senate Joint Resolution 1"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Larson",
+     "role": "primary"
+    },
+    {
+     "name": "Dassler-Alfheim",
+     "role": "cosponsor"
+    },
+    {
+     "name": "L. Johnson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Spreitzer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Snodgrass",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Andraca",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Arney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Clancy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "DeSmidt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Emerson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Johnson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Madison",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Miresse",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phelps",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roe",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sinicki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stroud",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stubbs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Subeck",
+     "role": "cosponsor"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+   "last_action_date": "2026-03-23",
+   "introduced": "2025-10-30",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential vote",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option",
+      "study_commission"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "surplus votes"
+     ],
+     "subtags": [
+      "congressional",
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "wi-2025-AB516",
+   "state": "WI",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "AB 516",
+   "chamber": "Assembly",
+   "type": "bill",
+   "title": "Ranked-choice voting for local nonpartisan elections, granting rule-making authority, and making an appropriation. (FE)",
+   "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab516",
+   "text_url": "https://docs.legis.wisconsin.gov/2025/related/proposals/ab516",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2025-10-15",
+     "chamber": "Assembly",
+     "text": "Introduced by Representatives Rivera-Wagner, Snodgrass, Andraca, Arney, Clancy, DeSmidt, Emerson, Johnson, Madison, Miresse, Phelps, Roe, Sinicki, Stroud, Stubbs, Subeck and Palmeri; cosponsored by Senators Larson, Dassler-Alfheim and L. Johnson"
+    },
+    {
+     "date": "2025-10-15",
+     "chamber": "Assembly",
+     "text": "Read first time and referred to Committee on Campaigns and Elections"
+    },
+    {
+     "date": "2025-11-03",
+     "chamber": "Assembly",
+     "text": "Fiscal estimate received"
+    },
+    {
+     "date": "2025-12-19",
+     "chamber": "Assembly",
+     "text": "Senator Spreitzer added as a cosponsor"
+    },
+    {
+     "date": "2026-02-09",
+     "chamber": "Assembly",
+     "text": "Representative J. Jacobson added as a coauthor"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "Assembly",
+     "text": "Failed to pass pursuant to Senate Joint Resolution 1"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Rivera-Wagner",
+     "role": "primary"
+    },
+    {
+     "name": "Snodgrass",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Andraca",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Arney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Clancy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "DeSmidt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Emerson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Johnson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Madison",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Miresse",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phelps",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roe",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sinicki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stroud",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stubbs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Subeck",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Palmeri",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dassler-Alfheim",
+     "role": "cosponsor"
+    },
+    {
+     "name": "L. Johnson",
+     "role": "cosponsor"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+   "last_action_date": "2026-03-23",
+   "introduced": "2025-10-15",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential vote",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option",
+      "study_commission"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "surplus votes"
+     ],
+     "subtags": [
+      "congressional",
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  }
+ ]
+}
