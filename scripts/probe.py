@@ -15,35 +15,23 @@ os.makedirs(OUT, exist_ok=True)
 UA = {"User-Agent": "Mozilla/5.0 (compatible; future-of-democracy-tracker/0.1; +https://github.com/MoveBeyondFPTP/Future-of-democracy)"}
 
 URLS = {
-    # Massachusetts
-    "ma_courts": "https://malegislature.gov/api/GeneralCourts",
-    "ma_docs_list": "https://malegislature.gov/api/GeneralCourts/194/Documents",
-    "ma_doc_h1": "https://malegislature.gov/api/GeneralCourts/194/Documents/H1",
-    "ma_doc_s1": "https://malegislature.gov/api/GeneralCourts/194/Documents/S1",
-    "ma_doc_h1_history": "https://malegislature.gov/api/GeneralCourts/194/Documents/H1/DocumentHistoryActions",
-    "ma_bill_html": "https://malegislature.gov/Bills/194/H1.Html",
-    "ma_search": "https://malegislature.gov/Bills/Search?SearchTerms=%22ranked+choice%22&Page=1",
-    # Virginia
-    "va_bills_2026": "https://lis.blob.core.windows.net/lisfiles/20261/BILLS.CSV",
-    "va_summaries_2026": "https://lis.blob.core.windows.net/lisfiles/20261/Summaries.csv",
-    "va_history_2026": "https://lis.blob.core.windows.net/lisfiles/20261/HISTORY.CSV",
-    "va_sponsors_2026": "https://lis.blob.core.windows.net/lisfiles/20261/Sponsors.csv",
-    "va_bills_2027": "https://lis.blob.core.windows.net/lisfiles/20271/BILLS.CSV",
-    # Maryland
-    "md_json_2026": "https://mgaleg.maryland.gov/2026RS/misc/billsmasterlist/legislation.json",
-    "md_json_2027": "https://mgaleg.maryland.gov/2027RS/misc/billsmasterlist/legislation.json",
-    # Minnesota
-    "mn_service": "https://www.revisor.mn.gov/bills/service.php",
+    # Minnesota (official XML API)
+    "mn_search_xml": "https://www.revisor.mn.gov/bills/status_result.php?body=House&search=basic&session=0942025&location=House&bill=1-30&bill_type=bill&rev_number=&submit_bill=GO&keyword_type=all&keyword=&keyword_field_text=1&titleword=&format=xml",
+    "mn_detail_xml": "https://api.revisor.mn.gov/bills/v1/94/2025/0/HF/10/",
+    "mn_search_big": "https://www.revisor.mn.gov/bills/status_result.php?body=Senate&search=basic&session=0942025&location=Senate&bill=1-5000&bill_type=bill&rev_number=&submit_bill=GO&keyword_type=all&keyword=&keyword_field_text=1&titleword=&format=xml",
     # North Carolina
-    "nc_feed_h": "https://www.ncleg.gov/Legislation/Bills/FiledBillsFeed/2025/H",
+    "nc_bill": "https://www.ncleg.gov/BillLookUp/2025/H1246",
+    "nc_feed_s": "https://www.ncleg.gov/Legislation/Bills/FiledBillsFeed/2025/S",
     # Wisconsin
-    "wi_list": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill",
+    "wi_bill": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab89",
+    "wi_feed": "https://docs.legis.wisconsin.gov/feed/2025/proposals",
     # Colorado
-    "co_bill": "https://leg.colorado.gov/bills/HB26-1362",
+    "co_search": "https://leg.colorado.gov/bills/bill-search",
+    "co_search_q": "https://leg.colorado.gov/bills/bill-search?session=2026A&page=1",
+    "co_api_guess": "https://leg.colorado.gov/api/bills?session=2026A",
     # Michigan
-    "mi_search": "https://legislature.mi.gov/Search/ExecuteSearch?chamber=&docTypesList=HB%2CSB&sessions=2025-2026&sponsor=&number=&dateFrom=&dateTo=&contentFullText=ranked+choice",
-    # Georgia
-    "ga_leg": "https://www.legis.ga.gov/legislation/all",
+    "mi_all": "https://legislature.mi.gov/Search/ExecuteSearch?chamber=&docTypesList=HB%2CSB&docTypesList=HJR%2CSJR&sessions=2025-2026&sponsor=&number=&dateFrom=&dateTo=&contentFullText=",
+    "mi_bill": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4707",
 }
 
 
@@ -66,44 +54,29 @@ for name, url in URLS.items():
     except Exception as e:  # noqa: BLE001
         report[name] = {"url": url, "error": repr(e)}
 
-# Texas FTP
+# Georgia: the site's own API, with the token its web pages request
 try:
-    ftp = ftplib.FTP("ftp.legis.state.tx.us", timeout=60)
-    ftp.login()
-    listing = {}
-    for d in ["/bills", "/bills/89R", "/bills/90R", "/bills/89R/billhistory",
-              "/bills/89R/billhistory/house_bills", "/bills/89R/billhistory/house_bills/HB00001_HB00099"]:
-        lines = []
-        try:
-            ftp.retrlines(f"LIST {d}", lines.append)
-        except Exception as e:  # noqa: BLE001
-            lines = [repr(e)]
-        listing[d] = lines[:200]
-    for fname in ["/bills/89R/billhistory/history.xml"]:
-        buf = bytearray()
-        try:
-            ftp.retrbinary(f"RETR {fname}", buf.extend)
-            save("tx_history_index", bytes(buf[:2_000_000]), "xml")
-            report["tx_history_index"] = {"bytes": len(buf)}
-        except Exception as e:  # noqa: BLE001
-            report["tx_history_index"] = {"error": repr(e)}
-    # one bill history file
+    import hashlib, time as _t
+    ts = str(int(_t.time() * 1000))
+    key = hashlib.sha512(("QFpCwKfd7" + "fjVEXFFwSu36BwwcP83xYgxLAhLYmKk" + "letvarconst" + ts).encode()).hexdigest()
+    tok = requests.get(f"https://www.legis.ga.gov/api/authentication/token?key={key}&ms={ts}", headers=UA, timeout=60).json()
+    H = {**UA, "Authorization": "Bearer " + tok, "Content-Type": "application/json"}
+    sess = requests.get("https://www.legis.ga.gov/api/sessions", headers=H, timeout=60)
+    save("ga_sessions", sess.content, "txt")
+    srch = requests.post("https://www.legis.ga.gov/api/Legislation/Search/20/0", json={"sessionId": 1033}, headers=H, timeout=60)
+    save("ga_search", srch.content, "txt")
     try:
-        names = [l.split()[-1] if " " not in l.split(None, 3)[-1] else l.split(None, 3)[-1] for l in listing["/bills/89R/billhistory/house_bills/HB00001_HB00099"]]
-        listing["_parsed_names"] = names[:10]
-        lines = listing["/bills/89R/billhistory/house_bills/HB00001_HB00099"]
-        first = lines[0].split(None, 3)[-1].strip() if lines else None
-        if first:
-            buf = bytearray()
-            ftp.retrbinary(f"RETR /bills/89R/billhistory/house_bills/HB00001_HB00099/{first}", buf.extend)
-            save("tx_bill_history_sample", bytes(buf), "xml")
-    except Exception:  # noqa: BLE001
-        listing["_sample_error"] = traceback.format_exc()
-    ftp.quit()
-    save("tx_ftp_listing", json.dumps(listing, indent=1), "json")
-    report["tx_ftp"] = "ok"
-except Exception:  # noqa: BLE001
-    report["tx_ftp"] = traceback.format_exc()
+        lid = srch.json()["results"][0]["id"]
+    except Exception:
+        lid = None
+    for nm, url in [("ga_detail", f"https://www.legis.ga.gov/api/legislation/detail/{lid}"),
+                    ("ga_detail2", f"https://www.legis.ga.gov/api/Legislation/{lid}")]:
+        rr = requests.get(url, headers=H, timeout=60)
+        save(nm, rr.content, "txt")
+        report[nm] = {"status": rr.status_code, "bytes": len(rr.content)}
+    report["ga"] = {"token": bool(tok), "sessions": sess.status_code, "search": srch.status_code}
+except Exception:
+    report["ga"] = traceback.format_exc()
 
 save("_report", json.dumps(report, indent=1), "json")
 print(json.dumps(report, indent=1))
