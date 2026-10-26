@@ -194,7 +194,7 @@ def _attach_text(bill: dict, texts: dict) -> dict:
 
 def _text_categories(ctx: Context, url: str) -> dict:
     try:
-        return ctx.classify(strip_html(ctx.client.get_text(url)))
+        return ctx.classify_body(strip_html(ctx.client.get_text(url)))
     except Exception as e:  # noqa: BLE001
         ctx.warn(f"text {url}: {e}")
         return {}

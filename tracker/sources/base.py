@@ -32,6 +32,11 @@ class Context:
     def classify(self, text: str, lead: str = "") -> dict:
         return classify_text(text, self.categories, lead)
 
+    def classify_body(self, text: str) -> dict:
+        """Classify full bill text: only strong terms count, because long texts
+        mention weak terms (at-large, demographic data...) in passing."""
+        return classify_text(text, self.categories, "", allow_weak=False)
+
     def screen(self, text: str) -> bool:
         """True if a bill looks election-related enough to be worth a
         closer (more expensive) look: detail page, full text."""

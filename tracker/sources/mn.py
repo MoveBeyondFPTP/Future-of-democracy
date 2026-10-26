@@ -98,7 +98,7 @@ def scrape(session: dict, ctx: Context) -> list[dict]:
                     bill["companion"] = d["companion"]
             if r["text"] and r["text"] not in texts:
                 try:
-                    texts[r["text"]] = ctx.classify(strip_html(ctx.client.get_text(r["text"])))
+                    texts[r["text"]] = ctx.classify_body(strip_html(ctx.client.get_text(r["text"])))
                 except Exception as e:  # noqa: BLE001
                     ctx.warn(f"text {num}: {e}")
                     texts[r["text"]] = {}

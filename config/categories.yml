@@ -37,7 +37,7 @@ categories:
       - '\balternative vote\b'
       - '\bsingle[- ]transferable[- ]vote'
       - '\bstv\b'
-      - '\bfinal[- ](four|five)\b'
+      - '\bfinal[- ](four|five) (vot|primar|election|system|ballot)'
       - '\btop[- ](four|five)\b (primar|election|system)'
       - '\bsequential run[- ]?off'
       - '\bmulti[- ]?round tabulation'
@@ -193,9 +193,10 @@ categories:
       Representation Act concept, and proportional allocation of electoral
       votes.
     strong:
-      - '\bproportional(ly)? represent'
+      - '\bproportional(ly)? represent\w*\b.{0,150}\b(elect|vot|ballot|seats? (in|on|of) the (house|senate|legislature|council))'
+      - '\b(elect|vot|ballot)\w*\b.{0,150}\bproportional(ly)? represent'
       - '\bproportional ranked[- ]?choice'
-      - '\bproportional (vot|elect|system|method)'
+      - '\bproportional (election|electoral system|voting system|voting method)'
       - '\bsingle[- ]transferable[- ]vote'
       - '\bmulti[- ]?member (district|ward|seat)s?'
       - '\bmulti[- ]?winner'
@@ -247,6 +248,8 @@ categories:
       ban:
         - '\b(prohibit|ban|bar|preclude)\w*\b.{0,80}\b(proportional|multi[- ]?member|cumulative|limited voting|multi[- ]?winner)'
     exclude:
+      - '\b(shareholder|stockholder|director|corporat|cooperative|association member)\w*\b.{0,160}\bcumulative voting'
+      - '\bcumulative voting\b.{0,160}\b(shareholder|stockholder|director|corporat)'
       - '\bproportional(ly)? (share|reduction|increase|amount|basis|payment|tax|fund|allocation of (fund|cost|revenue|aid))'
       - '\bproportionate share'
       - '\b(delegate|delegates)\b.{0,60}\bproportional'      # party convention delegate rules

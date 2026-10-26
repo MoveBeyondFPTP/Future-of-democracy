@@ -111,7 +111,7 @@ def scrape(session: dict, ctx: Context) -> list[dict]:
                 t = d["text_url"]
                 if t and t not in texts:
                     try:
-                        texts[t] = ctx.classify(strip_html(ctx.client.get_text(t)))
+                        texts[t] = ctx.classify_body(strip_html(ctx.client.get_text(t)))
                     except Exception as e:  # noqa: BLE001
                         ctx.warn(f"text {obj}: {e}")
                         texts[t] = {}

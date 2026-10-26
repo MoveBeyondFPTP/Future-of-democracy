@@ -102,7 +102,8 @@ def _fetch_detail(ctx: Context, d: dict, gc: str, num: str) -> dict | None:
     summary = strip_html(j.get("Pinslip"))
     text = strip_html(j.get("DocumentText"))
     title = j.get("Title") or d.get("Title") or ""
-    cats = ctx.classify(" ".join([title, summary, text]))
+    cats = ctx.classify(" ".join([title, summary])) or {}
+    cats = ctx.merge(cats, ctx.classify_body(text)) if text else cats
     out = {
         "fetched": time.time(),
         "summary": summary,

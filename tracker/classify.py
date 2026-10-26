@@ -88,7 +88,7 @@ def _hits(text: str, patterns, limit: int = 6):
     return found
 
 
-def classify_text(text: str, categories: list[Category], lead: str = "") -> dict:
+def classify_text(text: str, categories: list[Category], lead: str = "", allow_weak: bool = True) -> dict:
     """Return {category_key: {level, terms, subtags}} for categories that hit.
 
     Sub-tags (ban, adoption, ...) are read from `lead` (title and the start of
@@ -106,7 +106,7 @@ def classify_text(text: str, categories: list[Category], lead: str = "") -> dict
         terms = strong
         if strong:
             level = "match"
-        else:
+        elif allow_weak:
             weak = _hits(t, cat.weak)
             if weak and any(rx.search(t) for _, rx in cat.context):
                 level = "possible"
