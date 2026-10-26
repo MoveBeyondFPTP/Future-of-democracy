@@ -1,0 +1,252 @@
+# Bill categories and matching rules for the legislative tracker.
+#
+# How matching works (applied to bill title, official summary/digest, and
+# full text when available; case-insensitive; hyphens, en-dashes and spaces
+# are treated as interchangeable, so "ranked-choice" = "ranked choice"):
+#
+#   strong:   any single match flags the bill for the category.
+#   weak:     a match counts only if a `context` term also appears in the
+#             same bill. Catches technical bill language without flooding
+#             the tracker with unrelated election bills.
+#   exclude:  if the ONLY matches come from text listed here, the bill is
+#             dropped (e.g. a passing citation of the federal VRA).
+#   subtags:  auto-applied labels inside a category (you can edit or
+#             override them on any bill in the app).
+#
+# Patterns are regular expressions. \b = word boundary, [- ]? = optional
+# hyphen or space, s? = optional plural.
+
+categories:
+
+  # ---------------------------------------------------------------------------
+  rcv:
+    name: Ranked choice voting
+    description: >
+      Adopting, expanding, studying, regulating, or banning ranked choice
+      voting and its variants (instant runoff, single transferable vote,
+      top-four / final-five systems, ranked ballots for overseas voters).
+    strong:
+      - '\branked[- ]?choice'
+      - '\brank[- ]?choice'
+      - '\branked[- ]?ballot'
+      - '\branked[- ]?vot(e|ing)'
+      - '\brcv\b'
+      - '\binstant[- ]?run[- ]?off'
+      - '\birv\b'
+      - '\bpreferential (vot(e|ing)|ballot)'
+      - '\balternative vote\b'
+      - '\bsingle[- ]transferable[- ]vote'
+      - '\bstv\b'
+      - '\bfinal[- ](four|five)\b'
+      - '\btop[- ](four|five)\b (primar|election|system)'
+      - '\bsequential run[- ]?off'
+      - '\bmulti[- ]?round tabulation'
+      - '\bcontingent vote'
+      - '\bbucklin\b'
+      - '\bborda count'
+      - '\bcondorcet\b'
+      # Frequent in "ban" bills, which often outlaw several methods at once
+      - '\bapproval voting'
+      - '\bstar voting'
+      - '\bscore voting'
+    weak:
+      - '\brank(s|ed|ing)? (the |all |each )?candidates'
+      - '\branking of candidates'
+      - '\bin order of (their )?preference'
+      - '\border of preference'
+      - '\b(first|second|third|next)[- ](choice|preference|ranked)'
+      - '\bhighest[- ]ranked'
+      - '\bcontinuing candidate'
+      - '\bexhausted ballot'
+      - '\binactive ballot'
+      - '\b(tabulation|counting) round'
+      - '\bround(s)? of tabulation'
+      - '\bbatch elimination'
+      - '\blast[- ]place candidate'
+      - '\bcandidate with the fewest votes'
+      - '\beliminat(e|ed|ion) of (the )?candidate'
+      - '\btransfer(red)? (of )?votes'
+      - '\bmajority of (the )?(continuing )?ballots'
+      - '\bspecial absentee (runoff )?ballot'      # overseas ranked ballots (AL, AR, GA, LA, MS, SC)
+      - '\buocava\b.*\brank'
+      - '\bnonpartisan (top|blanket|open) primary'
+      - '\bunified primary'
+      - '\bplurality (winner|vote|voting)'
+    context:
+      - '\belection'
+      - '\bballot'
+      - '\bvot(e|er|ing)'
+      - '\bprimar(y|ies)'
+    subtags:
+      ban:
+        - '\b(prohibit|ban|bar|preclude|disallow)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
+        - '\b(ranked|instant|rcv|preferential)\w*.{0,80}\b(prohibited|may not be used|shall not be used|is not permitted)'
+        - '\brepeal\w*\b.{0,80}\b(ranked|instant|rcv|final[- ]five|top[- ]four)'
+      adoption:
+        - '\b(establish|adopt|authoriz|implement|require|creat)\w*\b.{0,80}\b(ranked|instant|rcv|preferential)'
+      local_option:
+        - '\b(municipalit|cit(y|ies)|count(y|ies)|local (government|jurisdiction)|home rule|charter)\w*\b.{0,120}\b(ranked|instant|rcv)'
+      primaries:
+        - '\b(presidential |party )?primar(y|ies)\b.{0,80}\b(ranked|instant|rcv)'
+      overseas_military:
+        - '\b(uocava|overseas|military|uniformed services)\b.{0,120}\b(ranked|instant|special absentee)'
+      study_commission:
+        - '\b(study|task force|commission|pilot|working group|report)\b.{0,80}\b(ranked|instant|rcv|voting method)'
+      top_four_five:
+        - '\b(final|top)[- ](four|five)\b'
+      constitutional_amendment:
+        - '\b(joint resolution|constitutional amendment|amend(ing)? the constitution)'
+    exclude:
+      - '\branked (by|in order of) (priority|seniority|score)'
+      - '\bpreferential (treatment|rate|tax|purchas|procurement|hiring|claim|transfer)'
+      - '\bstv\b.{0,20}\b(television|tv)'
+      - '\bconsumer (choice|preference)'
+
+  # ---------------------------------------------------------------------------
+  svra:
+    name: State voting rights acts
+    description: >
+      State-level voting rights acts and their components: vote-dilution
+      causes of action, racially polarized voting, at-large to district
+      conversions, state preclearance, language assistance, election data
+      repositories, and bills repealing or limiting existing state VRAs.
+    strong:
+      - '\b(state |[a-z]+ )?voting rights act of\b'            # "...Voting Rights Act of Colorado"
+      - '\b[a-z]+ voting rights act\b(?! of 1965)'             # "Michigan Voting Rights Act"
+      - '\bjohn r(\.|obert)? lewis voting rights'
+      - '\bvote dilution'
+      - '\bdilut(e|es|ed|ing|ion) (the )?(vot|electoral|voting strength)'
+      - '\bracially polarized voting'
+      - '\bpolarized voting'
+      - '\bvoter suppression'
+      - '\bpreclearance'
+      - '\bcovered jurisdiction'
+      - '\blanguage[- ]minority'
+      - '\bimpair the (ability|opportunity) of (members of )?a protected class'
+      - '\bprotected class\b.{0,120}\b(elect|vot)'
+      - '\bopportunity to elect candidates of (their|its) choice'
+      - '\bcandidates of choice'
+      - '\bvoting rights (database|data|repository|institute|clinic)'
+      - '\bstatewide (election )?(database|repository)\b.{0,60}\b(elect|vot)'
+      - '\bright to vote\b.{0,80}\b(cause of action|private right of action|civil action)'
+    weak:
+      - '\bat[- ]large (method|system|election)s?'
+      - '\bdistrict[- ]based (method|election)s?'
+      - '\bmethod of election'
+      - '\bsection 2\b'
+      - '\bshelby county'
+      - '\bgingles\b'
+      - '\bminority (vot|group|communit)'
+      - '\bprotected class'
+      - '\btotality of (the )?circumstances'
+      - '\bdemographic (data|information)'
+      - '\bpolling place (closure|consolidation|relocation|change)'
+      - '\bvoter intimidation'
+      - '\bdeceptive (practices|election)'
+      - '\btranslated (ballot|election material)s?'
+      - '\bbilingual (ballot|election)'
+      - '\btribal (vot|reservation|nation)'
+      - '\bcivil rights\b'
+    context:
+      - '\belection'
+      - '\bvot(e|er|ing)'
+      - '\bballot'
+      - '\bpolitical subdivision'
+    subtags:
+      comprehensive_svra:
+        - '\bvoting rights act\b(?! of 1965)'
+        - '\bjohn r(\.|obert)? lewis'
+      dilution_cause_of_action:
+        - '\b(vote dilution|polarized voting|cause of action|civil action)'
+      preclearance:
+        - '\b(preclearance|covered jurisdiction)'
+      language_access:
+        - '\b(language[- ]minority|translated|bilingual|language assistance)'
+      data_repository:
+        - '\b(database|repository|data center|institute)\b.{0,60}\b(vot|elect)'
+      at_large_conversion:
+        - '\bat[- ]large\b.{0,80}\bdistrict'
+      repeal_or_limit:
+        - '\b(repeal|limit|restrict|narrow)\w*\b.{0,80}\bvoting rights act\b(?! of 1965)'
+      constitutional_amendment:
+        - '\b(joint resolution|constitutional amendment|amend(ing)? the constitution)'
+    exclude:
+      # Passing citations of the federal law alone don't make a bill an SVRA
+      - '\bvoting rights act of 1965'
+      - '\b52 u\.?s\.?c\.?'
+      - '\b(federal|national) voting rights act'
+      - '\bprotected class\b.{0,120}\b(employ|hous|lend|insur|school|hate crime)'
+      - '\bcivil rights\b.{0,80}\b(employ|hous|accommodation|education)'
+
+  # ---------------------------------------------------------------------------
+  pr:
+    name: Proportional representation
+    description: >
+      Multi-winner and proportional election systems: proportional RCV /
+      single transferable vote, multi-member districts, party-list and
+      mixed-member systems, cumulative and limited voting, the Fair
+      Representation Act concept, and proportional allocation of electoral
+      votes.
+    strong:
+      - '\bproportional(ly)? represent'
+      - '\bproportional ranked[- ]?choice'
+      - '\bproportional (vot|elect|system|method)'
+      - '\bsingle[- ]transferable[- ]vote'
+      - '\bmulti[- ]?member (district|ward|seat)s?'
+      - '\bmulti[- ]?winner'
+      - '\bmulti[- ]?seat (district|election|race)s?'
+      - '\bparty[- ]list'
+      - '\b(open|closed) list (system|proportional|ballot)'
+      - '\bmixed[- ]member'
+      - '\bmmp\b'
+      - '\bcumulative voting'
+      - '\blimited voting'
+      - '\bfair representation act'
+      - '\bdroop quota'
+      - '\bhare quota'
+      - '\b(weighted inclusive )?gregory method'
+      - '\bsurplus (vote )?transfer'
+      - '\bfractional transfer'
+      - '\b(d.hondt|sainte[- ]lagu|webster) method'
+      - '\bproportional(ly)? (allocat|award|distribut)\w*\b.{0,60}\belector'
+      - '\belector\w*\b.{0,60}\bproportional'
+      - '\bcongressional district method'
+    weak:
+      - '\bquota\b'
+      - '\bsurplus votes?'
+      - '\b(two|three|four|five|2|3|4|5)[- ]member district'
+      - '\bat[- ]large (seats?|members?)\b'
+      - '\bseats? in proportion to'
+      - '\bin proportion to (the )?(votes|share of)'
+      - '\bshare of (the )?(popular )?vote'
+      - '\belect(s|ed)? (more than one|two or more|multiple) (members|candidates|representatives|commissioners|council)'
+      - '\bnumber of (seats|offices) to be filled'
+    context:
+      - '\belection'
+      - '\bvot(e|er|ing)'
+      - '\bballot'
+      - '\b(legislat|council|commission|board|congressional|house of representatives|senate)'
+    subtags:
+      stv_proportional_rcv:
+        - '\b(single[- ]transferable|proportional ranked|droop|surplus transfer|multi[- ]?winner ranked)'
+      multi_member_districts:
+        - '\bmulti[- ]?member'
+        - '\b(two|three|four|five|2|3|4|5)[- ]member district'
+      party_list_mixed:
+        - '\b(party[- ]list|mixed[- ]member|mmp|open list|closed list)'
+      semi_proportional:
+        - '\b(cumulative|limited) voting'
+      congressional:
+        - '\b(congress|u\.?s\.? house|house of representatives)'
+      electoral_college:
+        - '\belector(s|al)\b'
+      local_government:
+        - '\b(municipalit|cit(y|ies)|count(y|ies)|school board|council)\w*'
+      ban:
+        - '\b(prohibit|ban|bar|preclude)\w*\b.{0,80}\b(proportional|multi[- ]?member|cumulative|limited voting|multi[- ]?winner)'
+    exclude:
+      - '\bproportional(ly)? (share|reduction|increase|amount|basis|payment|tax|fund|allocation of (fund|cost|revenue|aid))'
+      - '\bproportionate share'
+      - '\b(delegate|delegates)\b.{0,60}\bproportional'      # party convention delegate rules
+      - '\bquota\b.{0,40}\b(fish|catch|harvest|hunt|import|sales|production|water|permit|license)'
+      - '\bmulti[- ]?member (llc|limited liability|board of directors|partnership|household)'
