@@ -1,0 +1,1382 @@
+{
+ "state": "MI",
+ "name": "Michigan",
+ "generated": "2026-10-26T06:06:05Z",
+ "bills": [
+  {
+   "id": "mi-2025-2026-SB964",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "SB 964",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Elections: voting procedures; voter access and assistance provisions; provide for. Amends secs. 726, 736 & 751 of 1954 PA 116 (MCL 168.726 et seq.); adds secs. 653c, 653d, 653e, 726a & 753a & repeals sec. 579 of 1954 PA 116 (MCL 168.579). TIE BAR WITH: SB 0961'26, SB 0963'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0964",
+   "status": "passed_one",
+   "actions": [
+    {
+     "date": "2026-05-13",
+     "chamber": "Senate",
+     "text": "INTRODUCED BY SENATOR ERIKA GEISS"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "Senate",
+     "text": "REFERRED TO COMMITTEE ON ELECTIONS AND ETHICS"
+    },
+    {
+     "date": "2026-05-20",
+     "chamber": "Senate",
+     "text": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW"
+    },
+    {
+     "date": "2026-05-27",
+     "chamber": "Senate",
+     "text": "REPORTED FAVORABLY WITHOUT AMENDMENT 5/20/2026"
+    },
+    {
+     "date": "2026-05-27",
+     "chamber": "Senate",
+     "text": "REFERRED TO COMMITTEE OF THE WHOLE"
+    },
+    {
+     "date": "2026-06-04",
+     "chamber": "Senate",
+     "text": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITHOUT AMENDMENT(S)"
+    },
+    {
+     "date": "2026-06-04",
+     "chamber": "Senate",
+     "text": "PLACED ON ORDER OF THIRD READING"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "AMENDMENT(S) DEFEATED"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "PASSED ROLL CALL # 126 YEAS 20 NAYS 17 EXCUSED 1 NOT VOTING 0"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "received on 06/16/2026"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "referred to Committee on Election Integrity"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Erika Geiss",
+     "role": "primary"
+    },
+    {
+     "name": "Darrin Camilleri",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephanie Chang",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jeremy Moss",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sylvia A. Santana",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mary Cavanagh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sam Singh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sue Shink",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Veronica Klinefelt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dayna Polehanki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Winnie Brinks",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jeff Irwin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Paul Wojno",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rosemary Bayer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Cherry",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kevin Hertel",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sarah Anthony",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mallory McMorrow",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0964.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "referred to Committee on Election Integrity",
+   "last_action_date": "2026-06-16",
+   "introduced": "2026-05-13",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "state voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "language_access",
+      "at_large_conversion"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-SB962",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "SB 962",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Elections: other; voting and elections database and institute act; create. Creates new act. TIE BAR WITH: SB 0961'26, SB 0963'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0962",
+   "status": "passed_one",
+   "actions": [
+    {
+     "date": "2026-05-13",
+     "chamber": "Senate",
+     "text": "INTRODUCED BY SENATOR JEREMY MOSS"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "Senate",
+     "text": "REFERRED TO COMMITTEE ON ELECTIONS AND ETHICS"
+    },
+    {
+     "date": "2026-05-20",
+     "chamber": "Senate",
+     "text": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW"
+    },
+    {
+     "date": "2026-05-27",
+     "chamber": "Senate",
+     "text": "REPORTED FAVORABLY WITHOUT AMENDMENT 5/20/2026"
+    },
+    {
+     "date": "2026-05-27",
+     "chamber": "Senate",
+     "text": "REFERRED TO COMMITTEE OF THE WHOLE"
+    },
+    {
+     "date": "2026-06-04",
+     "chamber": "Senate",
+     "text": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITHOUT AMENDMENT(S)"
+    },
+    {
+     "date": "2026-06-04",
+     "chamber": "Senate",
+     "text": "PLACED ON ORDER OF THIRD READING"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "Senate",
+     "text": "PASSED ROLL CALL # 122 YEAS 20 NAYS 17 EXCUSED 1 NOT VOTING 0"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "received on 06/16/2026"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2026-06-16",
+     "chamber": "House",
+     "text": "referred to Committee on Election Integrity"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Jeremy Moss",
+     "role": "primary"
+    },
+    {
+     "name": "Darrin Camilleri",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Geiss",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephanie Chang",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sylvia A. Santana",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sam Singh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mary Cavanagh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sue Shink",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Veronica Klinefelt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dayna Polehanki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Winnie Brinks",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jeff Irwin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Paul Wojno",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rosemary Bayer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Cherry",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kevin Hertel",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sean McCann",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sarah Anthony",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mallory McMorrow",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0962.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "referred to Committee on Election Integrity",
+   "last_action_date": "2026-06-16",
+   "introduced": "2026-05-13",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "language minority",
+      "minority group"
+     ],
+     "subtags": [
+      "language_access",
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-HB5972",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "HB 5972",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections: voting procedures; voter access and assistance provisions; provide for. Amends secs. 726, 736 & 751 of 1954 PA 116 (MCL 168.726 et seq.); adds secs. 653c, 653d, 653e, 726a & 753a & repeals sec. 579 of 1954 PA 116 (MCL 168.579). TIE BAR WITH: HB 5969'26, HB 5971'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5972",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "introduced by Representative Rep. Tonya Myers Phillips"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "referred to Committee on Government Operations"
+    },
+    {
+     "date": "2026-05-14",
+     "chamber": "House",
+     "text": "bill electronically reproduced 05/13/2026"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Tonya Phillips",
+     "role": "primary"
+    },
+    {
+     "name": "Reggie Miller",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Penelope Tsernoglou",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mike McFall",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Veronica Paiz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephen Wooden",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie Price",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Will Snyder",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Laurie Pohutsky",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Julie Brixie",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sharon MacDonell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kelly Breen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kristian Grant",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Morgan Foreman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jimmie Wilson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jasper Martus",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Noah Arbit",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amos O'Neal",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Samantha Steckloff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cynthia Neeley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carrie Rheingans",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephanie Young",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brenda Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Regina Weiss",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dylan Wegela",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Helena Scott",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phil Skaggs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Donavan McKinney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erin Byrnes",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tyrone Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carol Glanville",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mai Xiong",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joseph Tate",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason Morgan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Julie Rogers",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason Hoskins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Fitzgerald",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5972.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "bill electronically reproduced 05/13/2026",
+   "last_action_date": "2026-05-14",
+   "introduced": "2026-05-13",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "state voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "language_access",
+      "at_large_conversion"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-HB5971",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "HB 5971",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections: voters; language assistance for elections act; create. Creates new act. TIE BAR WITH: HB 5969'26, HB 5970'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5971",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "introduced by Representative Rep. Veronica Paiz"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "referred to Committee on Government Operations"
+    },
+    {
+     "date": "2026-05-14",
+     "chamber": "House",
+     "text": "bill electronically reproduced 05/13/2026"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Veronica Paiz",
+     "role": "primary"
+    },
+    {
+     "name": "Jason Hoskins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Penelope Tsernoglou",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Reggie Miller",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mike McFall",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tonya Phillips",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephen Wooden",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie Price",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Will Snyder",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Laurie Pohutsky",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Julie Brixie",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sharon MacDonell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kristian Grant",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kelly Breen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Morgan Foreman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jimmie Wilson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Noah Arbit",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jasper Martus",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amos O'Neal",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cynthia Neeley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Samantha Steckloff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carrie Rheingans",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephanie Young",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brenda Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Regina Weiss",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Helena Scott",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phil Skaggs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dylan Wegela",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Donavan McKinney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erin Byrnes",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tyrone Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carol Glanville",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mai Xiong",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joseph Tate",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason Morgan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Fitzgerald",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5971.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "bill electronically reproduced 05/13/2026",
+   "last_action_date": "2026-05-14",
+   "introduced": "2026-05-13",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "state voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "dilution_cause_of_action",
+      "language_access",
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-HB5970",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "HB 5970",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections: other; voting and elections database and institute act; create. Creates new act & repeals 1969 PA 161 (MCL 691.1031). TIE BAR WITH: HB 5969'26, HB 5971'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5970",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "introduced by Representative Rep. Stephanie Young"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "referred to Committee on Government Operations"
+    },
+    {
+     "date": "2026-05-14",
+     "chamber": "House",
+     "text": "bill electronically reproduced 05/13/2026"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Stephanie Young",
+     "role": "primary"
+    },
+    {
+     "name": "Jason Hoskins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Penelope Tsernoglou",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Reggie Miller",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mike McFall",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Veronica Paiz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tonya Phillips",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephen Wooden",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie Price",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Will Snyder",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Laurie Pohutsky",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Julie Brixie",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kelly Breen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sharon MacDonell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Morgan Foreman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kristian Grant",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jasper Martus",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jimmie Wilson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Noah Arbit",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amos O'Neal",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Samantha Steckloff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cynthia Neeley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carrie Rheingans",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brenda Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Regina Weiss",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dylan Wegela",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Helena Scott",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phil Skaggs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Donavan McKinney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erin Byrnes",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tyrone Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carol Glanville",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mai Xiong",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joseph Tate",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason Morgan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Fitzgerald",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5970.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "bill electronically reproduced 05/13/2026",
+   "last_action_date": "2026-05-14",
+   "introduced": "2026-05-13",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "language minority",
+      "minority group"
+     ],
+     "subtags": [
+      "language_access",
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-HB5969",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "HB 5969",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections: voters; state voting rights act; create. Creates new act. TIE BAR WITH: HB 5970'26, HB 5971'26, HB 5972'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5969",
+   "status": "committee",
+   "actions": [
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "introduced by Representative Rep. Jason Hoskins"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2026-05-13",
+     "chamber": "House",
+     "text": "referred to Committee on Government Operations"
+    },
+    {
+     "date": "2026-05-14",
+     "chamber": "House",
+     "text": "bill electronically reproduced 05/13/2026"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Jason Hoskins",
+     "role": "primary"
+    },
+    {
+     "name": "Penelope Tsernoglou",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Reggie Miller",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mike McFall",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Veronica Paiz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tonya Phillips",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephen Wooden",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie Price",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Will Snyder",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Laurie Pohutsky",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Julie Brixie",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sharon MacDonell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kristian Grant",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kelly Breen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Morgan Foreman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jimmie Wilson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Noah Arbit",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jasper Martus",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amos O'Neal",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Samantha Steckloff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cynthia Neeley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carrie Rheingans",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephanie Young",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brenda Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Regina Weiss",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Helena Scott",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phil Skaggs",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dylan Wegela",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Donavan McKinney",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erin Byrnes",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tyrone Carter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carol Glanville",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mai Xiong",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joseph Tate",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason Morgan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Fitzgerald",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5969.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "bill electronically reproduced 05/13/2026",
+   "last_action_date": "2026-05-14",
+   "introduced": "2026-05-13",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "diluting the vot",
+      "polarized voting",
+      "protected class diverges from the candidate or electoral choice preferred by other electors. (k) \"vote\" or \"vot",
+      "racially polarized voting",
+      "state voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra"
+     ]
+    },
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": []
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "limited voting",
+      "proportional ranked-choice"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-HB4707",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "HB 4707",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections: voting procedures; ranked choice voting; prohibit. Amends 1954 PA 116 (MCL 168.1 - 168.992) by adding sec. 642e.",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4707",
+   "status": "passed_one",
+   "actions": [
+    {
+     "date": "2025-07-01",
+     "chamber": "House",
+     "text": "introduced by Representative Rep. Rachelle Smit"
+    },
+    {
+     "date": "2025-07-01",
+     "chamber": "House",
+     "text": "read a first time"
+    },
+    {
+     "date": "2025-07-01",
+     "chamber": "House",
+     "text": "referred to Committee on Election Integrity"
+    },
+    {
+     "date": "2025-07-15",
+     "chamber": "House",
+     "text": "bill electronically reproduced 07/01/2025"
+    },
+    {
+     "date": "2025-08-19",
+     "chamber": "House",
+     "text": "reported with recommendation without amendment"
+    },
+    {
+     "date": "2025-08-19",
+     "chamber": "House",
+     "text": "referred to second reading"
+    },
+    {
+     "date": "2025-08-20",
+     "chamber": "House",
+     "text": "read a second time"
+    },
+    {
+     "date": "2025-08-20",
+     "chamber": "House",
+     "text": "placed on third reading"
+    },
+    {
+     "date": "2025-08-20",
+     "chamber": "House",
+     "text": "placed on immediate passage"
+    },
+    {
+     "date": "2025-08-20",
+     "chamber": "House",
+     "text": "read a third time"
+    },
+    {
+     "date": "2025-08-20",
+     "chamber": "House",
+     "text": "passed; given immediate effect Roll Call #177 Yeas 57 Nays 44 Excused 0 Not Voting 9"
+    },
+    {
+     "date": "2025-08-20",
+     "chamber": "House",
+     "text": "transmitted"
+    },
+    {
+     "date": "2025-08-26",
+     "chamber": "Senate",
+     "text": "PASSED BY HOUSE WITH IMMEDIATE EFFECT"
+    },
+    {
+     "date": "2025-08-26",
+     "chamber": "Senate",
+     "text": "REFERRED TO COMMITTEE ON ELECTIONS AND ETHICS"
+    }
+   ],
+   "sponsors": [
+    {
+     "name": "Rachelle Smit",
+     "role": "primary"
+    },
+    {
+     "name": "Alicia St. Germaine",
+     "role": "cosponsor"
+    },
+    {
+     "name": "David Martin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Thomas Kuhn",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joseph Fox",
+     "role": "cosponsor"
+    },
+    {
+     "name": "David Prestin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Parker Fairbairn",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Douglas Wozniak",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Josh Schriver",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pat Outman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Luke Meerman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Nancy Jenkins-Arno",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jennifer Wortz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jaime Greene",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tim Kelly",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Donni Steele",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason Woolford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joseph Pavlov",
+     "role": "cosponsor"
+    }
+   ],
+   "text_url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-4707.htm",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "REFERRED TO COMMITTEE ON ELECTIONS AND ETHICS",
+   "last_action_date": "2025-08-26",
+   "introduced": "2025-07-01",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mi-2025-2026-SB961",
+   "state": "MI",
+   "session": "2025-2026",
+   "session_name": "2025-2026 Session",
+   "number": "SB 961",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Elections: voters; state voting rights act; create. Creates new act & repeals 1969 PA 161 (MCL 691.1031). TIE BAR WITH: SB 0962'26, SB 0963'26, SB 0964'26",
+   "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0961",
+   "last_action": "referred to Committee on Election Integrity",
+   "status": "committee",
+   "summary": "",
+   "subjects": [],
+   "sponsors": [],
+   "actions": [],
+   "hearings": [],
+   "text_url": "",
+   "last_action_date": "",
+   "introduced": "",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "state voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra"
+     ]
+    }
+   }
+  }
+ ]
+}

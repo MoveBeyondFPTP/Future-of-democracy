@@ -1,0 +1,243 @@
+{
+ "MA": {
+  "name": "Massachusetts",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 11989,
+  "tracked": 161,
+  "sessions": {
+   "194": {
+    "bills": 11989,
+    "seconds": 294
+   },
+   "195": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 841,
+  "warnings": [
+   "detail H5658: HTTPSConnectionPool(host='malegislature.gov', port=443): Max retries exceeded with url: /api/GeneralCourts/194/Documents/H5658 (Caused by ResponseError('too many 500 error responses'))"
+  ]
+ },
+ "TX": {
+  "name": "Texas",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 5939,
+  "tracked": 8,
+  "sessions": {
+   "89R": {
+    "bills": 5939,
+    "seconds": 3013
+   },
+   "891": {
+    "bills": 0,
+    "seconds": 3
+   },
+   "892": {
+    "bills": 0,
+    "seconds": 3
+   },
+   "90R": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 0,
+  "warnings": []
+ },
+ "VA": {
+  "name": "Virginia",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 4408,
+  "tracked": 7,
+  "sessions": {
+   "20261": {
+    "bills": 3646,
+    "seconds": 10
+   },
+   "20262": {
+    "bills": 307,
+    "seconds": 1
+   },
+   "20271": {
+    "bills": 455,
+    "seconds": 2
+   }
+  },
+  "requests": 12,
+  "warnings": []
+ },
+ "MD": {
+  "name": "Maryland",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 2677,
+  "tracked": 10,
+  "sessions": {
+   "2026RS": {
+    "bills": 2677,
+    "seconds": 6
+   },
+   "2027RS": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 2,
+  "warnings": []
+ },
+ "CO": {
+  "name": "Colorado",
+  "last_run": "2026-10-26T06:06:05Z",
+  "last_success": "2026-10-26T06:06:05Z",
+  "ok": true,
+  "bills_total": 749,
+  "tracked": 3,
+  "sessions": {
+   "2025B": {
+    "bills": 35,
+    "seconds": 11
+   },
+   "2026A": {
+    "bills": 714,
+    "seconds": 156
+   },
+   "2027A": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 81,
+  "warnings": []
+ },
+ "MI": {
+  "name": "Michigan",
+  "last_run": "2026-10-26T06:06:05Z",
+  "last_success": "2026-10-26T06:06:05Z",
+  "ok": true,
+  "bills_total": 4237,
+  "tracked": 8,
+  "sessions": {
+   "2025-2026": {
+    "bills": 4237,
+    "seconds": 349
+   },
+   "2027-2028": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 459,
+  "warnings": [
+   "text 2025-HB-4977: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4977.htm",
+   "text 2025-HB-5032: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5032.htm",
+   "text 2025-HB-5035: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5035.htm",
+   "text 2025-HB-5037: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5037.htm",
+   "text 2025-HB-5038: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5038.htm",
+   "text 2025-HB-5215: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5215.htm",
+   "text 2025-HB-5300: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5300.htm",
+   "text 2025-HB-5434: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5434.htm",
+   "text 2026-SJR-I: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/Senate/htm/2026-SIJR-I.htm",
+   "text 2026-HJR-Q: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/House/htm/2026-HIJR-Q.htm",
+   "text 2026-HJR-R: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/House/htm/2026-HIJR-R.htm",
+   "text 2026-HJR-W: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/House/htm/2026-HIJR-W.htm",
+   "text 2026-SR-0125: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/Senate/htm/2026-SIR-0125.htm",
+   "text 2026-HR-0269: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0269.htm",
+   "text 2026-HR-0324: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0324.htm",
+   "text 2026-HR-0359: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0359.htm",
+   "text 2026-SB-0815: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0815.htm",
+   "text 2026-SB-0833: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0833.htm",
+   "text 2026-SB-0930: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0930.htm",
+   "text 2026-SB-0931: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0931.htm"
+  ]
+ },
+ "MN": {
+  "name": "Minnesota",
+  "last_run": "2026-10-26T06:06:05Z",
+  "last_success": "2026-10-26T06:06:05Z",
+  "ok": true,
+  "bills_total": 10581,
+  "tracked": 36,
+  "sessions": {
+   "0942025": {
+    "bills": 10581,
+    "seconds": 279
+   },
+   "0952027": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 904,
+  "warnings": []
+ },
+ "WI": {
+  "name": "Wisconsin",
+  "last_run": "2026-10-26T06:06:05Z",
+  "last_success": null,
+  "ok": false,
+  "bills_total": 0,
+  "tracked": 0,
+  "sessions": {
+   "2025": {
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9e1e0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+   },
+   "2027": {
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9ef00>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+   }
+  },
+  "requests": 2,
+  "warnings": []
+ },
+ "GA": {
+  "name": "Georgia",
+  "last_run": "2026-10-26T06:06:05Z",
+  "last_success": "2026-10-26T06:06:05Z",
+  "ok": true,
+  "bills_total": 5656,
+  "tracked": 2,
+  "sessions": {
+   "20252026": {
+    "bills": 5480,
+    "seconds": 100
+   },
+   "2026EX": {
+    "bills": 176,
+    "seconds": 4
+   },
+   "20272028": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 214,
+  "warnings": []
+ },
+ "NC": {
+  "name": "North Carolina",
+  "last_run": "2026-10-26T06:06:05Z",
+  "last_success": "2026-10-26T06:06:05Z",
+  "ok": true,
+  "bills_total": 2338,
+  "tracked": 17,
+  "sessions": {
+   "2025": {
+    "bills": 2338,
+    "seconds": 108
+   },
+   "2027": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 308,
+  "warnings": []
+ }
+}

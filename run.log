@@ -1,0 +1,211 @@
+2026-10-26 06:06:05,272 INFO === CO
+2026-10-26 06:06:15,951 INFO [CO 2025B] 35 bills
+2026-10-26 06:08:51,359 INFO [CO 2026A] 714 bills
+2026-10-26 06:08:53,589 INFO [CO] done: 749 bills, 3 in categories, ok=True
+2026-10-26 06:08:53,590 INFO === MI
+2026-10-26 06:10:36,786 WARNING [MI] text 2025-HB-4977: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4977.htm
+2026-10-26 06:10:38,748 WARNING [MI] text 2025-HB-5032: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5032.htm
+2026-10-26 06:10:39,832 WARNING [MI] text 2025-HB-5035: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5035.htm
+2026-10-26 06:10:41,922 WARNING [MI] text 2025-HB-5037: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5037.htm
+2026-10-26 06:10:42,900 WARNING [MI] text 2025-HB-5038: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-5038.htm
+2026-10-26 06:10:47,870 WARNING [MI] text 2025-HB-5215: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5215.htm
+2026-10-26 06:10:48,771 WARNING [MI] text 2025-HB-5300: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5300.htm
+2026-10-26 06:10:50,678 WARNING [MI] text 2025-HB-5434: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5434.htm
+2026-10-26 06:10:51,847 WARNING [MI] text 2026-SJR-I: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/Senate/htm/2026-SIJR-I.htm
+2026-10-26 06:10:56,744 WARNING [MI] text 2026-HJR-Q: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/House/htm/2026-HIJR-Q.htm
+2026-10-26 06:10:57,650 WARNING [MI] text 2026-HJR-R: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/House/htm/2026-HIJR-R.htm
+2026-10-26 06:10:59,627 WARNING [MI] text 2026-HJR-W: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/jointresolutionintroduced/House/htm/2026-HIJR-W.htm
+2026-10-26 06:11:00,949 WARNING [MI] text 2026-SR-0125: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/Senate/htm/2026-SIR-0125.htm
+2026-10-26 06:11:02,802 WARNING [MI] text 2026-HR-0269: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0269.htm
+2026-10-26 06:11:03,872 WARNING [MI] text 2026-HR-0324: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0324.htm
+2026-10-26 06:11:05,905 WARNING [MI] text 2026-HR-0359: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0359.htm
+2026-10-26 06:11:06,780 WARNING [MI] text 2026-SB-0815: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0815.htm
+2026-10-26 06:11:08,852 WARNING [MI] text 2026-SB-0833: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0833.htm
+2026-10-26 06:11:10,953 WARNING [MI] text 2026-SB-0930: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0930.htm
+2026-10-26 06:11:11,837 WARNING [MI] text 2026-SB-0931: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0931.htm
+2026-10-26 06:11:12,747 WARNING [MI] text 2026-SB-0932: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0932.htm
+2026-10-26 06:11:14,641 WARNING [MI] text 2026-SB-0943: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0943.htm
+2026-10-26 06:11:16,800 WARNING [MI] text 2026-SB-0963: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2026-SEBS-0963.htm
+2026-10-26 06:11:20,890 WARNING [MI] text 2026-SB-1022: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-1022.htm
+2026-10-26 06:11:21,884 WARNING [MI] text 2026-SB-1028: 403 Client Error: Forbidden for url: https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-1028.htm
+2026-10-26 06:12:22,162 WARNING Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='legislature.mi.gov', port=443) at 0x7fd0355cbe60>, 'Connection to legislature.mi.gov timed out. (connect timeout=60)')': /Bills/Bill?ObjectName=2026-SB-1048
+2026-10-26 06:13:26,256 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='legislature.mi.gov', port=443) at 0x7fd034dac740>, 'Connection to legislature.mi.gov timed out. (connect timeout=60)')': /Bills/Bill?ObjectName=2026-SB-1048
+2026-10-26 06:13:34,312 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /Bills/Bill?ObjectName=2026-SB-1048
+2026-10-26 06:14:40,879 INFO [MI 2025-2026] 4237 bills, 8 flagged by full-text search
+2026-10-26 06:14:42,732 INFO [MI] done: 4237 bills, 8 in categories, ok=True
+2026-10-26 06:14:42,732 INFO === MN
+2026-10-26 06:19:19,367 INFO [MN 0942025] 10581 bills
+2026-10-26 06:19:23,456 INFO [MN] done: 10581 bills, 36 in categories, ok=True
+2026-10-26 06:19:23,456 INFO === WI
+2026-10-26 06:21:23,576 WARNING Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9cb00>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2025/proposals/reg/asm/bill
+2026-10-26 06:23:27,640 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9ea80>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2025/proposals/reg/asm/bill
+2026-10-26 06:25:35,780 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9c830>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2025/proposals/reg/asm/bill
+2026-10-26 06:27:51,848 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9e7b0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2025/proposals/reg/asm/bill
+2026-10-26 06:29:51,988 ERROR [WI 2025] failed: Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connection.py", line 248, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9e1e0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 886, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 886, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 886, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9e1e0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/Future-of-democracy/Future-of-democracy/tracker/run.py", line 128, in run_state
+    bills = src.scrape(sess, ctx)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Future-of-democracy/Future-of-democracy/tracker/sources/wi.py", line 48, in scrape
+    r = ctx.client.get(url, timeout=120)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Future-of-democracy/Future-of-democracy/tracker/http.py", line 55, in get
+    r = self.s.get(url, **kw)
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 717, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9e1e0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))
+
+2026-10-26 06:31:52,124 WARNING Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9dc70>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2027/proposals/reg/asm/bill
+2026-10-26 06:33:56,277 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9c8c0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2027/proposals/reg/asm/bill
+2026-10-26 06:36:04,344 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9d190>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2027/proposals/reg/asm/bill
+2026-10-26 06:38:20,422 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9c380>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')': /2027/proposals/reg/asm/bill
+2026-10-26 06:40:20,550 ERROR [WI 2027] failed: Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connection.py", line 248, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9ef00>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 886, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 886, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 886, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  [Previous line repeated 1 more time]
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9ef00>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/Future-of-democracy/Future-of-democracy/tracker/run.py", line 128, in run_state
+    bills = src.scrape(sess, ctx)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Future-of-democracy/Future-of-democracy/tracker/sources/wi.py", line 48, in scrape
+    r = ctx.client.get(url, timeout=120)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Future-of-democracy/Future-of-democracy/tracker/http.py", line 55, in get
+    r = self.s.get(url, **kw)
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/adapters.py", line 717, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fd035b9ef00>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))
+
+2026-10-26 06:40:20,558 INFO [WI] done: 0 bills, 0 in categories, ok=False
+2026-10-26 06:40:20,558 INFO === GA
+2026-10-26 06:41:59,167 INFO [GA 20252026] 5480 bills (detail endpoint: /legislation/detail/{id})
+2026-10-26 06:42:04,283 INFO [GA 2026EX] 176 bills (detail endpoint: /legislation/detail/{id})
+2026-10-26 06:42:04,626 INFO [GA] done: 5656 bills, 2 in categories, ok=True
+2026-10-26 06:42:04,626 INFO === NC
+2026-10-26 06:43:51,189 INFO [NC 2025] 2338 bills
+2026-10-26 06:44:21,441 INFO [NC] done: 2338 bills, 17 in categories, ok=True

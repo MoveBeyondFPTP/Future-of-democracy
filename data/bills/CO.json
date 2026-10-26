@@ -1,0 +1,293 @@
+{
+ "state": "CO",
+ "name": "Colorado",
+ "generated": "2026-10-26T06:06:05Z",
+ "bills": [
+  {
+   "id": "co-2026A-HB26-1113",
+   "state": "CO",
+   "session": "2026A",
+   "session_name": "2026 Regular Session",
+   "number": "HB26-1113",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Modifications to Elections",
+   "summary": "The act modifies the 'Uniform Election Code of 1992' (code) as follows:Regarding elections generally, includes in the definition of 'identification' for purposes of the code a division of youth services identification card or written correspondence from a county sheriff to the county clerk indicating that an elector is confined in a county jail or detention facility; repeals the definition of 'political party district'; modifies the definition of 'video security surveillance recording' to include a system in which continuous recording is triggered when motion is detected; modifies the definition of 'watcher' to prohibit a person from being selected as a watcher if the person has been convicted of certain election offenses or of committing or conspiracy to commit certain federal offenses; if the governor declares a disaster emergency due to the inability to strictly comply with the code, allows the secretary of state (secretary) to adopt rules for the proper administration of an election and requires the governor to establish an election emergency advisory group to advise the secretary and the governor regarding emergency orders or rules necessary to ensure the proper administration of an election; allows the secretary to provide access to, rather than transmit a complete copy of, all pertinent, updated elections laws to each county clerk and recorder (clerk); and requires each clerk to set operational hours for the clerk's office;Regarding the qualification and registration of electors; specifies information that all institutions of higher education, rather than just state institutions of higher education, must provide to students via email or signs concerning voting, voter eligibility, and registration, and requires the secretary to adopt rules further specifying the form and content of the emails and signs; requires the clerk to make printed affidavit forms available to correct an error in the elector's affiliation recorded in the statewide database; requires the secretary to ensure preregistrants who are 17 years and 6 months old can access their voter registration information and update that information using the state's online voter registration system; requires the statewide voter registration system to support the integration and use of geographic information system data to improve the accuracy, consistency, and reliability of voter registration records; modifies the language concerning preregistration of high school students; specifies that the principal of a public high school or their designee who assists in preregistration and registration to vote are high school liaisons, rather than deputy registrars, and eliminates certain filing requirements for registration or preregistration to vote; modifies how a clerk verifies identifiers provided by an elector who registers to vote in another county or another state; prohibits a clerk from canceling the registration record of an elector with multiple registrations unless there is a match in the county's registration records and the statewide voter registration database with respect to certain identifiers of the elector; and makes the secretary, rather than the clerk, responsible for canceling certain registrations pursuant to existing law, while still allowing the secretary to request assistance from the clerks;Regarding presidential electors, specifies that if a presidential or vice-presidential candidate dies or withdraws as a candidate after accepting the nomination of a political party but prior to the meeting of presidential electors, an elector's vote for the presidential candidate or vice-presidential candidate refers to the successor candidate nominated by the political party and clarifies that such vote is not a vote for a false slate of presidential electors;Regarding congressional vacancy elections, modifies notice, preparation, and conduct of elections; requires elections to be concurrent with a primary or coordinated election if the vacancy occurs between 150 and 90 days of such election; requires elections to be conducted according to provisions for general elections; modifies candidate nomination deadlines; clarifies the manner of nomination for an unaffiliated candidate; and specifies the arrangement of names on the ballot;Regarding access to the ballot by candidates, specifies the offices for which a candidate must fully meet the qualifications of the office and expands factors the secretary may consider in determining the qualifications to hold office to include other objective, verifiable requirements such as age, birth place, term limits, and political affiliation; repeals the ability for certificates of designation by assembly to be transmitted to the secretary by fax; specifies deadlines by which major and minor political parties must fill vacancies in their party nominations and by which vacancies in unaffiliated designations or nominations must be filled prior to a primary election and a general election, and clarifies that failure to fill a vacancy in nomination by such deadline results in that vacancy nomination remaining unfilled for that election; eliminates requirement for electors to include their county when signing a petition to nominate a candidate; allows a congressional vacancy election to be presented on the same ballot used in a presidential primary election if the elections are held on the same day; modifies the timeline for nomination of minor political party candidates; and maintains the requirement that a person file a written acceptance of nomination but eliminates the specification that the acceptance be provided by mail, fax, or hand delivery;Regarding notice and preparation of elections, clarifies that a voter service and polling center (VSPC) that experiences a shortage of supplies, including ballots, shall not close and may be required to remain open longer on election day; requires that each drop box must accept mail ballots for the 22-day period, rather than the 15-day period, prior to the day of an election; reduces the required period that a VSPC on a campus with 10,000 or more students must be open from 15 days to 10 days before an election; specifies that, in addition to existing designation by sign requirements, a VSPC on the campus of an institution of higher education must be identified and described in signs conspicuously posted at the student center and in an email sent to all enrolled students; repeals the requirement that the secretary deliver the certification of the ballot order and content to the clerk by registered mail; repeals a provision for the arrangement of names on ballots to be established by lot; adds an additional trigger for the secretary to notify clerks of the requirement to provide minority language sample ballots and in-person minority language ballots based on the release of data collected pursuant to section 203 of the federal 'Voting Rights Act of 1965' by the federal government; repeals a provision regarding the adoption and payment for voting machines; and requires the clerk of any county with 1,000 or more active electors to adopt an electronic or electromechanical voting system for use in all elections conducted by the county under the code and requires the clerk to oversee the management of such voting systems subject to the rules of the secretary; Regarding election judges, changes the age eligibility requirements for a student election judge from 16 to 15 and expands the methods for notice and acceptance of an election judge appointment;Regarding the conduct of elections, repeals the requirement that an election judge proclaim the polls are open or will be closed in 30 minutes on election day; modifies the 2-hour period that eligible electors are entitled to be absent from work to vote from only on election day to any day when VSPCs are open and specifies that an employer may deny this leave if the elector has 3 or more consecutive hours off the job while the polls are open; allows an elector to take printed or written materials of their choice into a VSPC as a resource for voting; creates new reporting requirements for counties with one or more VSPCs experiencing a wait time in excess of one hour, which wait time must be measured and recorded in accordance with rules adopted by the secretary and creates a requirement for a reporting county to include certain additional information in its next proposed election plan; repeals and reenacts, with changes, the required method of counting paper ballots by hand, requiring a team of 4 judges, audible reading of each ballot, and 2 separate accountings to be kept and compared and regular intervals, in accordance with any rules adopted by the secretary; recognizes that, in addition to a software or hardware malfunction, other significant issues may make counting ballots with electronic vote-tabulating equipment impracticable; and prohibits a designated election official from transferring custody or control of election records to a third party unless the transfer is authorized or required by the secretary of a court of competent jurisdiction;Regarding mail ballot elections, modifies the timeline for submission and approval of proposed election plans; allows the secretary to request modification of an election plan; requires the secretary to release no later than August 1 for each clerk's submitted election plan, specified information for each VSPC and each ballot drop-off location in the county for that election; modifies mail ballot delivery times; changes the enrolled-student threshold at an institution of higher education from 2,000 to 1,000 for purposes of requiring a drop box on campus and requires a drop box on the campus of private institutions of higher education in addition to state institutions; requires a clerk who fails to send a signature verification form within the 2-day deadline to send the signature verification by overnight mail or hand delivery; and requires a minimum number of hours for in-person voting at a county jail or detention center based on the number of beds available;Regarding challenges to registration, repeals and reenacts, with amendments, the process for a registered elector to protest the registration of another person, requires a $50 fee for each protest that is refunded if the protest is successful, and specifies the reasons that a protest may challenge a person's registration as incorrect;Regarding vacancies in office, in the case of a vacancy in the office of United States senator, requires the governor to appoint a person who is a member of the same political party as the former United States senator to fill a vacancy in that office; clarifies that a person appointed to fill a vacancy in a county office other than county commissioner serves only until the next general election, at which time the remainder of the vacant term, if any, is filled by election; and specifies that a county commissioner or general assembly vacancy may be filled at the next coordinated or general election; andRegarding election offenses, clarifies the offense of voter interference occurs when a person interferes with a voter within 100 feet of any building in which a polling or drop-off location is located or within 100 feet of a drop box; specifies that the offense of voter intimidation applies to any elector who is delivering up to 10 mail ballots to a drop box or drop-off-location; clarifies that the exemption for peace officers from the law prohibiting a person from carrying a firearm at a polling location does not apply if the firearm is used to intimidate electors; clarifies that offenses involving a false slate of presidential electors extends to lists of electors voting and votes for candidates for president and vice president of the United States, or their successors; and modifies enforcement and relief provisions in the case of a suit for election-related intimidation. In addition, the act:Modifies the law regarding initiatives and referendums to eliminate the requirement for an elector to include their county of residence as part of their signature on an initiative or referendum petition; extends the secretary's period for examination and validation of signatures on a petition from 30 to 60 days; and extends the secretary's period to issue a statement as to whether a petition has sufficient valid signatures from 30 to 60 days after the petition was filed; Modifies the definition of 'disaster' for the purpose of the 'Colorado Disaster Emergency Act' to include the occurrence or imminent threat of the inability to strictly comply with the code due to any natural cause or cause of human origin;Amends the 'Colorado Open Records Act' to specify that a designated election official is not required to cover or redact from a ballot any markings or messages voluntarily made by an elector; andSpecifies that oaths or affirmations for public office filed with the clerk are exempt from certain fees imposed by law. The act takes effect upon passage, except that the provisions regarding the time frame for mailing a mail ballot packet take effect July 1, 2026. For the 2026-27 state fiscal year, the act appropriates $10,000 from the department of state cash fund to the department of state for the implementation of the act.\n\nLong title: Concerning modifications to laws regarding elections, and, in connection therewith, making an appropriation.",
+   "subjects": [
+    "Elections & Redistricting"
+   ],
+   "sponsors": [
+    {
+     "name": "Rep. E. Sirota",
+     "role": "primary"
+    },
+    {
+     "name": "Rep. J. Willford",
+     "role": "primary"
+    },
+    {
+     "name": "Sen. K. Wallace",
+     "role": "primary"
+    },
+    {
+     "name": "Sen. M. Weissman",
+     "role": "primary"
+    }
+   ],
+   "url": "https://leg.colorado.gov/bills/HB26-1113",
+   "actions": [
+    {
+     "date": "2026-02-03",
+     "chamber": "House",
+     "text": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs"
+    },
+    {
+     "date": "2026-02-23",
+     "chamber": "House",
+     "text": "House Committee on State, Civic, Military, & Veterans Affairs Refer Amended to House Committee of the Whole"
+    },
+    {
+     "date": "2026-02-26",
+     "chamber": "House",
+     "text": "House Second Reading Laid Over Daily - No Amendments"
+    },
+    {
+     "date": "2026-03-02",
+     "chamber": "House",
+     "text": "House Second Reading Special Order - Passed with Amendments - Committee, Floor"
+    },
+    {
+     "date": "2026-03-03",
+     "chamber": "House",
+     "text": "House Third Reading Passed - No Amendments"
+    },
+    {
+     "date": "2026-03-06",
+     "chamber": "Senate",
+     "text": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs"
+    },
+    {
+     "date": "2026-04-09",
+     "chamber": "Senate",
+     "text": "Senate Committee on State, Veterans, & Military Affairs Refer Amended to Appropriations"
+    },
+    {
+     "date": "2026-04-24",
+     "chamber": "Senate",
+     "text": "Senate Committee on Appropriations Refer Amended to Senate Committee of the Whole"
+    },
+    {
+     "date": "2026-04-28",
+     "chamber": "Senate",
+     "text": "Senate Second Reading Laid Over Daily - No Amendments"
+    },
+    {
+     "date": "2026-05-01",
+     "chamber": "Senate",
+     "text": "Senate Second Reading Passed with Amendments - Committee, Floor"
+    },
+    {
+     "date": "2026-05-04",
+     "chamber": "Senate",
+     "text": "Senate Third Reading Passed with Amendments - Floor"
+    },
+    {
+     "date": "2026-05-05",
+     "chamber": "House",
+     "text": "House Considered Senate Amendments - Result was to Laid Over Daily"
+    },
+    {
+     "date": "2026-05-07",
+     "chamber": "House",
+     "text": "House Considered Senate Amendments - Result was to Concur - Repass"
+    },
+    {
+     "date": "2026-05-29",
+     "chamber": "Governor",
+     "text": "Sent to the Governor"
+    },
+    {
+     "date": "2026-05-29",
+     "chamber": "Senate",
+     "text": "Signed by the President of the Senate"
+    },
+    {
+     "date": "2026-05-29",
+     "chamber": "House",
+     "text": "Signed by the Speaker of the House"
+    },
+    {
+     "date": "2026-06-01",
+     "chamber": "Governor",
+     "text": "Governor Signed"
+    }
+   ],
+   "text_url": "https://leg.colorado.gov/bill_files/117147/download",
+   "hearings": [],
+   "last_action": "Governor Signed",
+   "last_action_date": "2026-06-01",
+   "introduced": "2026-02-03",
+   "status": "enacted",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "voter intimidation"
+     ],
+     "subtags": [
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "co-2026A-HB26-1203",
+   "state": "CO",
+   "session": "2026A",
+   "session_name": "2026 Regular Session",
+   "number": "HB26-1203",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Modification of County Commissioner Elections",
+   "summary": "Currently, in a county with a population of 70,000 or more (covered county) , the board of county commissioners (board) may consist of 3 or 5 commissioners. If the board consists of 3 commissioners, the county is divided into 3 districts, with one commissioner elected from each district by voters in the district or voters of the whole county. Alternatively, the board may consist of 5 commissioners, in which case the county may be divided into 3 or 5 districts, and the commissioners may be elected pursuant to numerous methods, including by district, at large, or by some combination of both methods. The bill eliminates modifies this discretionary system and instead requires any county with a population of 70,000 or more ( so that if a covered county ) to elect has 3 commissioners, the commissioners must be elected by district only by voters resident in those districts. If a covered county has 5 commissioners , the commissioners must be elected by one of the following 2 alternative methods of election :5 commissioners resident in 5 districts elected only by voters resident in those districts (by-district method) ; or 5 3 commissioners elected by district only by voters in those districts and 2 commissioners elected at large using a ranked voting method by voters of the whole county (combination method) . The board of a covered county that has 3 commissioners must refer a resolution to the electors of the county at the general election during each decennial census year to ask the electors whether they would like to increase the board to 5 commissioners and, if so, which of the two alternative methods of election they prefer for electing those 5 commissioners. The board of a covered county that has 5 commissioners is required to adopt a resolution designating the 2 alternative methods of electing the 5 county commissioners no later than its first regularly scheduled meeting in the calendar year 2027 . or its first regularly scheduled meeting in the month following becoming a covered county. The board is required to refer the resolution to the electors of the county at the first general election following its adoption for those electors to select their preferred method of electing the 5 commissioners. A covered county that has a board consisting of 5 commissioners and that already elects its commissioners according to one of the 2 alternative methods using either the by-district method or the combination method of election is not required to pass a resolution. With a petition signed by at least 5% of the qualified electors of the county, the electors of a covered county that has a board consisting of 5 commissioners may also place on the ballot at a general election the question of whether to change the method of electing members of the board from one of the 2 alternative methods of election to the other. A home rule county that elects more than half of its county commissioners by district or using a ranked voting method is exempt from the requirements of the bill. The bill also makes conforming amendments.(Note: Italicized words indicate new material added to the original summary; dashes through words indicate deletions from the original summary.)\n\nLong title: Concerning the modification of county commissioner elections.",
+   "subjects": [
+    "Elections & Redistricting",
+    "Local Government"
+   ],
+   "sponsors": [
+    {
+     "name": "Rep. B. Marshall",
+     "role": "primary"
+    },
+    {
+     "name": "Rep. J. Bacon",
+     "role": "primary"
+    },
+    {
+     "name": "Sen. A. Benavidez",
+     "role": "primary"
+    },
+    {
+     "name": "Sen. L. Liston",
+     "role": "primary"
+    }
+   ],
+   "url": "https://leg.colorado.gov/bills/HB26-1203",
+   "actions": [
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs"
+    },
+    {
+     "date": "2026-03-02",
+     "chamber": "House",
+     "text": "House Committee on State, Civic, Military, & Veterans Affairs Refer Amended to House Committee of the Whole"
+    },
+    {
+     "date": "2026-03-05",
+     "chamber": "House",
+     "text": "House Second Reading Laid Over Daily - No Amendments"
+    },
+    {
+     "date": "2026-03-13",
+     "chamber": "House",
+     "text": "House Second Reading Special Order - Passed with Amendments - Committee, Floor"
+    },
+    {
+     "date": "2026-03-16",
+     "chamber": "House",
+     "text": "House Third Reading Passed - No Amendments"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "Senate",
+     "text": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs"
+    },
+    {
+     "date": "2026-04-21",
+     "chamber": "Senate",
+     "text": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely"
+    }
+   ],
+   "text_url": "https://leg.colorado.gov/bill_files/113348/download",
+   "hearings": [],
+   "last_action": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+   "last_action_date": "2026-04-21",
+   "introduced": "2026-02-11",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked voting"
+     ],
+     "subtags": [
+      "local_option"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "co-2026A-SB26-057",
+   "state": "CO",
+   "session": "2026A",
+   "session_name": "2026 Regular Session",
+   "number": "SB26-057",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "School Board Elections Director District Residents",
+   "summary": "Under current law, local school board members are voted on at large by the eligible electors of the school district, with exceptions.The bill requires that local school board members be voted on by the eligible electors residing within the director district and creates an exclusion of this requirement for school districts that enroll fewer than 6,500 students.\n\nLong title: Concerning local school board directors elected by the eligible electors residing within the director district.",
+   "subjects": [
+    "Education & School Finance (Pre & K 12)"
+   ],
+   "sponsors": [
+    {
+     "name": "Sen. M. Baisley",
+     "role": "primary"
+    },
+    {
+     "name": "Rep. B. Marshall",
+     "role": "primary"
+    }
+   ],
+   "url": "https://leg.colorado.gov/bills/SB26-057",
+   "actions": [
+    {
+     "date": "2026-01-28",
+     "chamber": "Senate",
+     "text": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely"
+    }
+   ],
+   "text_url": "https://leg.colorado.gov/bill_files/111051/download",
+   "hearings": [],
+   "last_action": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+   "last_action_date": "2026-02-24",
+   "introduced": "2026-01-28",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large by the eligible electors of the school district"
+     ],
+     "subtags": [
+      "at_large_conversion"
+     ]
+    }
+   }
+  }
+ ]
+}

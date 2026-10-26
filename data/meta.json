@@ -1,0 +1,267 @@
+{
+ "generated": "2026-10-26T06:44:21Z",
+ "categories": [
+  {
+   "key": "rcv",
+   "name": "Ranked choice voting",
+   "description": "Adopting, expanding, studying, regulating, or banning ranked choice voting and its variants (instant runoff, single transferable vote, top-four / final-five systems, ranked ballots for overseas voters).",
+   "subtags": [
+    "ban",
+    "adoption",
+    "local_option",
+    "primaries",
+    "overseas_military",
+    "study_commission",
+    "top_four_five",
+    "constitutional_amendment"
+   ]
+  },
+  {
+   "key": "svra",
+   "name": "State voting rights acts",
+   "description": "State-level voting rights acts and their components: vote-dilution causes of action, racially polarized voting, at-large to district conversions, state preclearance, language assistance, election data repositories, and bills repealing or limiting existing state VRAs.",
+   "subtags": [
+    "comprehensive_svra",
+    "dilution_cause_of_action",
+    "preclearance",
+    "language_access",
+    "data_repository",
+    "at_large_conversion",
+    "repeal_or_limit",
+    "constitutional_amendment"
+   ]
+  },
+  {
+   "key": "pr",
+   "name": "Proportional representation",
+   "description": "Multi-winner and proportional election systems: proportional RCV / single transferable vote, multi-member districts, party-list and mixed-member systems, cumulative and limited voting, the Fair Representation Act concept, and proportional allocation of electoral votes.",
+   "subtags": [
+    "stv_proportional_rcv",
+    "multi_member_districts",
+    "party_list_mixed",
+    "semi_proportional",
+    "congressional",
+    "electoral_college",
+    "local_government",
+    "ban"
+   ]
+  }
+ ],
+ "states": {
+  "MA": {
+   "name": "Massachusetts",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "194",
+     "name": "194th General Court (2025-2026)",
+     "current": false
+    },
+    {
+     "code": "195",
+     "name": "195th General Court (2027-2028)",
+     "current": true
+    }
+   ]
+  },
+  "TX": {
+   "name": "Texas",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "89R",
+     "name": "89th Legislature (2025)",
+     "current": false
+    },
+    {
+     "code": "891",
+     "name": "89th Legislature, 1st Called Session (2025)",
+     "current": false
+    },
+    {
+     "code": "892",
+     "name": "89th Legislature, 2nd Called Session (2025)",
+     "current": false
+    },
+    {
+     "code": "90R",
+     "name": "90th Legislature (2027)",
+     "current": true
+    }
+   ]
+  },
+  "VA": {
+   "name": "Virginia",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "20261",
+     "name": "2026 Regular Session",
+     "current": false
+    },
+    {
+     "code": "20262",
+     "name": "2026 Special Session I",
+     "current": false
+    },
+    {
+     "code": "20271",
+     "name": "2027 Regular Session",
+     "current": true
+    }
+   ]
+  },
+  "MD": {
+   "name": "Maryland",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2026RS",
+     "name": "2026 Regular Session",
+     "current": false
+    },
+    {
+     "code": "2027RS",
+     "name": "2027 Regular Session",
+     "current": true
+    }
+   ]
+  },
+  "CO": {
+   "name": "Colorado",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025B",
+     "name": "2025 Extraordinary Session",
+     "current": false
+    },
+    {
+     "code": "2026A",
+     "name": "2026 Regular Session",
+     "current": false
+    },
+    {
+     "code": "2027A",
+     "name": "2027 Regular Session",
+     "current": true
+    }
+   ]
+  },
+  "MI": {
+   "name": "Michigan",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025-2026",
+     "name": "2025-2026 Session",
+     "current": false
+    },
+    {
+     "code": "2027-2028",
+     "name": "2027-2028 Session",
+     "current": true
+    }
+   ]
+  },
+  "MN": {
+   "name": "Minnesota",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "0942025",
+     "name": "94th Legislature (2025-2026)",
+     "current": false
+    },
+    {
+     "code": "0952027",
+     "name": "95th Legislature (2027-2028)",
+     "current": true
+    }
+   ]
+  },
+  "WI": {
+   "name": "Wisconsin",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025",
+     "name": "2025-2026 Session",
+     "current": false
+    },
+    {
+     "code": "2027",
+     "name": "2027-2028 Session",
+     "current": true
+    }
+   ]
+  },
+  "GA": {
+   "name": "Georgia",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "20252026",
+     "name": "2025-2026 Regular Session",
+     "current": false
+    },
+    {
+     "code": "2026EX",
+     "name": "2026 Special Session",
+     "current": false
+    },
+    {
+     "code": "20272028",
+     "name": "2027-2028 Regular Session",
+     "current": true
+    }
+   ]
+  },
+  "NC": {
+   "name": "North Carolina",
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025",
+     "name": "2025-2026 Session",
+     "current": false
+    },
+    {
+     "code": "2027",
+     "name": "2027-2028 Session",
+     "current": true
+    }
+   ]
+  }
+ },
+ "statuses": [
+  {
+   "key": "introduced",
+   "label": "Introduced"
+  },
+  {
+   "key": "committee",
+   "label": "In committee"
+  },
+  {
+   "key": "passed_one",
+   "label": "Passed one chamber"
+  },
+  {
+   "key": "passed_both",
+   "label": "Passed legislature"
+  },
+  {
+   "key": "enacted",
+   "label": "Enacted"
+  },
+  {
+   "key": "vetoed",
+   "label": "Vetoed"
+  },
+  {
+   "key": "failed",
+   "label": "Failed / dead"
+  }
+ ]
+}
