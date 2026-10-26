@@ -1,87 +1,8 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-10-26T06:06:00Z",
+ "generated": "2026-10-26T07:39:41Z",
  "bills": [
-  {
-   "id": "ma-194-S3084",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "S3084",
-   "chamber": "Senate",
-   "type": "bill",
-   "title": "An Act relative to amending the charter of the city known as the town of Randolph regarding filling of vacancies, running for multiple offices, term of office for Stetson Trustees and three-month prohibition on work for the town after service in elected office",
-   "sponsors": [
-    {
-     "name": "William J. Driscoll, Jr.",
-     "role": "primary"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/S3084",
-   "text_url": "https://malegislature.gov/Bills/194/S3084.pdf",
-   "docket": "SD3900",
-   "summary": "By Mr. Driscoll, a petition (accompanied by bill, Senate, No. 3084) of William J. Driscoll, Jr. (by vote of the town) for legislation to amend the charter of the city known as the town of Randolph regarding filling of vacancies, running for multiple offices, term of office for Stetson Trustees and three-month prohibition on work for the town after service in elected office. Municipalities and Regional Government. [Local Approval Received.]",
-   "actions": [
-    {
-     "date": "2026-05-11",
-     "chamber": "Senate",
-     "text": "Referred to the committee on Municipalities and Regional Government"
-    },
-    {
-     "date": "2026-05-14",
-     "chamber": "House",
-     "text": "House concurred"
-    },
-    {
-     "date": "2026-06-11",
-     "chamber": "Joint",
-     "text": "Hearing scheduled for 06/23/2026 from 01:00 PM-03:00 PM in A-1"
-    },
-    {
-     "date": "2026-07-13",
-     "chamber": "Senate",
-     "text": "Bill reported favorably by committee and placed in the Orders of the Day for the next session"
-    },
-    {
-     "date": "2026-07-22",
-     "chamber": "Senate",
-     "text": "Read second and ordered to a third reading"
-    },
-    {
-     "date": "2026-10-22",
-     "chamber": "Senate",
-     "text": "Taken out of the Orders of the Day"
-    },
-    {
-     "date": "2026-10-22",
-     "chamber": "Senate",
-     "text": "Read third"
-    },
-    {
-     "date": "2026-10-22",
-     "chamber": "Senate",
-     "text": "New draft substituted (Driscoll), see S3287"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "New draft substituted (Driscoll), see S3287",
-   "last_action_date": "2026-10-22",
-   "introduced": "2026-05-11",
-   "status": "committee",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "at-large and district"
-     ],
-     "subtags": [
-      "at_large_conversion"
-     ]
-    }
-   }
-  },
   {
    "id": "ma-194-H5584",
    "state": "MA",
@@ -148,234 +69,6 @@
      ],
      "subtags": [
       "local_government"
-     ]
-    }
-   }
-  },
-  {
-   "id": "ma-194-H4204",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "H4204",
-   "chamber": "House",
-   "type": "bill",
-   "title": "An Act providing for the election of candidates in the city of Haverhill",
-   "sponsors": [
-    {
-     "name": "Andres X. Vargas",
-     "role": "primary"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/H4204",
-   "text_url": "https://malegislature.gov/Bills/194/H4204.pdf",
-   "docket": "HD4792",
-   "summary": "By Representative Vargas of Haverhill, a petition (accompanied by bill, House, No. 4204) of Andres X. Vargas (with the approval of the mayor and city council) relative to preliminary election of candidates in the city of Haverhill. Election Laws. [Local Approval Received.]",
-   "actions": [
-    {
-     "date": "2025-06-05",
-     "chamber": "House",
-     "text": "Referred to the committee on Election Laws"
-    },
-    {
-     "date": "2025-06-09",
-     "chamber": "Senate",
-     "text": "Senate concurred"
-    },
-    {
-     "date": "2025-06-30",
-     "chamber": "Joint",
-     "text": "Hearing scheduled for 07/08/2025 from 01:00 PM-04:00 PM in B-1"
-    },
-    {
-     "date": "2025-10-15",
-     "chamber": "House",
-     "text": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
-    },
-    {
-     "date": "2025-11-10",
-     "chamber": "House",
-     "text": "Committee reported that the matter be placed in the Orders of the Day for the next sitting"
-    },
-    {
-     "date": "2025-11-10",
-     "chamber": "House",
-     "text": "Rules suspended"
-    },
-    {
-     "date": "2025-11-10",
-     "chamber": "House",
-     "text": "Read second and ordered to a third reading"
-    },
-    {
-     "date": "2026-04-16",
-     "chamber": "House",
-     "text": "Read third and passed to be engrossed"
-    },
-    {
-     "date": "2026-04-21",
-     "chamber": "Senate",
-     "text": "Read; and placed in the Orders of the Day for the next session"
-    },
-    {
-     "date": "2026-06-11",
-     "chamber": "Senate",
-     "text": "Read second and ordered to a third reading"
-    },
-    {
-     "date": "2026-06-23",
-     "chamber": "Senate",
-     "text": "Taken out of the Orders of the Day"
-    },
-    {
-     "date": "2026-06-23",
-     "chamber": "Senate",
-     "text": "Read third and passed to be engrossed"
-    },
-    {
-     "date": "2026-06-24",
-     "chamber": "House",
-     "text": "Enacted"
-    },
-    {
-     "date": "2026-06-25",
-     "chamber": "Senate",
-     "text": "Enacted and laid before the Governor"
-    },
-    {
-     "date": "2026-06-30",
-     "chamber": "Executive",
-     "text": "Signed by the Governor, Chapter 122 of the Acts of 2026"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Signed by the Governor, Chapter 122 of the Acts of 2026",
-   "last_action_date": "2026-06-30",
-   "introduced": "2025-06-05",
-   "status": "enacted",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "at-large and district"
-     ],
-     "subtags": [
-      "at_large_conversion"
-     ]
-    }
-   }
-  },
-  {
-   "id": "ma-194-H4203",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "H4203",
-   "chamber": "House",
-   "type": "bill",
-   "title": "An Act providing for the election of candidates in the city of Haverhill",
-   "sponsors": [
-    {
-     "name": "Andres X. Vargas",
-     "role": "primary"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/H4203",
-   "text_url": "https://malegislature.gov/Bills/194/H4203.pdf",
-   "docket": "HD4791",
-   "summary": "By Representative Vargas of Haverhill, a petition (accompanied by bill, House, No. 4203) of Andres X. Vargas (with the approval of the mayor and city council) relative to the election of candidates in the city of Haverhill. Election Laws. [Local Approval Received.]",
-   "actions": [
-    {
-     "date": "2025-06-05",
-     "chamber": "House",
-     "text": "Referred to the committee on Election Laws"
-    },
-    {
-     "date": "2025-06-09",
-     "chamber": "Senate",
-     "text": "Senate concurred"
-    },
-    {
-     "date": "2025-06-27",
-     "chamber": "Joint",
-     "text": "Hearing scheduled for 07/08/2025 from 01:00 PM-04:00 PM in B-1"
-    },
-    {
-     "date": "2025-10-15",
-     "chamber": "House",
-     "text": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
-    },
-    {
-     "date": "2025-11-10",
-     "chamber": "House",
-     "text": "Committee reported that the matter be placed in the Orders of the Day for the next sitting"
-    },
-    {
-     "date": "2025-11-10",
-     "chamber": "House",
-     "text": "Rules suspended"
-    },
-    {
-     "date": "2025-11-10",
-     "chamber": "House",
-     "text": "Read second and ordered to a third reading"
-    },
-    {
-     "date": "2026-04-16",
-     "chamber": "House",
-     "text": "Read third and passed to be engrossed"
-    },
-    {
-     "date": "2026-04-21",
-     "chamber": "Senate",
-     "text": "Read; and placed in the Orders of the Day for the next session"
-    },
-    {
-     "date": "2026-06-11",
-     "chamber": "Senate",
-     "text": "Read second and ordered to a third reading"
-    },
-    {
-     "date": "2026-06-23",
-     "chamber": "Senate",
-     "text": "Taken out of the Orders of the Day"
-    },
-    {
-     "date": "2026-06-23",
-     "chamber": "Senate",
-     "text": "Read third and passed to be engrossed"
-    },
-    {
-     "date": "2026-06-24",
-     "chamber": "House",
-     "text": "Enacted"
-    },
-    {
-     "date": "2026-06-25",
-     "chamber": "Senate",
-     "text": "Enacted and laid before the Governor"
-    },
-    {
-     "date": "2026-06-30",
-     "chamber": "Executive",
-     "text": "Signed by the Governor, Chapter 121 of the Acts of 2026"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Signed by the Governor, Chapter 121 of the Acts of 2026",
-   "last_action_date": "2026-06-30",
-   "introduced": "2025-06-05",
-   "status": "enacted",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "at-large and district"
-     ],
-     "subtags": [
-      "at_large_conversion"
      ]
     }
    }
@@ -522,63 +215,6 @@
    }
   },
   {
-   "id": "ma-194-H850",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "H850",
-   "chamber": "House",
-   "type": "bill",
-   "title": "An Act relative to honest online political advertisement disclosure and election interference",
-   "sponsors": [
-    {
-     "name": "David Henry Argosky LeBoeuf",
-     "role": "primary"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/H850",
-   "text_url": "https://malegislature.gov/Bills/194/H850.pdf",
-   "docket": "HD112",
-   "summary": "By Representative LeBoeuf of Worcester, a petition (accompanied by bill, House, No. 850) of David Henry Argosky LeBoeuf relative to electioneering communication expenditures. Election Laws.",
-   "actions": [
-    {
-     "date": "2025-02-27",
-     "chamber": "House",
-     "text": "Referred to the committee on Election Laws"
-    },
-    {
-     "date": "2025-02-27",
-     "chamber": "Senate",
-     "text": "Senate concurred"
-    },
-    {
-     "date": "2025-10-10",
-     "chamber": "Joint",
-     "text": "Hearing scheduled for 10/21/2025 from 01:00 PM-05:00 PM in 222"
-    },
-    {
-     "date": "2026-04-02",
-     "chamber": "House",
-     "text": "Accompanied a study order, see H5311 (under House Rule 27)"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Accompanied a study order, see H5311 (under House Rule 27)",
-   "last_action_date": "2026-04-02",
-   "introduced": "2025-02-27",
-   "status": "failed",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "demographic information"
-     ],
-     "subtags": []
-    }
-   }
-  },
-  {
    "id": "ma-194-H4713",
    "state": "MA",
    "session": "194",
@@ -653,93 +289,6 @@
    }
   },
   {
-   "id": "ma-194-H3851",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "H3851",
-   "chamber": "House",
-   "type": "resolution",
-   "title": "Resolutions condemning political oppression and encouraging free and fair elections in Cambodia",
-   "sponsors": [
-    {
-     "name": "Vanna Howard",
-     "role": "primary"
-    },
-    {
-     "name": "Edward J. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Shirley B. Arriaga",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Rodney M. Elliott",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Homar Gómez",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Tara T. Hong",
-     "role": "cosponsor"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/H3851",
-   "text_url": "https://malegislature.gov/Bills/194/H3851.pdf",
-   "docket": "HD436",
-   "summary": "By Representatives Howard of Lowell and Hong of Lowell, a petition (accompanied by resolutions, House, No. 3851) of Vanna Howard, Edward J. Kennedy and Tara T. Hong for legislation to condemn political oppression and encouraging free and fair elections in Cambodia. Veterans and Federal Affairs.",
-   "actions": [
-    {
-     "date": "2025-02-27",
-     "chamber": "House",
-     "text": "Referred to the committee on Veterans and Federal Affairs"
-    },
-    {
-     "date": "2025-02-27",
-     "chamber": "Senate",
-     "text": "Senate concurred"
-    },
-    {
-     "date": "2025-11-03",
-     "chamber": "Joint",
-     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in B-1"
-    },
-    {
-     "date": "2025-11-13",
-     "chamber": "Joint",
-     "text": "Hearing rescheduled to 11/13/2025 from 01:00 PM-03:50 PM in B-1 and Virtual Hearing updated to New End Time"
-    },
-    {
-     "date": "2026-02-19",
-     "chamber": "House",
-     "text": "Resolutions reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
-    },
-    {
-     "date": "2026-03-23",
-     "chamber": "House",
-     "text": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A), the question being on adoption"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A), the question being on adoption",
-   "last_action_date": "2026-03-23",
-   "introduced": "2025-02-27",
-   "status": "committee",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "voter intimidation"
-     ],
-     "subtags": []
-    }
-   }
-  },
-  {
    "id": "ma-194-H869",
    "state": "MA",
    "session": "194",
@@ -754,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     },
     {
@@ -762,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     }
    ],
@@ -1055,11 +604,11 @@
      "role": "primary"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     }
    ],
@@ -1110,83 +659,6 @@
      "level": "match",
      "terms": [
       "multi-seat election"
-     ],
-     "subtags": []
-    }
-   }
-  },
-  {
-   "id": "ma-194-H4202",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "H4202",
-   "chamber": "House",
-   "type": "bill",
-   "title": "An Act relative to the recall of any holder of elective office in the city of Chicopee",
-   "sponsors": [
-    {
-     "name": "Shirley B. Arriaga",
-     "role": "primary"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/H4202",
-   "text_url": "https://malegislature.gov/Bills/194/H4202.pdf",
-   "docket": "HD4704",
-   "summary": "By Representative Arriaga of Chicopee, a petition (accompanied by bill, House, No. 4202) of Shirley B. Arriaga (with the approval of the mayor and city council) relative to the recall of any holder of elective office in the city of Chicopee. Election Laws. [Local Approval Received.]",
-   "actions": [
-    {
-     "date": "2025-06-05",
-     "chamber": "House",
-     "text": "Referred to the committee on Election Laws"
-    },
-    {
-     "date": "2025-06-09",
-     "chamber": "Senate",
-     "text": "Senate concurred"
-    },
-    {
-     "date": "2025-06-27",
-     "chamber": "Joint",
-     "text": "Hearing scheduled for 07/08/2025 from 01:00 PM-04:00 PM in B-1"
-    },
-    {
-     "date": "2026-01-12",
-     "chamber": "House",
-     "text": "Accompanied a study order, see H4906"
-    },
-    {
-     "date": "2026-01-12",
-     "chamber": "House",
-     "text": "Reported from the committee on House Rules"
-    },
-    {
-     "date": "2026-01-12",
-     "chamber": "House",
-     "text": "Reported on the residue of H4906"
-    },
-    {
-     "date": "2026-01-12",
-     "chamber": "House",
-     "text": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
-    },
-    {
-     "date": "2026-02-25",
-     "chamber": "House",
-     "text": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A) for a second reading"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Placed in the Orders of the Day for the next sitting (under the last sentence of Rule 7A) for a second reading",
-   "last_action_date": "2026-02-25",
-   "introduced": "2025-06-05",
-   "status": "committee",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "at large or by ward"
      ],
      "subtags": []
     }
@@ -1275,9 +747,7 @@
      "terms": [
       "deceptive election"
      ],
-     "subtags": [
-      "dilution_cause_of_action"
-     ]
+     "subtags": []
     }
    }
   },
@@ -1542,6 +1012,30 @@
      "role": "primary"
     },
     {
+     "name": "Rebecca L. Rausch",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
      "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     },
@@ -1594,10 +1088,6 @@
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
      "name": "Lydia Edwards",
      "role": "cosponsor"
     },
@@ -1615,26 +1105,6 @@
     },
     {
      "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Manny Cruz",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joanne M. Comerford",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Michael J. Barrett",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Rebecca L. Rausch",
      "role": "cosponsor"
     }
    ],
@@ -1668,7 +1138,8 @@
     "rcv": {
      "level": "match",
      "terms": [
-      "ranked choice"
+      "ranked choice",
+      "ranked-choice"
      ],
      "subtags": [
       "local_option"
@@ -1681,122 +1152,6 @@
      ],
      "subtags": [
       "local_government"
-     ]
-    }
-   }
-  },
-  {
-   "id": "ma-194-S44",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "S44",
-   "chamber": "Senate",
-   "type": "bill",
-   "title": "An Act to protect against election misinformation",
-   "sponsors": [
-    {
-     "name": "Michael O. Moore",
-     "role": "primary"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/S44",
-   "text_url": "https://malegislature.gov/Bills/194/S44.pdf",
-   "docket": "SD265",
-   "summary": "By Mr. Moore, a petition (accompanied by bill, Senate, No. 44) of Michael O. Moore for legislation relative to deceptive and fraudulent deepfakes in election communications. Advanced Information Technology, the Internet and Cybersecurity.",
-   "actions": [
-    {
-     "date": "2025-02-27",
-     "chamber": "Senate",
-     "text": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
-    },
-    {
-     "date": "2025-02-27",
-     "chamber": "House",
-     "text": "House concurred"
-    },
-    {
-     "date": "2025-08-28",
-     "chamber": "Joint",
-     "text": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2 and Virtual Hearing updated to include Virtual"
-    },
-    {
-     "date": "2025-10-16",
-     "chamber": "Senate",
-     "text": "Accompanied a new draft, see S2631"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Accompanied a new draft, see S2631",
-   "last_action_date": "2025-10-16",
-   "introduced": "2025-02-27",
-   "status": "committee",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "deceptive election"
-     ],
-     "subtags": [
-      "dilution_cause_of_action"
-     ]
-    }
-   }
-  },
-  {
-   "id": "ma-194-S2631",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "S2631",
-   "chamber": "Senate",
-   "type": "bill",
-   "title": "to protect against election misinformation",
-   "sponsors": [
-    {
-     "name": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
-     "role": "primary"
-    },
-    {
-     "name": "Michael O. Moore",
-     "role": "cosponsor"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/S2631",
-   "text_url": "https://malegislature.gov/Bills/194/S2631.pdf",
-   "summary": "Senate, October 16, 2025 -- The committee on Advanced Information Technology, the Internet and Cybersecurity to whom was referred the petition (accompanied by bill, Senate, No. 44) of Michael O. Moore for legislation relative to deceptive and fraudulent deepfakes in election communications, report the accompanying bill (Senate, No. 2631).",
-   "actions": [
-    {
-     "date": "2025-10-16",
-     "chamber": "Senate",
-     "text": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
-    },
-    {
-     "date": "2025-10-16",
-     "chamber": "Senate",
-     "text": "New draft of S44"
-    },
-    {
-     "date": "2025-10-16",
-     "chamber": "Senate",
-     "text": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
-    }
-   ],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
-   "last_action_date": "2025-10-16",
-   "introduced": "2025-10-16",
-   "status": "committee",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "deceptive election"
-     ],
-     "subtags": [
-      "dilution_cause_of_action"
      ]
     }
    }
@@ -1943,48 +1298,8 @@
       "diluting the vot"
      ],
      "subtags": [
-      "language_access",
-      "constitutional_amendment"
+      "language_access"
      ]
-    }
-   }
-  },
-  {
-   "id": "ma-194-HD6417",
-   "state": "MA",
-   "session": "194",
-   "session_name": "194th General Court (2025-2026)",
-   "number": "HD6417",
-   "chamber": "House",
-   "type": "bill",
-   "title": "An Act providing for the recall of elected officers in the city of New Bedford",
-   "sponsors": [
-    {
-     "name": "Antonio F. D. Cabral",
-     "role": "primary"
-    },
-    {
-     "name": "Christopher Hendricks",
-     "role": "cosponsor"
-    }
-   ],
-   "url": "https://malegislature.gov/Bills/194/HD6417",
-   "text_url": "",
-   "summary": "",
-   "actions": [],
-   "subjects": [],
-   "hearings": [],
-   "last_action": "",
-   "last_action_date": "",
-   "introduced": "",
-   "status": "introduced",
-   "categories": {
-    "svra": {
-     "level": "possible",
-     "terms": [
-      "at large shall be from voters residing in each of the wards"
-     ],
-     "subtags": []
     }
    }
   }

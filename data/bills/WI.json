@@ -1,7 +1,7 @@
 {
  "state": "WI",
  "name": "Wisconsin",
- "generated": "2026-10-26T06:06:00Z",
+ "generated": "2026-10-26T07:39:41Z",
  "bills": [
   {
    "id": "wi-2025-SB1130",
@@ -135,16 +135,6 @@
       "primaries",
       "study_commission"
      ]
-    },
-    "pr": {
-     "level": "possible",
-     "terms": [
-      "surplus votes"
-     ],
-     "subtags": [
-      "electoral_college",
-      "local_government"
-     ]
     }
    }
   },
@@ -275,16 +265,6 @@
       "local_option",
       "primaries",
       "study_commission"
-     ]
-    },
-    "pr": {
-     "level": "possible",
-     "terms": [
-      "surplus votes"
-     ],
-     "subtags": [
-      "electoral_college",
-      "local_government"
      ]
     }
    }
@@ -555,17 +535,6 @@
       "local_option",
       "study_commission"
      ]
-    },
-    "pr": {
-     "level": "possible",
-     "terms": [
-      "surplus votes"
-     ],
-     "subtags": [
-      "congressional",
-      "electoral_college",
-      "local_government"
-     ]
     }
    }
   },
@@ -708,17 +677,6 @@
       "adoption",
       "local_option",
       "study_commission"
-     ]
-    },
-    "pr": {
-     "level": "possible",
-     "terms": [
-      "surplus votes"
-     ],
-     "subtags": [
-      "congressional",
-      "electoral_college",
-      "local_government"
      ]
     }
    }
