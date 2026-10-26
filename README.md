@@ -8,13 +8,18 @@ A free, self-hosted legislative tracker for **ranked choice voting**, **state vo
 
 ## States
 
-| State | Source | Status |
-|---|---|---|
-| Massachusetts | malegislature.gov JSON API | Live |
-| Texas | Texas Legislative Council FTP (bill history XML + bill text) | Live |
-| Virginia | LIS public CSV files | Live |
-| Maryland | General Assembly master list (JSON) | Live |
-| Colorado, Michigan, Minnesota, Wisconsin, Georgia, North Carolina | | Being added |
+| State | Source |
+|---|---|
+| Massachusetts | malegislature.gov JSON API |
+| Texas | Texas Legislative Council FTP (bill history XML + bill text) |
+| Virginia | LIS public CSV files |
+| Maryland | General Assembly master list (JSON) |
+| Colorado | leg.colorado.gov bill search + bill pages |
+| Michigan | legislature.mi.gov search (incl. its full-text search) + bill pages |
+| Minnesota | Revisor of Statutes Bill Status API (XML) |
+| Wisconsin | docs.legis.wisconsin.gov proposal lists + histories |
+| Georgia | legis.ga.gov JSON API |
+| North Carolina | ncleg.gov filed-bills feeds + bill pages |
 
 `config/states.yml` lists the sessions collected for each state. New sessions (e.g. 2027) are picked up automatically as soon as the legislature publishes them.
 
@@ -38,6 +43,10 @@ Edit the file on GitHub and save; the next run re-checks every bill against the 
 - **Bill details**: progress, why it was flagged, official summary, sponsors, full history, and your notes.
 - **Search every bill**: search all bills in the covered states, on any subject, and add any of them to your watchlist or folders.
 - **Data sources**: whether each state's collector is working.
+
+## Email alerts
+
+After each update, newly found bills and status changes in your topics are posted as a comment on the **Bill alerts** issue in this repository. GitHub emails you about new comments on issues in your own repository; to be sure, open the issue and click *Subscribe*.
 
 ## One-time setup
 
