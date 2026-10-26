@@ -33,6 +33,8 @@ class Client:
         self.s.mount("https://", HTTPAdapter(max_retries=retry, pool_maxsize=8))
         self.s.mount("http://", HTTPAdapter(max_retries=retry, pool_maxsize=8))
         self.s.headers["User-Agent"] = USER_AGENT
+        self.s.headers["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,application/json;q=0.9,*/*;q=0.8"
+        self.s.headers["Accept-Language"] = "en-US,en;q=0.9"
         self.delay = delay
         self.timeout = timeout
         self.verify = verify

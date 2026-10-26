@@ -112,8 +112,8 @@ def scrape(session: dict, ctx: Context) -> list[dict]:
             raise SessionNotAvailable(code)
 
         live_paths = set()
-        downloaded = 0
-        for tdir in TYPE_DIRS:
+        todo = []
+        for tdir in TYPE_DIRS:          # ordered: bills and joint resolutions first
             if tdir not in type_dirs:
                 continue
             for group, is_dir, _ in ftp.list(f"{root}/{tdir}"):
@@ -124,18 +124,9 @@ def scrape(session: dict, ctx: Context) -> list[dict]:
                         continue
                     path = f"{root}/{tdir}/{group}/{fname}"
                     live_paths.add(path)
-                    if path in store and store[path]["ts"] == ts:
-                        continue
-                    if ctx.out_of_time():
-                        continue
-                    try:
-                        bill = _parse(ftp.read(path), session)
-                    except Exception as e:  # noqa: BLE001
-                        ctx.warn(f"{path}: {e}")
-                        continue
-                    if bill:
-                        store[path] = {"ts": ts, "bill": bill}
-                        downloaded += 1
+                    if path not in store or store[path]["ts"] != ts:
+                        todo.append((path, ts))
+        downloaded = _download(ctx, todo, store, session)
         for gone in set(store) - live_paths:
             store.pop(gone, None)
         if not ctx.out_of_time():
@@ -152,6 +143,45 @@ def scrape(session: dict, ctx: Context) -> list[dict]:
                 texts[bill["text_url"]] = _text_categories(ctx, bill["text_url"])
         bills.append(_attach_text(bill, texts))
     return bills
+
+
+WORKERS = 4
+
+
+def _download(ctx: Context, todo: list, store: dict, session: dict) -> int:
+    """Fetch changed history files over a few parallel FTP connections."""
+    import threading
+    from concurrent.futures import ThreadPoolExecutor
+
+    local = threading.local()
+    conns = []
+    lock = threading.Lock()
+
+    def work(item):
+        path, ts = item
+        if ctx.out_of_time():
+            return 0
+        if not hasattr(local, "ftp"):
+            local.ftp = FTP(ctx)
+            with lock:
+                conns.append(local.ftp)
+        try:
+            bill = _parse(local.ftp.read(path), session)
+        except Exception as e:  # noqa: BLE001
+            ctx.warn(f"{path}: {e}")
+            return 0
+        if bill:
+            with lock:
+                store[path] = {"ts": ts, "bill": bill}
+            return 1
+        return 0
+
+    ctx.log.info("[TX %s] %d history files to download", session["code"], len(todo))
+    with ThreadPoolExecutor(WORKERS) as pool:
+        n = sum(pool.map(work, todo))
+    for c in conns:
+        c.close()
+    return n
 
 
 def _attach_text(bill: dict, texts: dict) -> dict:

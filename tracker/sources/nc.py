@@ -40,7 +40,10 @@ def scrape(session: dict, ctx: Context) -> list[dict]:
         except ET.ParseError:
             continue
         items += root.iterfind(".//item")
-    if not items:
+    # Asking for a session that doesn't exist yet returns the current one's
+    # bills, so require bills filed after that session's prefiling could begin.
+    floor = f"{int(code) - 1}-11-01"
+    if not items or not any(iso_date(it.findtext("fileddate") or "") >= floor for it in items):
         raise SessionNotAvailable(code)
 
     details = ctx.cache.setdefault(f"details_{code}", {})

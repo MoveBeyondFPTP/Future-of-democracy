@@ -18,6 +18,7 @@ import hashlib
 import importlib
 import json
 import logging
+import re
 import sys
 import time
 import traceback
@@ -36,6 +37,7 @@ DATA = ROOT / "data"
 CACHE = ROOT / ".cache"
 STATES_PATH = ROOT / "config" / "states.yml"
 MAX_CHANGES = 2000
+BAN_WORDS = re.compile(r"prohibit|\bban(s|ned|ning)?\b|repeal|may not|shall not|preclud", re.I)
 
 log = logging.getLogger("tracker")
 
@@ -133,6 +135,11 @@ def run_state(code: str, cfg: dict, categories, cat_hash: str) -> dict:
                 for k, v in merged.items():
                     if cats.get(k, {}).get("subtags"):
                         v["subtags"] = cats[k]["subtags"]
+                    tags = v.get("subtags", [])
+                    if "ban" in tags and "adoption" in tags:
+                        # A bill rarely does both; the title/summary decides.
+                        drop = "adoption" if BAN_WORDS.search(lead) else "ban"
+                        v["subtags"] = [t for t in tags if t != drop]
                 b["categories"] = merged
             all_bills.extend(bills)
             ok_sessions += 1

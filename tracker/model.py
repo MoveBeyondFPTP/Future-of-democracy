@@ -26,6 +26,7 @@ A bill record is a plain dict (so it serializes straight to JSON):
 
 from __future__ import annotations
 
+import html
 import re
 from datetime import datetime
 
@@ -148,7 +149,12 @@ def finalize(bill: dict) -> dict:
         ("hearings", []), ("text_url", ""), ("chamber", ""), ("type", "bill"),
     ):
         bill.setdefault(k, default)
-    acts = [a for a in bill["actions"] if a.get("date")]
+    for a in bill["actions"]:
+        t = a.get("text") or ""
+        if "<" in t or "&" in t:
+            t = html.unescape(re.sub(r"<[^>]+>", " ", t))
+        a["text"] = re.sub(r"\s+", " ", t).strip()
+    acts = [a for a in bill["actions"] if a.get("date") and a.get("text")]
     acts.sort(key=lambda a: a["date"])
     bill["actions"] = acts
     if acts:

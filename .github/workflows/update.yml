@@ -24,6 +24,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   update:
@@ -69,6 +70,12 @@ jobs:
             git pull --rebase -q origin main || true
             git push -q origin HEAD:main
           fi
+
+      - name: Post alerts for new bills and status changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python scripts/notify.py
 
       - name: Build site
         run: python scripts/build_site.py

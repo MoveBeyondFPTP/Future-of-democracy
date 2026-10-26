@@ -62,7 +62,14 @@ export function liveSessions() {
   D.bills.forEach((b) => { if ((b.last_action_date || "") >= cutoff) (recent[b.state] ||= new Set()).add(b.session); });
   const out = {};
   for (const [code, s] of Object.entries(D.meta.states)) {
-    out[code] = new Set(s.sessions.filter((x) => x.current || recent[code]?.has(x.code)).map((x) => x.code));
+    const have = new Set(D.bills.filter((b) => b.state === code).map((b) => b.session));
+    const set = new Set(s.sessions.filter((x) => x.current || recent[code]?.has(x.code)).map((x) => x.code));
+    // Until a new session has tracked bills, keep showing the latest one that does.
+    if (![...set].some((c) => have.has(c))) {
+      const latest = [...s.sessions].reverse().find((x) => have.has(x.code));
+      if (latest) set.add(latest.code);
+    }
+    out[code] = set;
   }
   return (_live = out);
 }
