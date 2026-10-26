@@ -1,0 +1,42 @@
+name: Test new state collectors
+
+on:
+  push:
+    branches: [dev]
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: test-cache-${{ github.run_id }}
+          restore-keys: test-cache-
+      - name: Run new states
+        run: python -m tracker.run --states "$(cat .test-states 2>/dev/null || echo CO,MI,MN,WI,GA,NC)" 2>&1 | tee run.log
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .cache
+          key: test-cache-${{ github.run_id }}
+      - name: Publish results to the _probe branch
+        if: always()
+        run: |
+          mkdir -p out && cp -r data out/ 2>/dev/null; cp run.log out/ 2>/dev/null; cp -r .cache/catalog out/ 2>/dev/null
+          cd out
+          git init -q -b _probe
+          git config user.name "tracker-bot"
+          git config user.email "tracker-bot@users.noreply.github.com"
+          git add -A
+          git commit -qm "test results ${GITHUB_SHA::7}"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" _probe

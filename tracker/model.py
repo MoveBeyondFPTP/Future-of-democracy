@@ -53,7 +53,9 @@ _ENACTED = re.compile(
     r"(signed by (the )?governor|approved by (the )?governor|governor('s)? (signed|approved|action: approved)|"
     r"became law|becomes law|effective without (the )?governor|without (the )?governor'?s? signature|"
     r"enacted|chaptered|acts of \d{4},? chapter|\bchapter \d+ of the acts|signed by governor|"
-    r"approved by governor|governor approved|veto overridden|overrid(den|e) .*veto)",
+    r"approved by governor|governor approved|veto overridden|overrid(den|e) .*veto|"
+    r"^effective date|^act \d+|governor'?s action:? approval|secretary of state,? (chapter|filed)|"
+    r"assigned pa \d+|published \d|\bwisconsin act \d+)",
     re.I,
 )
 _VETOED = re.compile(r"\bveto(ed)?\b", re.I)

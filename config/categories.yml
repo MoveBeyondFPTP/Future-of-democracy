@@ -80,7 +80,7 @@ categories:
     subtags:
       ban:
         - '\b(prohibit|ban|bar|preclude|disallow)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
-        - '\b(ranked|instant|rcv|preferential)\w*.{0,80}\b(prohibited|may not be used|shall not be used|is not permitted)'
+        - '\b(ranked|instant|rcv|preferential)\w*.{0,80}\b(prohibit|prohibited|prohibits|ban|bans|banned|may not be used|shall not be used|is not permitted)\b'
         - '\brepeal\w*\b.{0,80}\b(ranked|instant|rcv|final[- ]five|top[- ]four)'
         - '\b(no|not)\b.{0,60}\b(may|shall)\b.{0,15}\b(use|adopt|conduct|implement|employ)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
         - '\b(may|shall) not (use|adopt|conduct|implement|employ)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'

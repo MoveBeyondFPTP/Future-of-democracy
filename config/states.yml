@@ -43,10 +43,52 @@ states:
       - {code: "2026RS", name: "2026 Regular Session"}
       - {code: "2027RS", name: "2027 Regular Session", current: true}
 
-  # --- Second batch: sources being built next -------------------------------
-  CO: {name: Colorado, enabled: false, source: co, sessions: []}
-  MI: {name: Michigan, enabled: false, source: mi, sessions: []}
-  MN: {name: Minnesota, enabled: false, source: mn, sessions: []}
-  WI: {name: Wisconsin, enabled: false, source: wi, sessions: []}
-  GA: {name: Georgia, enabled: false, source: ga, sessions: []}
-  NC: {name: North Carolina, enabled: false, source: nc, sessions: []}
+  CO:
+    name: Colorado
+    enabled: true
+    source: co
+    sessions:
+      - {code: "2025B", name: "2025 Extraordinary Session", site_name: "2025 Extraordinary Session"}
+      - {code: "2026A", name: "2026 Regular Session", site_name: "2026 Regular Session"}
+      - {code: "2027A", name: "2027 Regular Session", site_name: "2027 Regular Session", current: true}
+
+  MI:
+    name: Michigan
+    enabled: true
+    source: mi
+    sessions:
+      - {code: "2025-2026", name: "2025-2026 Session"}
+      - {code: "2027-2028", name: "2027-2028 Session", current: true}
+
+  MN:
+    name: Minnesota
+    enabled: true
+    source: mn
+    sessions:
+      - {code: "0942025", name: "94th Legislature (2025-2026)"}
+      - {code: "0952027", name: "95th Legislature (2027-2028)", current: true}
+
+  WI:
+    name: Wisconsin
+    enabled: true
+    source: wi
+    sessions:
+      - {code: "2025", name: "2025-2026 Session"}
+      - {code: "2027", name: "2027-2028 Session", current: true}
+
+  GA:
+    name: Georgia
+    enabled: true
+    source: ga
+    sessions:
+      - {code: "20252026", name: "2025-2026 Regular Session"}
+      - {code: "2026EX", name: "2026 Special Session"}
+      - {code: "20272028", name: "2027-2028 Regular Session", current: true}
+
+  NC:
+    name: North Carolina
+    enabled: true
+    source: nc
+    sessions:
+      - {code: "2025", name: "2025-2026 Session"}
+      - {code: "2027", name: "2027-2028 Session", current: true}
