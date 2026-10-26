@@ -88,9 +88,14 @@ def _hits(text: str, patterns, limit: int = 6):
     return found
 
 
-def classify_text(text: str, categories: list[Category]) -> dict:
-    """Return {category_key: {level, terms, subtags}} for categories that hit."""
+def classify_text(text: str, categories: list[Category], lead: str = "") -> dict:
+    """Return {category_key: {level, terms, subtags}} for categories that hit.
+
+    Sub-tags (ban, adoption, ...) are read from `lead` (title and the start of
+    the summary) when it yields any, because full bill text often mentions
+    bans and adoptions in passing; otherwise from the whole text."""
     base = normalize(text)
+    lead_n = normalize(lead)
     if not base:
         return {}
     results = {}
@@ -108,7 +113,12 @@ def classify_text(text: str, categories: list[Category]) -> dict:
                 terms = weak
         if not level:
             continue
-        subtags = [name for name, pats in cat.subtags.items() if any(rx.search(t) for _, rx in pats)]
+        subtags = []
+        if lead_n:
+            tl = _blank(lead_n, cat.exclude) if cat.exclude else lead_n
+            subtags = [name for name, pats in cat.subtags.items() if any(rx.search(tl) for _, rx in pats)]
+        if not subtags:
+            subtags = [name for name, pats in cat.subtags.items() if any(rx.search(t) for _, rx in pats)]
         results[cat.key] = {"level": level, "terms": sorted(set(terms)), "subtags": subtags}
     return results
 

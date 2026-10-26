@@ -1,0 +1,52 @@
+# States the tracker collects, and which legislative sessions to collect.
+#
+# enabled: false   skips a state without deleting its settings.
+# sessions:        the legislature's own session codes. A session that does
+#                  not exist yet (e.g. prefiling hasn't opened) is skipped
+#                  quietly and picked up automatically once it appears.
+# current:         the session(s) shown by default in the app. Older sessions
+#                  stay in the data for reference.
+
+states:
+  MA:
+    name: Massachusetts
+    enabled: true
+    source: ma
+    sessions:
+      - {code: "194", name: "194th General Court (2025-2026)"}
+      - {code: "195", name: "195th General Court (2027-2028)", current: true}
+
+  TX:
+    name: Texas
+    enabled: true
+    source: tx
+    sessions:
+      - {code: "89R", name: "89th Legislature (2025)"}
+      - {code: "891", name: "89th Legislature, 1st Called Session (2025)"}
+      - {code: "892", name: "89th Legislature, 2nd Called Session (2025)"}
+      - {code: "90R", name: "90th Legislature (2027)", current: true}
+
+  VA:
+    name: Virginia
+    enabled: true
+    source: va
+    sessions:
+      - {code: "20261", name: "2026 Regular Session"}
+      - {code: "20262", name: "2026 Special Session I"}
+      - {code: "20271", name: "2027 Regular Session", current: true}
+
+  MD:
+    name: Maryland
+    enabled: true
+    source: md
+    sessions:
+      - {code: "2026RS", name: "2026 Regular Session"}
+      - {code: "2027RS", name: "2027 Regular Session", current: true}
+
+  # --- Second batch: sources being built next -------------------------------
+  CO: {name: Colorado, enabled: false, source: co, sessions: []}
+  MI: {name: Michigan, enabled: false, source: mi, sessions: []}
+  MN: {name: Minnesota, enabled: false, source: mn, sessions: []}
+  WI: {name: Wisconsin, enabled: false, source: wi, sessions: []}
+  GA: {name: Georgia, enabled: false, source: ga, sessions: []}
+  NC: {name: North Carolina, enabled: false, source: nc, sessions: []}

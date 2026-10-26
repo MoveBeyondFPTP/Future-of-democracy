@@ -1,0 +1,84 @@
+name: Update bills
+
+on:
+  schedule:
+    # Twice a day: 4:23 am and 4:23 pm Mountain (10:23 and 22:23 UTC).
+    - cron: "23 10,22 * * *"
+  workflow_dispatch:
+    inputs:
+      states:
+        description: "Only these states (comma-separated, e.g. TX,VA). Leave blank for all."
+        required: false
+  push:
+    branches: [main]
+    paths:
+      - "tracker/**"
+      - "config/**"
+      - "site/**"
+      - "scripts/build_site.py"
+      - ".github/workflows/update.yml"
+
+concurrency:
+  group: update-bills
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # Remembers what was already downloaded, so each run only fetches changes.
+      - name: Restore scrape cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: scrape-cache-${{ github.run_id }}
+          restore-keys: scrape-cache-
+
+      - name: Collect and classify bills
+        run: python -m tracker.run ${{ github.event.inputs.states && format('--states {0}', github.event.inputs.states) || '' }}
+
+      - name: Save scrape cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: scrape-cache-${{ github.run_id }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "tracker-bot"
+          git config user.email "tracker-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -qm "Update bill data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -q origin main || true
+            git push -q origin HEAD:main
+          fi
+
+      - name: Build site
+        run: python scripts/build_site.py
+
+      - name: Publish site to the gh-pages branch
+        run: |
+          cd _site
+          git init -q -b gh-pages
+          git config user.name "tracker-bot"
+          git config user.email "tracker-bot@users.noreply.github.com"
+          git add -A
+          git commit -qm "Publish site ${GITHUB_SHA::7}"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" gh-pages

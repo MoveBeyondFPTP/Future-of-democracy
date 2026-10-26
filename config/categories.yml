@@ -85,15 +85,17 @@ categories:
         - '\b(no|not)\b.{0,60}\b(may|shall)\b.{0,15}\b(use|adopt|conduct|implement|employ)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
         - '\b(may|shall) not (use|adopt|conduct|implement|employ)\w*\b.{0,80}\b(ranked|instant|rcv|preferential|approval)'
       adoption:
-        - '\b(establish|adopt|authoriz|implement|require|creat)\w*\b.{0,80}\b(ranked|instant|rcv|preferential)'
+        - '\b(establish|adopt|authoriz|implement|require|creat|expand|extend|permit|allow)\w*\b.{0,80}\b(ranked|instant|rcv|preferential)'
+        - '\boption to use (ranked|instant|rcv)'
       local_option:
         - '\b(municipalit|cit(y|ies)|count(y|ies)|local (government|jurisdiction)|home rule|charter)\w*\b.{0,120}\b(ranked|instant|rcv)'
+        - '\b(ranked|instant|rcv)\w*.{0,120}\b(local(ly)? (elect|govern|office|jurisdiction)|municipal|county|counties|city|cities|town)'
       primaries:
         - '\b(presidential |party )?primar(y|ies)\b.{0,80}\b(ranked|instant|rcv)'
       overseas_military:
         - '\b(uocava|overseas|military|uniformed services)\b.{0,120}\b(ranked|instant|special absentee)'
       study_commission:
-        - '\b(study|task force|commission|pilot|working group|report)\b.{0,80}\b(ranked|instant|rcv|voting method)'
+        - '\b(study|studies|task force|commission|pilot|work(ing)? group)\b.{0,80}\b(ranked|instant|rcv|voting method)'
       top_four_five:
         - '\b(final|top)[- ](four|five)\b'
       constitutional_amendment:
@@ -114,7 +116,7 @@ categories:
       repositories, and bills repealing or limiting existing state VRAs.
     strong:
       - '\b(state |[a-z]+ )?voting rights act of\b'            # "...Voting Rights Act of Colorado"
-      - '\b[a-z]+ voting rights act\b(?! of 1965)'             # "Michigan Voting Rights Act"
+      - '\b(?!(the|federal|national|this|a|said|such|u\.s\.)\b)[a-z]+ voting rights act\b(?! of 1965)'   # "Michigan Voting Rights Act"
       - '\bjohn r(\.|obert)? lewis voting rights'
       - '\bvote dilution'
       - '\bdilut(e|es|ed|ing|ion) (the )?(vot|electoral|voting strength)'
@@ -131,8 +133,11 @@ categories:
       - '\bvoting rights (database|data|repository|institute|clinic)'
       - '\bstatewide (election )?(database|repository)\b.{0,60}\b(elect|vot)'
       - '\bright to vote\b.{0,80}\b(cause of action|private right of action|civil action)'
+      - '\bvoting rights (law|statute|protection)s?\b'
+      - '\bremedial (election|electoral|districting|redistricting) (system|plan|method|map)s?'
     weak:
       - '\bat[- ]large (method|system|election)s?'
+      - '\bat[- ]large\b.{0,60}\b(single[- ]member )?(district|ward)s?\b'
       - '\bdistrict[- ]based (method|election)s?'
       - '\bmethod of election'
       - '\bsection 2\b'
@@ -214,10 +219,8 @@ categories:
       - '\belector\w*\b.{0,60}\bproportional'
       - '\bcongressional district method'
     weak:
-      - '\bquota\b'
       - '\bsurplus votes?'
       - '\b(two|three|four|five|2|3|4|5)[- ]member district'
-      - '\bat[- ]large (seats?|members?)\b'
       - '\bseats? in proportion to'
       - '\bin proportion to (the )?(votes|share of)'
       - '\bshare of (the )?(popular )?vote'
@@ -227,7 +230,6 @@ categories:
       - '\belection'
       - '\bvot(e|er|ing)'
       - '\bballot'
-      - '\b(legislat|council|commission|board|congressional|house of representatives|senate)'
     subtags:
       stv_proportional_rcv:
         - '\b(single[- ]transferable|proportional ranked|droop|surplus transfer|multi[- ]?winner ranked)'
