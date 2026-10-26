@@ -1,0 +1,96 @@
+{
+ "MA": {
+  "name": "Massachusetts",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 11989,
+  "tracked": 161,
+  "sessions": {
+   "194": {
+    "bills": 11989,
+    "seconds": 294
+   },
+   "195": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 841,
+  "warnings": [
+   "detail H5658: HTTPSConnectionPool(host='malegislature.gov', port=443): Max retries exceeded with url: /api/GeneralCourts/194/Documents/H5658 (Caused by ResponseError('too many 500 error responses'))"
+  ]
+ },
+ "TX": {
+  "name": "Texas",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 5939,
+  "tracked": 8,
+  "sessions": {
+   "89R": {
+    "bills": 5939,
+    "seconds": 3013
+   },
+   "891": {
+    "bills": 0,
+    "seconds": 3
+   },
+   "892": {
+    "bills": 0,
+    "seconds": 3
+   },
+   "90R": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 0,
+  "warnings": []
+ },
+ "VA": {
+  "name": "Virginia",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 4408,
+  "tracked": 7,
+  "sessions": {
+   "20261": {
+    "bills": 3646,
+    "seconds": 10
+   },
+   "20262": {
+    "bills": 307,
+    "seconds": 1
+   },
+   "20271": {
+    "bills": 455,
+    "seconds": 2
+   }
+  },
+  "requests": 12,
+  "warnings": []
+ },
+ "MD": {
+  "name": "Maryland",
+  "last_run": "2026-10-26T04:38:59Z",
+  "last_success": "2026-10-26T04:38:59Z",
+  "ok": true,
+  "bills_total": 2677,
+  "tracked": 10,
+  "sessions": {
+   "2026RS": {
+    "bills": 2677,
+    "seconds": 6
+   },
+   "2027RS": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 2,
+  "warnings": []
+ }
+}
