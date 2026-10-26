@@ -1,0 +1,216 @@
+{
+ "state": "GA",
+ "name": "Georgia",
+ "generated": "2026-10-26T06:06:00Z",
+ "bills": [
+  {
+   "id": "ga-20252026-SB175",
+   "state": "GA",
+   "session": "20252026",
+   "session_name": "2025-2026 Regular Session",
+   "number": "SB 175",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Elections and Primaries; use of ranked-choice voting; prohibit",
+   "sponsors": [
+    {
+     "name": "Robertson, Randy",
+     "role": "primary"
+    },
+    {
+     "name": "Beach, Brandon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brass, Matt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Goodman, Russ",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hodges, Mike",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Harbin, Marty",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://www.legis.ga.gov/legislation/70344",
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "",
+     "text": "Senate Hopper"
+    },
+    {
+     "date": "2025-02-18",
+     "chamber": "",
+     "text": "Senate Read and Referred"
+    },
+    {
+     "date": "2025-02-26",
+     "chamber": "",
+     "text": "Senate Committee Favorably Reported"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "",
+     "text": "Senate Read Second Time"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "",
+     "text": "Senate Passed/Adopted"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "",
+     "text": "Senate Third Read"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "",
+     "text": "Senate Engrossed"
+    },
+    {
+     "date": "2025-03-04",
+     "chamber": "",
+     "text": "House First Readers"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "",
+     "text": "House Second Readers"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "",
+     "text": "House Committee Favorably Reported By Substitute"
+    },
+    {
+     "date": "2025-04-04",
+     "chamber": "",
+     "text": "House Withdrawn, Recommitted"
+    },
+    {
+     "date": "2026-03-27",
+     "chamber": "",
+     "text": "House Committee Favorably Reported By Substitute"
+    },
+    {
+     "date": "2026-03-31",
+     "chamber": "",
+     "text": "House Third Reading Lost"
+    },
+    {
+     "date": "2026-03-31",
+     "chamber": "",
+     "text": "House Third Readers"
+    },
+    {
+     "date": "2026-03-31",
+     "chamber": "",
+     "text": "House Third Readers"
+    }
+   ],
+   "subjects": [],
+   "committees": [
+    "Governmental Affairs",
+    "Ethics"
+   ],
+   "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to general provisions regarding elections and primaries, so as to prohibit the use of ranked-choice voting; to provide for certain exceptions; to provide for a definition; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+   "hearings": [],
+   "text_url": "",
+   "last_action": "House Third Readers",
+   "last_action_date": "2026-03-31",
+   "introduced": "2025-02-13",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban",
+      "primaries"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ga-20252026-SB536",
+   "state": "GA",
+   "session": "20252026",
+   "session_name": "2025-2026 Regular Session",
+   "number": "SB 536",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "\"Henry McNeal Turner Voting Rights Act\"; enact",
+   "sponsors": [
+    {
+     "name": "Jones II, Harold",
+     "role": "primary"
+    },
+    {
+     "name": "Merritt, Nikki",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Parent, Elena",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mangham, Randal",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Orrock, Nan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jackson, Kim",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://www.legis.ga.gov/legislation/73416",
+   "actions": [
+    {
+     "date": "2026-02-19",
+     "chamber": "",
+     "text": "Senate Hopper"
+    },
+    {
+     "date": "2026-02-20",
+     "chamber": "",
+     "text": "Senate Read and Referred"
+    }
+   ],
+   "subjects": [],
+   "committees": [
+    "Ethics"
+   ],
+   "summary": "A BILL to be entitled an Act to amend Title 21 of the Official Code of Georgia Annotated, relating to elections, so as to enact the \"Henry McNeal Turner Voting Rights Act\"; to provide for rules and regulations; to provide for construction; to waive privileges and sovereign immunity; to provide legislative findings and declarations; to provide for definitions; to provide for effective dates; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+   "hearings": [],
+   "text_url": "",
+   "last_action": "Senate Read and Referred",
+   "last_action_date": "2026-02-20",
+   "introduced": "2026-02-19",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "turner voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra"
+     ]
+    }
+   }
+  }
+ ]
+}

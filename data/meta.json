@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T05:34:33Z",
+ "generated": "2026-10-26T07:38:32Z",
  "categories": [
   {
    "key": "rcv",
@@ -129,33 +129,109 @@
   },
   "CO": {
    "name": "Colorado",
-   "enabled": false,
-   "sessions": []
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025B",
+     "name": "2025 Extraordinary Session",
+     "current": false
+    },
+    {
+     "code": "2026A",
+     "name": "2026 Regular Session",
+     "current": false
+    },
+    {
+     "code": "2027A",
+     "name": "2027 Regular Session",
+     "current": true
+    }
+   ]
   },
   "MI": {
    "name": "Michigan",
-   "enabled": false,
-   "sessions": []
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025-2026",
+     "name": "2025-2026 Session",
+     "current": false
+    },
+    {
+     "code": "2027-2028",
+     "name": "2027-2028 Session",
+     "current": true
+    }
+   ]
   },
   "MN": {
    "name": "Minnesota",
-   "enabled": false,
-   "sessions": []
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "0942025",
+     "name": "94th Legislature (2025-2026)",
+     "current": false
+    },
+    {
+     "code": "0952027",
+     "name": "95th Legislature (2027-2028)",
+     "current": true
+    }
+   ]
   },
   "WI": {
    "name": "Wisconsin",
-   "enabled": false,
-   "sessions": []
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025",
+     "name": "2025-2026 Session",
+     "current": false
+    },
+    {
+     "code": "2027",
+     "name": "2027-2028 Session",
+     "current": true
+    }
+   ]
   },
   "GA": {
    "name": "Georgia",
-   "enabled": false,
-   "sessions": []
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "20252026",
+     "name": "2025-2026 Regular Session",
+     "current": false
+    },
+    {
+     "code": "2026EX",
+     "name": "2026 Special Session",
+     "current": false
+    },
+    {
+     "code": "20272028",
+     "name": "2027-2028 Regular Session",
+     "current": true
+    }
+   ]
   },
   "NC": {
    "name": "North Carolina",
-   "enabled": false,
-   "sessions": []
+   "enabled": true,
+   "sessions": [
+    {
+     "code": "2025",
+     "name": "2025-2026 Session",
+     "current": false
+    },
+    {
+     "code": "2027",
+     "name": "2027-2028 Session",
+     "current": true
+    }
+   ]
   }
  },
  "statuses": [

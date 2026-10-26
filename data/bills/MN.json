@@ -1,0 +1,2811 @@
+{
+ "state": "MN",
+ "name": "Minnesota",
+ "generated": "2026-10-26T06:06:00Z",
+ "bills": [
+  {
+   "id": "mn-0942025-SF5248",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 5248",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Elections provisions modification",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF5248&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5248/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Bahr",
+     "role": "primary"
+    },
+    {
+     "name": "Mathews",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-04-30",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2026-04-30",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2026-04-30",
+   "introduced": "2026-04-30",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF4241",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 4241",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Hennepin County medical examiner selection procedures modified, Independent School District No. 535, Rochester school board procedure modified, and economic interest disclosure required for park district board candidates.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF4241&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4241/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Freiberg",
+     "role": "primary"
+    },
+    {
+     "name": "Johnson Stewart",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-03-12",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "House",
+     "text": "Committee report, to adopt as amended"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "House",
+     "text": "Second reading"
+    },
+    {
+     "date": "2026-04-09",
+     "chamber": "House",
+     "text": "House rule 1.21, placed on Calendar for the Day: Monday, April 13, 2026"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "House",
+     "text": "Third reading"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "House",
+     "text": "Bill was passed"
+    },
+    {
+     "date": "2026-04-14",
+     "chamber": "Senate",
+     "text": "Received from House"
+    },
+    {
+     "date": "2026-04-14",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2026-04-14",
+     "chamber": "Senate",
+     "text": "Referred to Rules and Administration: for comparison with SF4660, now on General Orders"
+    },
+    {
+     "date": "2026-04-15",
+     "chamber": "Senate",
+     "text": "Comm report: Rule 45-amend, subst. General Orders: SF4660"
+    },
+    {
+     "date": "2026-04-15",
+     "chamber": "Senate",
+     "text": "Second reading"
+    },
+    {
+     "date": "2026-04-20",
+     "chamber": "Senate",
+     "text": "Special Order: Rule 45 amendment stricken"
+    },
+    {
+     "date": "2026-04-20",
+     "chamber": "Senate",
+     "text": "Third reading Passed"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Returned from Senate"
+    }
+   ],
+   "companion": "SF 4660",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Returned from Senate",
+   "last_action_date": "2026-04-22",
+   "introduced": "2026-03-12",
+   "status": "passed_both",
+   "categories": {
+    "rcv": {
+     "level": "possible",
+     "terms": [
+      "highest ranked"
+     ],
+     "subtags": [
+      "local_option",
+      "constitutional_amendment"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large or from election at large to election by district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF4399",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 4399",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Independent School District No. 535, Rochester; school board elections provided.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF4399&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4399/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Liebling",
+     "role": "primary"
+    },
+    {
+     "name": "Jordan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Smith",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hicks",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-03-16",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Education Policy"
+    },
+    {
+     "date": "2026-03-25",
+     "chamber": "House",
+     "text": "Committee report, to adopt as amended"
+    },
+    {
+     "date": "2026-03-25",
+     "chamber": "House",
+     "text": "Second reading"
+    },
+    {
+     "date": "2026-03-25",
+     "chamber": "House",
+     "text": "Authors added"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Authors added",
+   "last_action_date": "2026-03-25",
+   "introduced": "2026-03-16",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large or from election at large to election by district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF4552",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 4552",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Independent School District No. 535, Rochester, school board elections provisions",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF4552&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4552/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Boldon",
+     "role": "primary"
+    },
+    {
+     "name": "Nelson",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-03-18",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2026-03-18",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2026-03-23",
+     "chamber": "Senate",
+     "text": "Author added"
+    }
+   ],
+   "companion": "HF 4400",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2026-03-23",
+   "introduced": "2026-03-18",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large or from election at large to election by district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF4400",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 4400",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Independent School District No. 535, Rochester; school board elections provided.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF4400&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4400/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Liebling",
+     "role": "primary"
+    },
+    {
+     "name": "Jordan",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-03-16",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    }
+   ],
+   "companion": "SF 4552",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Introduction and first reading, referred to Elections Finance and Government Operations",
+   "last_action_date": "2026-03-16",
+   "introduced": "2026-03-16",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at large or from election at large to election by district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF4085",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 4085",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Political subdivisions establishment or enforcement of ranked-choice voting prohibition provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF4085&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4085/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Koran",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 3724",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2026-03-04",
+   "introduced": "2026-03-04",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF3724",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 3724",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Political subdivisions prohibited from establishing or enforcing ranked-choice voting.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3724&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3724/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Davis",
+     "role": "primary"
+    },
+    {
+     "name": "Altendorf",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gordon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roach",
+     "role": "cosponsor"
+    },
+    {
+     "name": "McDonald",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lawrence",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-02-25",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2026-02-26",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 4085",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2026-02-26",
+   "introduced": "2026-02-25",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1804",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1804",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting authorization provision; Procedures for adoption, implementation, and use of ranked choice voting for local jurisdictions establishment provision; appropriation",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1804&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1804/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Putnam",
+     "role": "primary"
+    },
+    {
+     "name": "Kunesh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Maye Quade",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hoffman",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2026-02-17",
+     "chamber": "Senate",
+     "text": "Author stricken: Mitchell"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author stricken: Mitchell",
+   "last_action_date": "2026-02-17",
+   "introduced": "2025-02-24",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF3045",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 3045",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Omnibus State and Local Government and Elections policy and appropriations",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF3045&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3045/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Xiong",
+     "role": "primary"
+    },
+    {
+     "name": "Klevorn",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Nash",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Referred to State and Local Government"
+    },
+    {
+     "date": "2025-04-22",
+     "chamber": "Senate",
+     "text": "Comm report: To pass as amended and re-refer to Finance"
+    },
+    {
+     "date": "2025-04-23",
+     "chamber": "Senate",
+     "text": "Comm report: To pass as amended"
+    },
+    {
+     "date": "2025-04-23",
+     "chamber": "Senate",
+     "text": "Second reading"
+    },
+    {
+     "date": "2025-04-25",
+     "chamber": "Senate",
+     "text": "Special Order: Amended"
+    },
+    {
+     "date": "2025-04-25",
+     "chamber": "Senate",
+     "text": "Third reading Passed as amended"
+    },
+    {
+     "date": "2025-04-28",
+     "chamber": "House",
+     "text": "Received from Senate"
+    },
+    {
+     "date": "2025-04-28",
+     "chamber": "House",
+     "text": "Senate file first reading, referred to Ways and Means"
+    },
+    {
+     "date": "2025-04-29",
+     "chamber": "House",
+     "text": "Committee report, to adopt as amended"
+    },
+    {
+     "date": "2025-04-29",
+     "chamber": "House",
+     "text": "Second reading"
+    },
+    {
+     "date": "2025-04-29",
+     "chamber": "House",
+     "text": "House rule 1.21, placed on Calendar for the Day: Thursday, May 1, 2025"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Amended"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Third reading as amended"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Bill was passed as amended"
+    },
+    {
+     "date": "2025-05-05",
+     "chamber": "Senate",
+     "text": "Returned from House with amendment"
+    },
+    {
+     "date": "2025-05-05",
+     "chamber": "Senate",
+     "text": "Senate not concur, conference committee of 5 requested"
+    },
+    {
+     "date": "2025-05-05",
+     "chamber": "Senate",
+     "text": "Senate conferees: Xiong; Carlson; Maye Quade: Westlin; Lang"
+    },
+    {
+     "date": "2025-05-06",
+     "chamber": "House",
+     "text": "Senate refuses to concur, conference committee of 5 requested"
+    },
+    {
+     "date": "2025-05-06",
+     "chamber": "House",
+     "text": "Senate conferees: Xiong; Carlson; Maye Quade: Westlin; Lang"
+    },
+    {
+     "date": "2025-05-06",
+     "chamber": "House",
+     "text": "House accedes, conference committee of 4 to be appointed"
+    },
+    {
+     "date": "2025-05-06",
+     "chamber": "House",
+     "text": "House conferees: Klevorn, Nash, Freiberg, Altendorf"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "Senate",
+     "text": "House conferees: Klevorn; Nash; Freiberg; Altendorf"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "Senate",
+     "text": "Conference committee report, delete everything"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "Senate",
+     "text": "Senate adopted CC report and repassed bill"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "Senate",
+     "text": "Third Reading Repassed"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "House",
+     "text": "Senate adopted conference committee report, bill repassed"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "House",
+     "text": "Conference committee report, delete everything"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "House",
+     "text": "House adopted conference committee report"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "House",
+     "text": "Third reading as amended by Conference"
+    },
+    {
+     "date": "2025-05-19",
+     "chamber": "House",
+     "text": "Bill was repassed as amended by Conference"
+    }
+   ],
+   "companion": "HF 2783",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Bill was repassed as amended by Conference",
+   "last_action_date": "2025-05-19",
+   "introduced": "2025-03-27",
+   "status": "passed_both",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "protected class"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF3513",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 3513",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Constitutional Amendment establishing an Independent Redistricting Commission",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF3513&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3513/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Port",
+     "role": "primary"
+    },
+    {
+     "name": "Boldon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mitchell",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-05-13",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-05-13",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "Senate",
+     "text": "Author added"
+    }
+   ],
+   "companion": "HF 3270",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-05-14",
+   "introduced": "2025-05-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "possible",
+     "terms": [
+      "highest ranked",
+      "order of preference"
+     ],
+     "subtags": [
+      "adoption",
+      "study_commission",
+      "constitutional_amendment"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic information",
+      "language minority",
+      "minority vot",
+      "tribal reservation"
+     ],
+     "subtags": [
+      "language_access",
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "share of the popular vote"
+     ],
+     "subtags": [
+      "congressional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF3270",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 3270",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Independent Redistricting Commission established, Redistricting Commission Applicant Review Panel established, principles to be used in adopting legislative and congressional districts established, former legislative members lobbying activity prohibited, legislative session conduct and convening requirements amended, and constitutional amendment proposed.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3270&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3270/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Long",
+     "role": "primary"
+    },
+    {
+     "name": "Stephenson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Greenman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Frazier",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Howard",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hollins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Coulter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pursell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Agbaje",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jones",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kraft",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-04-29",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to State Government Finance and Policy"
+    },
+    {
+     "date": "2025-04-30",
+     "chamber": "House",
+     "text": "Authors added"
+    }
+   ],
+   "companion": "SF 3513",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Authors added",
+   "last_action_date": "2025-04-30",
+   "introduced": "2025-04-29",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "possible",
+     "terms": [
+      "highest ranked",
+      "order of preference"
+     ],
+     "subtags": [
+      "adoption",
+      "study_commission",
+      "constitutional_amendment"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic information",
+      "language minority",
+      "minority vot",
+      "tribal reservation"
+     ],
+     "subtags": [
+      "language_access",
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "share of the popular vote"
+     ],
+     "subtags": [
+      "congressional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF3096",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 3096",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Omnibus Elections policy and appropriations",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF3096&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3096/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Westlin",
+     "role": "primary"
+    },
+    {
+     "name": "Carlson",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-04-22",
+     "chamber": "Senate",
+     "text": "Comm report: To pass as amended and re-refer to Finance"
+    }
+   ],
+   "companion": "HF 2595",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Comm report: To pass as amended and re-refer to Finance",
+   "last_action_date": "2025-04-22",
+   "introduced": "2025-03-27",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "language minority"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "language_access",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF2361",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 2361",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Polling place closure and change notice required until occurrence of a presidential election or redistricting.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2361&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2361/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Lee, K.",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "House",
+     "text": "Committee report, to adopt as amended"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "House",
+     "text": "Second reading"
+    }
+   ],
+   "companion": "SF 2846",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Second reading",
+   "last_action_date": "2025-04-01",
+   "introduced": "2025-03-13",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "polling place closure"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF3070",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 3070",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Constitution amendment proposal to establish an Independent Redistricting Commission",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF3070&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3070/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Port",
+     "role": "primary"
+    },
+    {
+     "name": "Boldon",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-27",
+   "introduced": "2025-03-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "possible",
+     "terms": [
+      "highest ranked",
+      "order of preference"
+     ],
+     "subtags": [
+      "adoption",
+      "study_commission",
+      "constitutional_amendment"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "demographic information",
+      "language minority",
+      "minority vot",
+      "tribal reservation"
+     ],
+     "subtags": [
+      "language_access",
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "possible",
+     "terms": [
+      "share of the popular vote"
+     ],
+     "subtags": [
+      "congressional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF683",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 683",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Ranked choice voting provided; jurisdictions allowed to adopt ranked choice voting for local offices; adoption, implementation, and use of ranked choice voting established; electronic voting systems with a reallocation feature allowed; and money appropriated.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF683&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/683/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Frazier",
+     "role": "primary"
+    },
+    {
+     "name": "Coulter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Norris",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rehrauer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hemmingsen-Jaeger",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Greene",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephenson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hicks",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jones",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Elkins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Freiberg",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Agbaje",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Bahner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Feist",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kraft",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pinto",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Virnig",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rehm",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Reyer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sencer-Mura",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Her",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hollins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tabke",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hanson, J.",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Momanyi-Hiltsley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Moller",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Falconer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pérez-Vega",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pursell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Berg",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gottfried",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Bierman",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-17",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-02-19",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-20",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-26",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-03-17",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 1071",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-03-26",
+   "introduced": "2025-02-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF2669",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 2669",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Designation and election of presidential electors provided, and Minnesota withdrawn from Agreement Among the States to Elect the President by National Popular Vote.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2669&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2669/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Quam",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-24",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    }
+   ],
+   "companion": "SF 2275",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Introduction and first reading, referred to Elections Finance and Government Operations",
+   "last_action_date": "2025-03-24",
+   "introduced": "2025-03-24",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elector or is nominated to represent a congressional district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF2702",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 2702",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Date of the state primary modification from August to May",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF2702&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2702/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Koran",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-20",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 2343",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-20",
+   "introduced": "2025-03-20",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF550",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 550",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Bipartisan Redistricting Commission established, principles to be used in adopting legislative and congressional districts established, and constitutional amendment proposed.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF550&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/550/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Torkelson",
+     "role": "primary"
+    },
+    {
+     "name": "West",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-26",
+     "chamber": "House",
+     "text": "Committee report, to adopt as amended and re-refer to State Government Finance and Policy"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Committee report, to adopt and re-refer to Judiciary Finance and Civil Law"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Committee report, to adopt and re-refer to Rules and Legislative Administration"
+    },
+    {
+     "date": "2025-03-12",
+     "chamber": "House",
+     "text": "Committee report, to adopt"
+    },
+    {
+     "date": "2025-03-12",
+     "chamber": "House",
+     "text": "Second reading"
+    },
+    {
+     "date": "2025-03-13",
+     "chamber": "House",
+     "text": "House rule 1.21, placed on Calendar for the Day: Thursday, March 13, 2025"
+    },
+    {
+     "date": "2025-03-13",
+     "chamber": "House",
+     "text": "Motion to lay on the table"
+    },
+    {
+     "date": "2025-03-13",
+     "chamber": "House",
+     "text": "Motion prevailed"
+    }
+   ],
+   "companion": "SF 824",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Motion prevailed",
+   "last_action_date": "2025-03-13",
+   "introduced": "2025-02-13",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "candidates of choice",
+      "minority vot"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF2343",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 2343",
+   "chamber": "House",
+   "type": "bill",
+   "title": "State primary date changed from August to May, and date of primary elections conducted by a political subdivision changed in certain circumstances.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2343&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2343/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Quam",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    }
+   ],
+   "companion": "SF 2702",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Introduction and first reading, referred to Elections Finance and Government Operations",
+   "last_action_date": "2025-03-13",
+   "introduced": "2025-03-13",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF2275",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 2275",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Designation and election provision of presidential electors",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF2275&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2275/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Lucero",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-06",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 2669",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-06",
+   "introduced": "2025-03-06",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elector or is nominated to represent a congressional district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF898",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 898",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Designation and election of presidential electors provided, and Minnesota withdrawn from the Agreement Among the States to Elect the President by National Popular Vote.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF898&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/898/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Knudsen",
+     "role": "primary"
+    },
+    {
+     "name": "Harder",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Skraba",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Davis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Engen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Altendorf",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stier",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Fogelman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gordon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roach",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-17",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-03-06",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 682",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-03-06",
+   "introduced": "2025-02-17",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elector or is nominated to represent a congressional district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF2131",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 2131",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting jurisdictional authorization for local offices provision, local jurisdictions ranked choice voting  adoption, implementation, and usage procedures establishment, and appropriation",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF2131&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2131/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Johnson Stewart",
+     "role": "primary"
+    },
+    {
+     "name": "Pappas",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Port",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Oumou Verbeten",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-03",
+   "introduced": "2025-03-03",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1912",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1912",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1912&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1912/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Boldon",
+     "role": "primary"
+    },
+    {
+     "name": "Rest",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mitchell",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Author added"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-03-03",
+   "introduced": "2025-02-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "constitutional_amendment",
+      "local_option",
+      "primaries"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1892",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1892",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1892&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1892/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Clark",
+     "role": "primary"
+    },
+    {
+     "name": "Kupec",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marty",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dibble",
+     "role": "cosponsor"
+    },
+    {
+     "name": "McEwen",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-02-27",
+   "introduced": "2025-02-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "constitutional_amendment",
+      "local_option",
+      "primaries"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF651",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 651",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Date modification of the state primary to the same date as the presidential primary nomination",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF651&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/651/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Howe",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Author stricken: Koran"
+    }
+   ],
+   "companion": "HF 594",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author stricken: Koran",
+   "last_action_date": "2025-02-24",
+   "introduced": "2025-01-27",
+   "status": "failed",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1815",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1815",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting for local offices authorization, establishment of procedures for adoption, implementation, and usage of ranked choice voting for local jurisdictions, and appropriation",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1815&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1815/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Mann",
+     "role": "primary"
+    },
+    {
+     "name": "Gustafson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Seeberger",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Wiklund",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Fateh",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-02-24",
+   "introduced": "2025-02-24",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF69",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 69",
+   "chamber": "House",
+   "type": "bill",
+   "title": "City, town, and school district general elections required to be conducted on the first Tuesday after the first Monday in November of an even-numbered year; cities of the first class permitted to choose between even-numbered or odd-numbered year; and orderly transition plans required.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF69&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/69/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Quam",
+     "role": "primary"
+    },
+    {
+     "name": "Stephenson",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-10",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-02-19",
+     "chamber": "House",
+     "text": "Committee report, to adopt and re-refer to Education Policy"
+    }
+   ],
+   "companion": "SF 634",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Committee report, to adopt and re-refer to Education Policy",
+   "last_action_date": "2025-02-19",
+   "introduced": "2025-02-10",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF638",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 638",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Political subdivisions prohibited from establishing or enforcing ranked-choice voting.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF638&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/638/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Altendorf",
+     "role": "primary"
+    },
+    {
+     "name": "Quam",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gordon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Davis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "McDonald",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Scott",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-19",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 639",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-02-19",
+   "introduced": "2025-02-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF594",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 594",
+   "chamber": "House",
+   "type": "bill",
+   "title": "State primary date changed to the same date as the presidential primary nomination, and presidential nomination primary requirements amended.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF594&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/594/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Quam",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-19",
+     "chamber": "House",
+     "text": "Motion to return bill to author, motion prevailed"
+    }
+   ],
+   "companion": "SF 651",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Motion to return bill to author, motion prevailed",
+   "last_action_date": "2025-02-19",
+   "introduced": "2025-02-13",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1071",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1071",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1071&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1071/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Carlson",
+     "role": "primary"
+    },
+    {
+     "name": "Westlin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cwodzinski",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hauschild",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Xiong",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-06",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-06",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-02-10",
+     "chamber": "Senate",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-13",
+     "chamber": "Senate",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-02-17",
+     "chamber": "Senate",
+     "text": "Comm report: To pass and re-referred to State and Local Government"
+    }
+   ],
+   "companion": "HF 683",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Comm report: To pass and re-referred to State and Local Government",
+   "last_action_date": "2025-02-17",
+   "introduced": "2025-02-06",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "constitutional_amendment",
+      "local_option",
+      "primaries"
+     ]
+    },
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "method of election"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF70",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 70",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Designation and election of presidential electors provided, and Minnesota withdrawn from the Agreement Among the States to Elect the President by National Popular Vote.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF70&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/70/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Quam",
+     "role": "primary"
+    },
+    {
+     "name": "Schultz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Knudsen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Burkel",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-10",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Authors added"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Authors added",
+   "last_action_date": "2025-02-13",
+   "introduced": "2025-02-10",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elector or is nominated to represent a congressional district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF248",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 248",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections; city, town, and school district general elections required to be conducted on the first Tuesday after the first Monday in November of an even-numbered year; cities of the first class permitted to choose to conduct a general election on the first Tuesday after the first Monday in November of either an odd-numbered or even-numbered year; and cities, towns, and school districts required to adopt an orderly transition plan.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF248&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/248/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Stephenson",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-10",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Introduction and first reading, referred to Elections Finance and Government Operations",
+   "last_action_date": "2025-02-10",
+   "introduced": "2025-02-10",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF824",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 824",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Constitutional Amendment establishing a Bipartisan Redistricting Commission",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF824&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/824/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Rest",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-30",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-01-30",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 550",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-01-30",
+   "introduced": "2025-01-30",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "candidates of choice",
+      "minority vot"
+     ],
+     "subtags": [
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF682",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 682",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Presidential electors designation and election provision and Agreement Among the States to Elect the President by National Popular Vote withdrawal provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF682&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/682/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Utke",
+     "role": "primary"
+    },
+    {
+     "name": "Gruenhagen",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-01-30",
+     "chamber": "Senate",
+     "text": "Author added"
+    }
+   ],
+   "companion": "HF 898",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-01-30",
+   "introduced": "2025-01-27",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elector or is nominated to represent a congressional district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF639",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 639",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Political subdivisions establishment or enforcement of ranked-choice voting prohibition",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF639&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/639/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Koran",
+     "role": "primary"
+    },
+    {
+     "name": "Bahr",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lucero",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mathews",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Weber",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 638",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-01-27",
+   "introduced": "2025-01-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF634",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 634",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Local elections in cities of the first class date modification authorization",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF634&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/634/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Bahr",
+     "role": "primary"
+    },
+    {
+     "name": "Cwodzinski",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 69",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-01-27",
+   "introduced": "2025-01-27",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large school board positions available, the school district"
+     ],
+     "subtags": [
+      "at_large_conversion",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  }
+ ]
+}

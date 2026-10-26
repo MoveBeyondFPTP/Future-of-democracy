@@ -1,1 +1,791 @@
-[]
+[
+ {
+  "bill": "ma-194-H5584",
+  "state": "MA",
+  "number": "H5584",
+  "title": "An Act authorizing ranked choice voting for local elections in the city of Salem",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-09-15",
+  "text": "Hearing rescheduled to 09/15/2026 from 01:00 PM-02:00 PM in A-2 Hearing updated to New End Time"
+ },
+ {
+  "bill": "ma-194-H850",
+  "state": "MA",
+  "number": "H850",
+  "title": "An Act relative to honest online political advertisement disclosure and election interference",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-04-02",
+  "text": "Accompanied a study order, see H5311 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H4713",
+  "state": "MA",
+  "number": "H4713",
+  "title": "An Act relative to ranked choice voting in the town of Concord",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-04-02",
+  "text": "Accompanied a study order, see H5311 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H869",
+  "state": "MA",
+  "number": "H869",
+  "title": "An Act relative to ranked choice voting in the town of Acton",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-19",
+  "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H809",
+  "state": "MA",
+  "number": "H809",
+  "title": "An Act establishing ranked choice voting for certain offices in the town of Lexington",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-19",
+  "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H4098",
+  "state": "MA",
+  "number": "H4098",
+  "title": "An Act relative to ranked choice voting in the city of Northampton",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-19",
+  "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H4034",
+  "state": "MA",
+  "number": "H4034",
+  "title": "An Act authorizing ranked choice voting in the town of Brookline",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-19",
+  "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H4499",
+  "state": "MA",
+  "number": "H4499",
+  "title": "An Act authorizing ranked choice voting in the town of Arlington",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-19",
+  "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+ },
+ {
+  "bill": "va-20261-HB630",
+  "state": "VA",
+  "number": "HB630",
+  "title": "Elections; ranked choice voting, locally elected offices, report.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-05",
+  "text": "Constitutional reading dispensed Block Vote (on 2nd reading) (39-Y 0-N 0-A)"
+ },
+ {
+  "bill": "va-20261-HB630",
+  "state": "VA",
+  "number": "HB630",
+  "title": "Elections; ranked choice voting, locally elected offices, report.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-03-05",
+  "text": "Passed by for the day Block Vote (Voice Vote)"
+ },
+ {
+  "bill": "va-20261-HB168",
+  "state": "VA",
+  "number": "HB168",
+  "title": "Election of certain governing bodies; conversion to single-member districts.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-02-24",
+  "text": "Constitutional reading dispensed Block Vote (on 2nd reading) (39-Y 0-N 0-A)"
+ },
+ {
+  "bill": "va-20261-HB168",
+  "state": "VA",
+  "number": "HB168",
+  "title": "Election of certain governing bodies; conversion to single-member districts.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-02-24",
+  "text": "Passed by for the day Block Vote (Voice Vote)"
+ },
+ {
+  "bill": "va-20261-SB51",
+  "state": "VA",
+  "number": "SB51",
+  "title": "Election of certain governing bodies; conversion to single-member districts.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-01-27",
+  "text": "Constitutional reading dispensed Block Vote (on 1st reading) (39-Y 0-N 0-A)"
+ },
+ {
+  "bill": "va-20261-SB51",
+  "state": "VA",
+  "number": "SB51",
+  "title": "Election of certain governing bodies; conversion to single-member districts.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2026-01-27",
+  "text": "Passed by for the day Block Vote (Voice Vote)"
+ },
+ {
+  "bill": "ma-194-H3851",
+  "state": "MA",
+  "number": "H3851",
+  "title": "Resolutions condemning political oppression and encouraging free and fair elections in Cambodia",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2025-11-13",
+  "text": "Hearing rescheduled to 11/13/2025 from 01:00 PM-03:50 PM in B-1 and Virtual Hearing updated to New End Time"
+ },
+ {
+  "bill": "ma-194-S44",
+  "state": "MA",
+  "number": "S44",
+  "title": "An Act to protect against election misinformation",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2025-08-28",
+  "text": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2 and Virtual Hearing updated to include Virtual"
+ },
+ {
+  "bill": "ma-194-H76",
+  "state": "MA",
+  "number": "H76",
+  "title": "An Act to protect against election misinformation",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "action",
+  "date": "2025-08-28",
+  "text": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2 and Virtual Hearing updated to include Virtual"
+ },
+ {
+  "bill": "tx-892-SB31",
+  "state": "TX",
+  "number": "SB 31",
+  "title": "Relating to the regulation of the cultivation, manufacture, processing, distribution, sale, testing, transportation, delivery, transfer, possession, use, and taxation of cannabis and cannabis products",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-08-15",
+  "text": "Now tracked: Filed"
+ },
+ {
+  "bill": "tx-892-SJR2",
+  "state": "TX",
+  "number": "SJR 2",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-08-15",
+  "text": "Now tracked: Filed"
+ },
+ {
+  "bill": "tx-891-SB54",
+  "state": "TX",
+  "number": "SB 54",
+  "title": "Relating to the regulation of the cultivation, manufacture, processing, distribution, sale, testing, transportation, delivery, transfer, possession, use, and taxation of cannabis and cannabis products",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-07-30",
+  "text": "Now tracked: Filed"
+ },
+ {
+  "bill": "tx-891-SJR3",
+  "state": "TX",
+  "number": "SJR 3",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-07-25",
+  "text": "Now tracked: Filed"
+ },
+ {
+  "bill": "tx-89R-HB149",
+  "state": "TX",
+  "number": "HB 149",
+  "title": "Relating to regulation of the use of artificial intelligence systems in this state; providing civil penalties.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-06-22",
+  "text": "Now tracked: Effective on 1/1/26"
+ },
+ {
+  "bill": "tx-89R-HB2",
+  "state": "TX",
+  "number": "HB 2",
+  "title": "Relating to public education and public school finance.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-06-20",
+  "text": "Now tracked: See remarks for effective date"
+ },
+ {
+  "bill": "tx-89R-SB12",
+  "state": "TX",
+  "number": "SB 12",
+  "title": "Relating to parental rights in public education, to certain public school requirements and prohibitions regarding instruction, diversity, equity, and inclusion duties, and social transitioning, and to",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-06-20",
+  "text": "Now tracked: Effective on 9/1/25"
+ },
+ {
+  "bill": "tx-89R-SB568",
+  "state": "TX",
+  "number": "SB 568",
+  "title": "Relating to special education in public schools, including funding for special education under the Foundation School Program.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-06-20",
+  "text": "Now tracked: See remarks for effective date"
+ },
+ {
+  "bill": "tx-89R-SB1733",
+  "state": "TX",
+  "number": "SB 1733",
+  "title": "Relating to the composition of the board of the Calhoun Port Authority.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-06-20",
+  "text": "Now tracked: Effective immediately"
+ },
+ {
+  "bill": "tx-89R-SB310",
+  "state": "TX",
+  "number": "SB 310",
+  "title": "Relating to the determination of a majority vote in certain elections.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-05-27",
+  "text": "Now tracked: Postponed"
+ },
+ {
+  "bill": "tx-89R-HR892",
+  "state": "TX",
+  "number": "HR 892",
+  "title": "Congratulating The University of Texas women's basketball team on advancing to the Final Four of the 2025 NCAA Division I tournament.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-05-23",
+  "text": "Now tracked: Reported enrolled"
+ },
+ {
+  "bill": "tx-89R-HB3243",
+  "state": "TX",
+  "number": "HB 3243",
+  "title": "Relating to the composition of the board of the Calhoun Port Authority.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-05-14",
+  "text": "Now tracked: Committee report sent to Calendars"
+ },
+ {
+  "bill": "tx-89R-SB29",
+  "state": "TX",
+  "number": "SB 29",
+  "title": "Relating to the formation, governance, and internal management of domestic entities.",
+  "categories": [
+   "pr"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-05-14",
+  "text": "Now tracked: Effective immediately"
+ },
+ {
+  "bill": "tx-89R-HB817",
+  "state": "TX",
+  "number": "HB 817",
+  "title": "Relating to the determination of a majority vote in certain elections.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-05-07",
+  "text": "Now tracked: Considered in Calendars"
+ },
+ {
+  "bill": "tx-89R-SB2",
+  "state": "TX",
+  "number": "SB 2",
+  "title": "Relating to the establishment of an education savings account program.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-05-03",
+  "text": "Now tracked: Effective on 9/1/25"
+ },
+ {
+  "bill": "tx-89R-HB5005",
+  "state": "TX",
+  "number": "HB 5005",
+  "title": "Relating to the election of the board of directors of the San Jacinto River Authority.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-22",
+  "text": "Now tracked: Recommendations filed with the Speaker"
+ },
+ {
+  "bill": "tx-89R-HB665",
+  "state": "TX",
+  "number": "HB 665",
+  "title": "Relating to the secretary of state posting on the secretary of state's Internet website databases containing certain information about elections.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-17",
+  "text": "Now tracked: Considered in Calendars"
+ },
+ {
+  "bill": "tx-89R-HB5158",
+  "state": "TX",
+  "number": "HB 5158",
+  "title": "Relating to the authority of a political subdivision to spend public money in support of certain professional associations that promote or implement diversity, equity, and inclusion initiatives.",
+  "categories": [
+   "pr"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-07",
+  "text": "Now tracked: Referred to State Affairs"
+ },
+ {
+  "bill": "tx-89R-HB5258",
+  "state": "TX",
+  "number": "HB 5258",
+  "title": "Relating to racial discrimination in voting.",
+  "categories": [
+   "pr",
+   "rcv",
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "category",
+  "date": "2025-04-07",
+  "text": "Added to: pr, rcv"
+ },
+ {
+  "bill": "tx-89R-SB2822",
+  "state": "TX",
+  "number": "SB 2822",
+  "title": "Relating to the election of the board of trustees of certain school districts and the powers and duties of the board of trustees of school districts.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-07",
+  "text": "Now tracked: Referred to Education K-16"
+ },
+ {
+  "bill": "tx-89R-HB4453",
+  "state": "TX",
+  "number": "HB 4453",
+  "title": "Relating to nonpartisan primary elections; authorizing a fee.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-03",
+  "text": "Now tracked: Referred to Elections"
+ },
+ {
+  "bill": "tx-89R-HB4780",
+  "state": "TX",
+  "number": "HB 4780",
+  "title": "Relating to election judges and clerks.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-03",
+  "text": "Now tracked: Referred to Elections"
+ },
+ {
+  "bill": "tx-89R-HB4856",
+  "state": "TX",
+  "number": "HB 4856",
+  "title": "Relating to the governance of local mental health authorities and the composition of the governing bodies of local mental health authorities.",
+  "categories": [
+   "pr"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-03",
+  "text": "Now tracked: Referred to Public Health"
+ },
+ {
+  "bill": "tx-89R-SB2740",
+  "state": "TX",
+  "number": "SB 2740",
+  "title": "Relating to the inclusion of additional printed languages for election materials in certain political subdivisions.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-03",
+  "text": "Now tracked: Referred to State Affairs"
+ },
+ {
+  "bill": "tx-89R-SB2770",
+  "state": "TX",
+  "number": "SB 2770",
+  "title": "Relating to equitable representation in decision making for transportation planning.",
+  "categories": [
+   "pr"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-03",
+  "text": "Now tracked: Referred to Transportation"
+ },
+ {
+  "bill": "tx-89R-HB4291",
+  "state": "TX",
+  "number": "HB 4291",
+  "title": "Relating to the operation of an early voting ballot board and signature verification committee.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-01",
+  "text": "Now tracked: Referred to Elections"
+ },
+ {
+  "bill": "tx-89R-SB2021",
+  "state": "TX",
+  "number": "SB 2021",
+  "title": "Relating to the interconnection and integration of distributed energy resources.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-04-01",
+  "text": "Now tracked: Left pending in committee"
+ },
+ {
+  "bill": "tx-89R-HB4217",
+  "state": "TX",
+  "number": "HB 4217",
+  "title": "Relating to the system for appraising property for ad valorem tax and school finance purposes.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-31",
+  "text": "Now tracked: Referred to s/c on Property Tax Appraisals by Speaker"
+ },
+ {
+  "bill": "tx-89R-HB3975",
+  "state": "TX",
+  "number": "HB 3975",
+  "title": "Relating to authorizing a credit union to act as a school district depository.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-27",
+  "text": "Now tracked: Referred to Public Education"
+ },
+ {
+  "bill": "tx-89R-HB3774",
+  "state": "TX",
+  "number": "HB 3774",
+  "title": "Relating to the operation of a signature verification committee.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-26",
+  "text": "Now tracked: Referred to Elections"
+ },
+ {
+  "bill": "tx-89R-HJR135",
+  "state": "TX",
+  "number": "HJR 135",
+  "title": "Proposing a constitutional amendment establishing the Texas Redistricting Commission to redistrict the Texas Legislature and Texas congressional districts and revising procedures for redistricting.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-19",
+  "text": "Now tracked: Referred to Redistricting"
+ },
+ {
+  "bill": "tx-89R-HB2419",
+  "state": "TX",
+  "number": "HB 2419",
+  "title": "Relating to special education and special education funding under the Foundation School Program.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-17",
+  "text": "Now tracked: Referred to Public Education"
+ },
+ {
+  "bill": "tx-89R-HJR123",
+  "state": "TX",
+  "number": "HJR 123",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-17",
+  "text": "Now tracked: Referred to Redistricting"
+ },
+ {
+  "bill": "tx-89R-HB1709",
+  "state": "TX",
+  "number": "HB 1709",
+  "title": "Relating to the regulation and reporting on the use of artificial intelligence systems by certain business entities and state agencies; providing civil penalties.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-14",
+  "text": "Now tracked: Referred to Delivery of Government Efficiency"
+ },
+ {
+  "bill": "tx-89R-HB1929",
+  "state": "TX",
+  "number": "HB 1929",
+  "title": "Relating to the administration of an election for a member of a board of trustees of an independent school district.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-14",
+  "text": "Now tracked: Referred to Public Education"
+ },
+ {
+  "bill": "tx-89R-SB1842",
+  "state": "TX",
+  "number": "SB 1842",
+  "title": "Relating to authorizing a credit union to act as a school district depository.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-13",
+  "text": "Now tracked: Referred to Education K-16"
+ },
+ {
+  "bill": "tx-89R-HB3",
+  "state": "TX",
+  "number": "HB 3",
+  "title": "Relating to the establishment of an education savings account program.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-03-12",
+  "text": "Now tracked: Left pending in committee"
+ },
+ {
+  "bill": "tx-89R-HB358",
+  "state": "TX",
+  "number": "HB 358",
+  "title": "Relating to providing free full-day prekindergarten for certain children.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-02-28",
+  "text": "Now tracked: Referred to Public Education"
+ },
+ {
+  "bill": "tx-89R-HB167",
+  "state": "TX",
+  "number": "HB 167",
+  "title": "Relating to the implementation of diversity, equity, and inclusion initiatives and certain prohibited considerations in contracting by governmental entities.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-02-27",
+  "text": "Now tracked: Referred to State Affairs"
+ },
+ {
+  "bill": "tx-89R-SJR43",
+  "state": "TX",
+  "number": "SJR 43",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-02-13",
+  "text": "Now tracked: Referred to Finance"
+ },
+ {
+  "bill": "tx-89R-SB42",
+  "state": "TX",
+  "number": "SB 42",
+  "title": "Relating to providing free full-day prekindergarten for certain children.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-02-03",
+  "text": "Now tracked: Referred to Education K-16"
+ },
+ {
+  "bill": "tx-89R-SB341",
+  "state": "TX",
+  "number": "SB 341",
+  "title": "Relating to the use of preferential voting in certain elections.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-02-03",
+  "text": "Now tracked: Referred to State Affairs"
+ },
+ {
+  "bill": "tx-89R-SB342",
+  "state": "TX",
+  "number": "SB 342",
+  "title": "Relating to the use of preferential voting in certain elections.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-10-26T06:06:00Z",
+  "kind": "new",
+  "date": "2025-02-03",
+  "text": "Now tracked: Referred to State Affairs"
+ }
+]
