@@ -1,14 +1,14 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
-  "bills_total": 11994,
+  "bills_total": 11997,
   "tracked": 15,
   "sessions": {
    "194": {
-    "bills": 11994,
+    "bills": 11997,
     "seconds": 44
    },
    "195": {
@@ -23,8 +23,8 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 12787,
   "tracked": 7,
@@ -51,15 +51,15 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 4408,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 14
+    "seconds": 13
    },
    "20262": {
     "bills": 307,
@@ -75,8 +75,8 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 2677,
   "tracked": 8,
@@ -95,8 +95,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -119,35 +119,35 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 4237,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4237,
-    "seconds": 22
+    "seconds": 62
    },
    "2027-2028": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 41,
+  "requests": 21,
   "warnings": []
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 46
+    "seconds": 48
    },
    "0952027": {
     "bills": 0,
@@ -159,39 +159,37 @@
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
   "last_success": "2026-10-26T16:50:13Z",
-  "ok": true,
+  "ok": false,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
-    "bills": 2749,
-    "seconds": 6
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fadb24336b0>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
    },
    "2027": {
-    "bills": 0,
-    "note": "not published yet"
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7fadb2430b30>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
    }
   },
-  "requests": 17,
+  "requests": 2,
   "warnings": []
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
     "bills": 5480,
-    "seconds": 52
+    "seconds": 54
    },
    "2026EX": {
     "bills": 176,
-    "seconds": 2
+    "seconds": 3
    },
    "20272028": {
     "bills": 0,
@@ -203,15 +201,15 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-10-26T16:50:13Z",
-  "last_success": "2026-10-26T16:50:13Z",
+  "last_run": "2026-10-27T01:31:54Z",
+  "last_success": "2026-10-27T01:31:54Z",
   "ok": true,
   "bills_total": 2338,
   "tracked": 3,
   "sessions": {
    "2025": {
     "bills": 2338,
-    "seconds": 38
+    "seconds": 26
    },
    "2027": {
     "bills": 0,
