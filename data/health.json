@@ -1,14 +1,14 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
-  "bills_total": 11997,
+  "bills_total": 12002,
   "tracked": 15,
   "sessions": {
    "194": {
-    "bills": 11997,
+    "bills": 12002,
     "seconds": 43
    },
    "195": {
@@ -23,9 +23,9 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
   "last_success": "2026-10-27T15:55:17Z",
-  "ok": true,
+  "ok": false,
   "bills_total": 12787,
   "tracked": 7,
   "sessions": {
@@ -39,11 +39,10 @@
    },
    "892": {
     "bills": 692,
-    "seconds": 0
+    "seconds": 1
    },
    "90R": {
-    "bills": 0,
-    "note": "not published yet"
+    "error": "RuntimeError: could not connect to Texas FTP"
    }
   },
   "requests": 0,
@@ -51,22 +50,22 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
-  "bills_total": 4408,
+  "bills_total": 4417,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 12
+    "seconds": 11
    },
    "20262": {
-    "bills": 307,
+    "bills": 311,
     "seconds": 1
    },
    "20271": {
-    "bills": 455,
+    "bills": 460,
     "seconds": 2
    }
   },
@@ -75,8 +74,8 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
   "bills_total": 2677,
   "tracked": 8,
@@ -95,8 +94,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -119,15 +118,15 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
   "bills_total": 4237,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4237,
-    "seconds": 52
+    "seconds": 15
    },
    "2027-2028": {
     "bills": 0,
@@ -139,15 +138,15 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 38
+    "seconds": 55
    },
    "0952027": {
     "bills": 0,
@@ -159,54 +158,59 @@
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-26T16:50:13Z",
-  "ok": false,
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
+  "ok": true,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7f11206b3410>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+    "bills": 2749,
+    "seconds": 5
    },
    "2027": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7f11206b2030>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+    "bills": 0,
+    "note": "not published yet"
    }
   },
-  "requests": 2,
+  "requests": 17,
   "warnings": []
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T01:31:54Z",
-  "ok": false,
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
+  "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.legis.ga.gov', port=443): Max retries exceeded with url: /api/authentication/token?key=dfc78c2dcf98e44d07b09cd6dad7fb729e760c73d0de8736e58b73f4a24fdef6b0b4708f6e293b14075c0dfbe43c951d7339fdfa5b045ff85cbc4fc460b63259&ms=1793118011173 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.legis.ga.gov', port=443) at 0x7f1128d83020>, 'Connection to www.legis.ga.gov timed out. (connect timeout=60)'))"
+    "bills": 5480,
+    "seconds": 57
    },
    "2026EX": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.legis.ga.gov', port=443): Max retries exceeded with url: /api/authentication/token?key=e51a61bc5f64d9b925414a5adae08993561005e78ce3ff55b539625c0457e5ef52845d161c2dd042a270c19689453b06367ae23d76f85fdd399ca51725171112&ms=1793118339643 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.legis.ga.gov', port=443) at 0x7f1128d81460>, 'Connection to www.legis.ga.gov timed out. (connect timeout=60)'))"
+    "bills": 176,
+    "seconds": 2
    },
    "20272028": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.legis.ga.gov', port=443): Max retries exceeded with url: /api/authentication/token?key=cb785e0585669445a2a28b03150c76a2b2e5aeca0c0b9d05d3ccea8df3a3279657ea032e87003d4a5cccda31699dc227caf3d2f7a495d73fa2a848a2a1c1280a&ms=1793118668132 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.legis.ga.gov', port=443) at 0x7f1128d82510>, 'Connection to www.legis.ga.gov timed out. (connect timeout=60)'))"
+    "bills": 0,
+    "note": "not published yet"
    }
   },
-  "requests": 3,
+  "requests": 31,
   "warnings": []
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-10-27T15:55:17Z",
-  "last_success": "2026-10-27T15:55:17Z",
+  "last_run": "2026-10-28T01:28:05Z",
+  "last_success": "2026-10-28T01:28:05Z",
   "ok": true,
   "bills_total": 2338,
   "tracked": 3,
   "sessions": {
    "2025": {
     "bills": 2338,
-    "seconds": 33
+    "seconds": 31
    },
    "2027": {
     "bills": 0,
