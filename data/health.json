@@ -1,37 +1,37 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
-  "bills_total": 12003,
+  "bills_total": 12013,
   "tracked": 15,
   "sessions": {
    "194": {
-    "bills": 12003,
-    "seconds": 46
+    "bills": 12013,
+    "seconds": 42
    },
    "195": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 26,
+  "requests": 28,
   "warnings": [
    "detail H5658: HTTPSConnectionPool(host='malegislature.gov', port=443): Max retries exceeded with url: /api/GeneralCourts/194/Documents/H5658 (Caused by ResponseError('too many 500 error responses'))"
   ]
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 12787,
   "tracked": 7,
   "sessions": {
    "89R": {
     "bills": 11503,
-    "seconds": 6
+    "seconds": 8
    },
    "891": {
     "bills": 592,
@@ -51,15 +51,15 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 4417,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 7
+    "seconds": 9
    },
    "20262": {
     "bills": 311,
@@ -75,15 +75,15 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 2677,
   "tracked": 8,
   "sessions": {
    "2026RS": {
     "bills": 2677,
-    "seconds": 4
+    "seconds": 5
    },
    "2027RS": {
     "bills": 0,
@@ -95,8 +95,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -107,7 +107,7 @@
    },
    "2026A": {
     "bills": 714,
-    "seconds": 61
+    "seconds": 62
    },
    "2027A": {
     "bills": 0,
@@ -119,8 +119,8 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 4242,
   "tracked": 7,
@@ -139,28 +139,28 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 41
+    "seconds": 149
    },
    "0952027": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 52,
+  "requests": 472,
   "warnings": []
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 2749,
   "tracked": 5,
@@ -179,15 +179,15 @@
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
     "bills": 5480,
-    "seconds": 48
+    "seconds": 53
    },
    "2026EX": {
     "bills": 176,
@@ -203,15 +203,15 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-10-29T01:52:04Z",
-  "last_success": "2026-10-29T01:52:04Z",
+  "last_run": "2026-10-29T16:59:32Z",
+  "last_success": "2026-10-29T16:59:32Z",
   "ok": true,
   "bills_total": 2338,
   "tracked": 3,
   "sessions": {
    "2025": {
     "bills": 2338,
-    "seconds": 30
+    "seconds": 31
    },
    "2027": {
     "bills": 0,
