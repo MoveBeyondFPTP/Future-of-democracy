@@ -1,15 +1,15 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 12017,
   "tracked": 15,
   "sessions": {
    "194": {
     "bills": 12017,
-    "seconds": 59
+    "seconds": 48
    },
    "195": {
     "bills": 0,
@@ -23,8 +23,8 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 12787,
   "tracked": 7,
@@ -51,8 +51,8 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 4417,
   "tracked": 5,
@@ -75,8 +75,8 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 2677,
   "tracked": 8,
@@ -95,8 +95,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -119,15 +119,15 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 4242,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4242,
-    "seconds": 17
+    "seconds": 14
    },
    "2027-2028": {
     "bills": 0,
@@ -139,15 +139,15 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 60
+    "seconds": 47
    },
    "0952027": {
     "bills": 0,
@@ -159,15 +159,15 @@
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2749,
-    "seconds": 5
+    "seconds": 6
    },
    "2027": {
     "bills": 0,
@@ -179,15 +179,15 @@
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-30T02:01:26Z",
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
     "bills": 5480,
-    "seconds": 80
+    "seconds": 52
    },
    "2026EX": {
     "bills": 176,
@@ -203,20 +203,22 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-10-30T02:01:26Z",
-  "last_success": "2026-10-29T16:59:32Z",
-  "ok": false,
+  "last_run": "2026-10-30T16:44:19Z",
+  "last_success": "2026-10-30T16:44:19Z",
+  "ok": true,
   "bills_total": 2338,
   "tracked": 3,
   "sessions": {
    "2025": {
-    "error": "RetryError: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /Legislation/Bills/FiledBillsFeed/2025/H (Caused by ResponseError('too many 503 error responses'))"
+    "bills": 2338,
+    "seconds": 27
    },
    "2027": {
-    "error": "RetryError: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /Legislation/Bills/FiledBillsFeed/2027/H (Caused by ResponseError('too many 503 error responses'))"
+    "bills": 0,
+    "note": "not published yet"
    }
   },
-  "requests": 2,
+  "requests": 7,
   "warnings": []
  }
 }
