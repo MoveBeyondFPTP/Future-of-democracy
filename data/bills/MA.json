@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-10-29T16:59:32Z",
+ "generated": "2026-10-30T02:01:26Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -845,6 +845,10 @@
      "role": "primary"
     },
     {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
      "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
@@ -905,23 +909,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "John J. Cronin",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Danillo A. Sena",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Manny Cruz",
+     "name": "Joanne M. Comerford",
      "role": "cosponsor"
     },
     {
@@ -929,11 +917,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Joanne M. Comerford",
+     "name": "Manny Cruz",
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Danillo A. Sena",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John J. Cronin",
      "role": "cosponsor"
     }
    ],
@@ -1171,23 +1171,7 @@
      "role": "primary"
     },
     {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Amy Mah Sangiolo",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     },
     {
@@ -1195,7 +1179,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Carmine Lawrence Gentile",
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amy Mah Sangiolo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     }
    ],

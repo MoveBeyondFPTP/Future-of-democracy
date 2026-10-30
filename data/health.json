@@ -1,37 +1,37 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
-  "bills_total": 12013,
+  "bills_total": 12017,
   "tracked": 15,
   "sessions": {
    "194": {
-    "bills": 12013,
-    "seconds": 42
+    "bills": 12017,
+    "seconds": 59
    },
    "195": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 28,
+  "requests": 26,
   "warnings": [
    "detail H5658: HTTPSConnectionPool(host='malegislature.gov', port=443): Max retries exceeded with url: /api/GeneralCourts/194/Documents/H5658 (Caused by ResponseError('too many 500 error responses'))"
   ]
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 12787,
   "tracked": 7,
   "sessions": {
    "89R": {
     "bills": 11503,
-    "seconds": 8
+    "seconds": 10
    },
    "891": {
     "bills": 592,
@@ -39,7 +39,7 @@
    },
    "892": {
     "bills": 692,
-    "seconds": 0
+    "seconds": 1
    },
    "90R": {
     "bills": 0,
@@ -51,15 +51,15 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 4417,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 9
+    "seconds": 12
    },
    "20262": {
     "bills": 311,
@@ -75,15 +75,15 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 2677,
   "tracked": 8,
   "sessions": {
    "2026RS": {
     "bills": 2677,
-    "seconds": 5
+    "seconds": 7
    },
    "2027RS": {
     "bills": 0,
@@ -95,8 +95,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -119,8 +119,8 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 4242,
   "tracked": 7,
@@ -139,35 +139,35 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 149
+    "seconds": 60
    },
    "0952027": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 472,
+  "requests": 52,
   "warnings": []
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2749,
-    "seconds": 4
+    "seconds": 5
    },
    "2027": {
     "bills": 0,
@@ -179,15 +179,15 @@
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-10-29T16:59:32Z",
-  "last_success": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
+  "last_success": "2026-10-30T02:01:26Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
     "bills": 5480,
-    "seconds": 53
+    "seconds": 80
    },
    "2026EX": {
     "bills": 176,
@@ -203,22 +203,20 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-10-29T16:59:32Z",
+  "last_run": "2026-10-30T02:01:26Z",
   "last_success": "2026-10-29T16:59:32Z",
-  "ok": true,
+  "ok": false,
   "bills_total": 2338,
   "tracked": 3,
   "sessions": {
    "2025": {
-    "bills": 2338,
-    "seconds": 31
+    "error": "RetryError: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /Legislation/Bills/FiledBillsFeed/2025/H (Caused by ResponseError('too many 503 error responses'))"
    },
    "2027": {
-    "bills": 0,
-    "note": "not published yet"
+    "error": "RetryError: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /Legislation/Bills/FiledBillsFeed/2027/H (Caused by ResponseError('too many 503 error responses'))"
    }
   },
-  "requests": 7,
+  "requests": 2,
   "warnings": []
  }
 }
