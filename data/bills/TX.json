@@ -1,0 +1,425 @@
+{
+ "state": "TX",
+ "name": "Texas",
+ "generated": "2026-10-31T15:47:49Z",
+ "bills": [
+  {
+   "id": "tx-89R-HB5258",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 5258",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to racial discrimination in voting.",
+   "subjects": [
+    "Education--Higher--General",
+    "Elections--Administration",
+    "Elections--General",
+    "Elections--Voting Systems",
+    "Electronic Information Systems",
+    "Human Relations",
+    "Lawyers",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "State Finances--Management & Control",
+    "BARBARA JORDAN TEXAS VOTING RIGHTS ACT (PA12N)",
+    "DISCRIMINATION",
+    "SECRETARY OF STATE",
+    "TEXAS VOTING AND ELECTION INSTITUTE (VR2PP)",
+    "VOTING RIGHTS COMMISSION, TEXAS (VI8JA)"
+   ],
+   "sponsors": [
+    {
+     "name": "Bucy",
+     "role": "primary"
+    },
+    {
+     "name": "Morales Shaw",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-14",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-07",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-07",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5258",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB05258I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-04-07",
+   "introduced": "2025-03-14",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "texas voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "data_repository"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB4528",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 4528",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--Administration",
+    "Elections--General",
+    "Elections--Primaries",
+    "TEXAS PREFERENTIAL VOTING ACT (PO34L)",
+    "STAFF DEVELOPMENT & TRAINING",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Bhojani",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4528",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04528I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-04-03",
+   "introduced": "2025-03-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB1406",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 1406",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to preferential voting in a primary election.",
+   "subjects": [
+    "Elections--Political Parties",
+    "Elections--Primaries",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Meza",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-19",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-11",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-03-11",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1406",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01406I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-11",
+   "introduced": "2024-11-19",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB540",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 540",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--General",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Goodwin",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB540",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00540I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-03",
+   "introduced": "2024-11-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB465",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 465",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to preferential voting in runoff elections for certain voters voting by mail.",
+   "subjects": [
+    "Elections--General",
+    "Military & Veterans",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Cortez",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-28",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-28",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB465",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00465I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-02-28",
+   "introduced": "2024-11-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB342",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 342",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--General",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Eckhardt",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Referred to State Affairs"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB342",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00342I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to State Affairs",
+   "last_action_date": "2025-02-03",
+   "introduced": "2024-11-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB341",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 341",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--General",
+    "Elections--Registration & Suffrage",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Eckhardt",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Referred to State Affairs"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB341",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00341I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to State Affairs",
+   "last_action_date": "2025-02-03",
+   "introduced": "2024-11-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  }
+ ]
+}

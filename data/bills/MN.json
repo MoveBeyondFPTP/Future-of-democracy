@@ -1,0 +1,1041 @@
+{
+ "state": "MN",
+ "name": "Minnesota",
+ "generated": "2026-10-31T15:47:49Z",
+ "bills": [
+  {
+   "id": "mn-0942025-SF4085",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 4085",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Political subdivisions establishment or enforcement of ranked-choice voting prohibition provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF4085&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4085/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Koran",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 3724",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2026-03-04",
+   "introduced": "2026-03-04",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF3724",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 3724",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Political subdivisions prohibited from establishing or enforcing ranked-choice voting.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3724&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3724/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Davis",
+     "role": "primary"
+    },
+    {
+     "name": "Altendorf",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gordon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Roach",
+     "role": "cosponsor"
+    },
+    {
+     "name": "McDonald",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lawrence",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-02-25",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2026-02-26",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 4085",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2026-02-26",
+   "introduced": "2026-02-25",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1804",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1804",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting authorization provision; Procedures for adoption, implementation, and use of ranked choice voting for local jurisdictions establishment provision; appropriation",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1804&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1804/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Putnam",
+     "role": "primary"
+    },
+    {
+     "name": "Kunesh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Maye Quade",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hoffman",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2026-02-17",
+     "chamber": "Senate",
+     "text": "Author stricken: Mitchell"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author stricken: Mitchell",
+   "last_action_date": "2026-02-17",
+   "introduced": "2025-02-24",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF2361",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 2361",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Polling place closure and change notice required until occurrence of a presidential election or redistricting.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2361&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2361/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Lee, K.",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "House",
+     "text": "Committee report, to adopt as amended"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "House",
+     "text": "Second reading"
+    }
+   ],
+   "companion": "SF 2846",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Second reading",
+   "last_action_date": "2025-04-01",
+   "introduced": "2025-03-13",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "polling place closure"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF683",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 683",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Ranked choice voting provided; jurisdictions allowed to adopt ranked choice voting for local offices; adoption, implementation, and use of ranked choice voting established; electronic voting systems with a reallocation feature allowed; and money appropriated.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF683&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/683/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Frazier",
+     "role": "primary"
+    },
+    {
+     "name": "Coulter",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Norris",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rehrauer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hemmingsen-Jaeger",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Greene",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stephenson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hicks",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jones",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Elkins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Freiberg",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Agbaje",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Bahner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Feist",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kraft",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pinto",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Virnig",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rehm",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Reyer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sencer-Mura",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Her",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hollins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Tabke",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hanson, J.",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Momanyi-Hiltsley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Moller",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Falconer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pérez-Vega",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pursell",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Berg",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gottfried",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Bierman",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-17",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-02-19",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-20",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-26",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-03-17",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "House",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 1071",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-03-26",
+   "introduced": "2025-02-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF2131",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 2131",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting jurisdictional authorization for local offices provision, local jurisdictions ranked choice voting  adoption, implementation, and usage procedures establishment, and appropriation",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF2131&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2131/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Johnson Stewart",
+     "role": "primary"
+    },
+    {
+     "name": "Pappas",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Port",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Oumou Verbeten",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-03",
+   "introduced": "2025-03-03",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1912",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1912",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1912&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1912/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Boldon",
+     "role": "primary"
+    },
+    {
+     "name": "Rest",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mitchell",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Author added"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-03-03",
+   "introduced": "2025-02-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "constitutional_amendment",
+      "local_option",
+      "primaries"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1892",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1892",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1892&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1892/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Clark",
+     "role": "primary"
+    },
+    {
+     "name": "Kupec",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marty",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dibble",
+     "role": "cosponsor"
+    },
+    {
+     "name": "McEwen",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-02-27",
+   "introduced": "2025-02-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "constitutional_amendment",
+      "local_option",
+      "primaries"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1815",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1815",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting for local offices authorization, establishment of procedures for adoption, implementation, and usage of ranked choice voting for local jurisdictions, and appropriation",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1815&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1815/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Mann",
+     "role": "primary"
+    },
+    {
+     "name": "Gustafson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Seeberger",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Wiklund",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Fateh",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-24",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-02-24",
+   "introduced": "2025-02-24",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-HF638",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "HF 638",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Political subdivisions prohibited from establishing or enforcing ranked-choice voting.",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF638&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/638/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Altendorf",
+     "role": "primary"
+    },
+    {
+     "name": "Quam",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Gordon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Davis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "McDonald",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Scott",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-13",
+     "chamber": "House",
+     "text": "Introduction and first reading, referred to Elections Finance and Government Operations"
+    },
+    {
+     "date": "2025-02-19",
+     "chamber": "House",
+     "text": "Author added"
+    }
+   ],
+   "companion": "SF 639",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Author added",
+   "last_action_date": "2025-02-19",
+   "introduced": "2025-02-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF1071",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 1071",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Ranked choice voting provision",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF1071&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1071/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Carlson",
+     "role": "primary"
+    },
+    {
+     "name": "Westlin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cwodzinski",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hauschild",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Xiong",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-06",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-02-06",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-02-10",
+     "chamber": "Senate",
+     "text": "Authors added"
+    },
+    {
+     "date": "2025-02-13",
+     "chamber": "Senate",
+     "text": "Author added"
+    },
+    {
+     "date": "2025-02-17",
+     "chamber": "Senate",
+     "text": "Comm report: To pass and re-referred to State and Local Government"
+    }
+   ],
+   "companion": "HF 683",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Comm report: To pass and re-referred to State and Local Government",
+   "last_action_date": "2025-02-17",
+   "introduced": "2025-02-06",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked vote",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "constitutional_amendment",
+      "local_option",
+      "primaries"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "single transferable vote",
+      "surplus transfer"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "mn-0942025-SF639",
+   "state": "MN",
+   "session": "0942025",
+   "session_name": "94th Legislature (2025-2026)",
+   "number": "SF 639",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Political subdivisions establishment or enforcement of ranked-choice voting prohibition",
+   "url": "https://www.revisor.mn.gov/bills/bill.php?b=Senate&f=SF639&ssn=0&y=2025",
+   "text_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/639/versions/latest/",
+   "sponsors": [
+    {
+     "name": "Koran",
+     "role": "primary"
+    },
+    {
+     "name": "Bahr",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lucero",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mathews",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Weber",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Introduction and first reading"
+    },
+    {
+     "date": "2025-01-27",
+     "chamber": "Senate",
+     "text": "Referred to Elections"
+    }
+   ],
+   "companion": "HF 638",
+   "summary": "",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-01-27",
+   "introduced": "2025-01-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked-choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  }
+ ]
+}

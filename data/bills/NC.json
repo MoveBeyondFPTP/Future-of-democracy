@@ -1,0 +1,263 @@
+{
+ "state": "NC",
+ "name": "North Carolina",
+ "generated": "2026-10-31T15:47:49Z",
+ "bills": [
+  {
+   "id": "nc-2025-H1038",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 1038",
+   "chamber": "House",
+   "type": "bill",
+   "title": "At-Large Elections/Jacksonville City Council.",
+   "summary": "An act to require that all members of the jacksonville city council be elected at-large.",
+   "sponsors": [
+    {
+     "name": "Gable",
+     "role": "primary"
+    },
+    {
+     "name": "Shepard",
+     "role": "primary"
+    }
+   ],
+   "introduced": "2026-04-22",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H1038",
+   "actions": [
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "House",
+     "text": "Ref to the Com on Election Law, if favorable, Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-04-23",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    },
+    {
+     "date": "2026-06-09",
+     "chamber": "House",
+     "text": "Re-ref Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2026-06-09",
+     "chamber": "House",
+     "text": "Reptd Fav Com Substitute"
+    }
+   ],
+   "subjects": [
+    "Charters",
+    "City Councils",
+    "Counties",
+    "Elections",
+    "Local",
+    "Local Government",
+    "Municipalities",
+    "Session Laws",
+    "Onslow County",
+    "Jacksonville"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H1038v2.html",
+   "hearings": [],
+   "last_action": "Reptd Fav Com Substitute",
+   "last_action_date": "2026-06-09",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elections"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H825",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 825",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Election Improvements.",
+   "summary": "An act to prohibit ranked choice voting, clarify the laws regarding election-related activity, reduce the early voting period, and amend the requirements for acceptable forms of identification when a voter requests an absentee ballot.",
+   "sponsors": [
+    {
+     "name": "Echevarria",
+     "role": "primary"
+    },
+    {
+     "name": "Scott",
+     "role": "primary"
+    },
+    {
+     "name": "Adams",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Blust",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cairns",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Eddins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Iler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Pike",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Ward",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-04-08",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H825",
+   "actions": [
+    {
+     "date": "2025-04-08",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-09",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-04-09",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Boards",
+    "Elections",
+    "Elections, State Board Of",
+    "Political Activity",
+    "Public",
+    "Public Officials",
+    "Ballots & Ballot Issues"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H825v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-04-09",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2025-H541",
+   "state": "NC",
+   "session": "2025",
+   "session_name": "2025-2026 Session",
+   "number": "HB 541",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Option Top-2 Same-Day Primary Runoff/Elections.",
+   "summary": "An act to allow political parties the option of using a top-two, same-day runoff method in selected primaries that may trigger a runoff.",
+   "sponsors": [
+    {
+     "name": "Morey",
+     "role": "primary"
+    },
+    {
+     "name": "Harrison",
+     "role": "primary"
+    },
+    {
+     "name": "Belk",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Logan",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Majeed",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Price",
+     "role": "cosponsor"
+    }
+   ],
+   "introduced": "2025-03-26",
+   "url": "https://www.ncleg.gov/BillLookUp/2025/H541",
+   "actions": [
+    {
+     "date": "2025-03-26",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Ref To Com On Rules, Calendar, and Operations of the House"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Passed 1st Reading"
+    }
+   ],
+   "subjects": [
+    "Appropriations",
+    "Auditing & Audits",
+    "Boards",
+    "Budgeting",
+    "Council Of State",
+    "Elections",
+    "Elections, State Board Of",
+    "Political Parties",
+    "Public",
+    "Public Officials",
+    "State Auditor",
+    "Primaries",
+    "Ballots & Ballot Issues"
+   ],
+   "text_url": "https://www.ncleg.gov/Sessions/2025/Bills/House/HTML/H541v1.html",
+   "hearings": [],
+   "last_action": "Passed 1st Reading",
+   "last_action_date": "2025-03-27",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "instant runoff"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  }
+ ]
+}

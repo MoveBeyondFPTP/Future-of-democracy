@@ -1,0 +1,1307 @@
+{
+ "state": "MA",
+ "name": "Massachusetts",
+ "generated": "2026-10-31T15:47:49Z",
+ "bills": [
+  {
+   "id": "ma-194-H5584",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H5584",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act authorizing ranked choice voting for local elections in the city of Salem",
+   "sponsors": [
+    {
+     "name": "Manny Cruz",
+     "role": "primary"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H5584",
+   "text_url": "https://malegislature.gov/Bills/194/H5584.pdf",
+   "docket": "HD6256",
+   "summary": "By Representative Cruz of Salem and Senator Lovely, a joint petition (accompanied by bill, House, No. 5584) of Manny Cruz (with the approval of the mayor and city council) that the city of Salem be authorized to use ranked choice voting for local elections in said city. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2026-07-16",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2026-07-20",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2026-09-04",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 09/15/2026 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-09-15",
+     "chamber": "Joint",
+     "text": "Hearing rescheduled to 09/15/2026 from 01:00 PM-02:00 PM in A-2 Hearing updated to New End Time"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Hearing rescheduled to 09/15/2026 from 01:00 PM-02:00 PM in A-2 Hearing updated to New End Time",
+   "last_action_date": "2026-09-15",
+   "introduced": "2026-07-16",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "rcv"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat elections"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-H4916",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H4916",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act authorizing ranked choice voting in the town of Bedford",
+   "sponsors": [
+    {
+     "name": "Kenneth I. Gordon",
+     "role": "primary"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H4916",
+   "text_url": "https://malegislature.gov/Bills/194/H4916.pdf",
+   "docket": "HD5512",
+   "summary": "By Representative Gordon of Bedford, a petition (accompanied by bill, House, No. 4916) of Kenneth I. Gordon (by vote of the town) for legislation to authorize ranked choice voting in the town of Bedford. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2026-01-08",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2026-01-12",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 02/10/2026 from 01:00 PM-05:00 PM in B-1"
+    },
+    {
+     "date": "2026-05-11",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5413"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5413",
+   "last_action_date": "2026-05-11",
+   "introduced": "2026-01-08",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-H4262",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H4262",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act to implement ranked choice voting in Boston",
+   "sponsors": [
+    {
+     "name": "Samantha Montaño",
+     "role": "primary"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H4262",
+   "text_url": "https://malegislature.gov/Bills/194/H4262.pdf",
+   "docket": "HD4761",
+   "summary": "By Representative Montaño of Boston, a petition (accompanied by bill, House, No. 4262) of Samantha Montaño (with the approval of the mayor and city council) relative to ranked choice voting in the city of Boston. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-07-10",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2026-01-15",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 02/10/2026 from 01:00 PM-05:00 PM in B-1"
+    },
+    {
+     "date": "2026-05-11",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5413"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5413",
+   "last_action_date": "2026-05-11",
+   "introduced": "2025-07-10",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-winner"
+     ],
+     "subtags": [
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-H4713",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H4713",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act relative to ranked choice voting in the town of Concord",
+   "sponsors": [
+    {
+     "name": "Carmine Lawrence Gentile",
+     "role": "primary"
+    },
+    {
+     "name": "Simon Cataldo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H4713",
+   "text_url": "https://malegislature.gov/Bills/194/H4713.pdf",
+   "docket": "HD5148",
+   "summary": "By Representatives Gentile of Sudbury and Cataldo of Concord, a petition (accompanied by bill, House, No. 4713) of Carmine Lawrence Gentile, Simon Cataldo and Michael J. Barrett (by vote of the town) relative to ranked choice voting in the town of Concord. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-11-05",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-11-06",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-11-06",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-04-02",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5311 (under House Rule 27)"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5311 (under House Rule 27)",
+   "last_action_date": "2026-04-02",
+   "introduced": "2025-11-05",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-H869",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H869",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act relative to ranked choice voting in the town of Acton",
+   "sponsors": [
+    {
+     "name": "Danillo A. Sena",
+     "role": "primary"
+    },
+    {
+     "name": "Simon Cataldo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "James B. Eldridge",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H869",
+   "text_url": "https://malegislature.gov/Bills/194/H869.pdf",
+   "docket": "HD105",
+   "summary": "By Representatives Sena of Acton and Cataldo of Concord, a petition (accompanied by bill, House, No. 869) of Danillo A. Sena and Simon Cataldo (by vote of the town) relative to ranked choice voting in the town of Acton. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-10-28",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5253 (under House Rule 27)",
+   "last_action_date": "2026-03-19",
+   "introduced": "2025-02-27",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-H809",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H809",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act establishing ranked choice voting for certain offices in the town of Lexington",
+   "sponsors": [
+    {
+     "name": "Michelle L. Ciccolo",
+     "role": "primary"
+    },
+    {
+     "name": "Cindy F. Friedman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kenneth I. Gordon",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H809",
+   "text_url": "https://malegislature.gov/Bills/194/H809.pdf",
+   "docket": "HD966",
+   "summary": "By Representative Ciccolo of Lexington, a petition (accompanied by bill, House, No. 809) of Michelle L. Ciccolo (by vote of the town) that the town of Lexington be authorized to establish ranked choice voting for certain offices in said town. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-10-28",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5253 (under House Rule 27)",
+   "last_action_date": "2026-03-19",
+   "introduced": "2025-02-27",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-H4499",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H4499",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act authorizing ranked choice voting in the town of Arlington",
+   "sponsors": [
+    {
+     "name": "Sean Garballey",
+     "role": "primary"
+    },
+    {
+     "name": "Cindy F. Friedman",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H4499",
+   "text_url": "https://malegislature.gov/Bills/194/H4499.pdf",
+   "docket": "HD5117",
+   "summary": "By Representative Garballey of Arlington and Senator Friedman, a joint petition (accompanied by bill, House, No. 4499) of Sean Garballey and Cindy F. Friedman (by vote of the town) for legislation to authorize ranked choice voting in the town of Arlington. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-09-11",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-09-15",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-10-28",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5253 (under House Rule 27)",
+   "last_action_date": "2026-03-19",
+   "introduced": "2025-09-11",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "rank choice",
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-H4098",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H4098",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act relative to ranked choice voting in the city of Northampton",
+   "sponsors": [
+    {
+     "name": "Lindsay N. Sabadosa",
+     "role": "primary"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H4098",
+   "text_url": "https://malegislature.gov/Bills/194/H4098.pdf",
+   "docket": "HD630",
+   "summary": "By Representative Sabadosa of Northampton and Senator Comerford, a joint petition (accompanied by bill, House, No. 4098) of Lindsay N. Sabadosa and Joanne M. Comerford (with the approval of the mayor and city council) relative to ranked choice voting in the city of Northampton. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-05-08",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-05-12",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-10-28",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5253 (under House Rule 27)",
+   "last_action_date": "2026-03-19",
+   "introduced": "2025-05-08",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-H4034",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H4034",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act authorizing ranked choice voting in the town of Brookline",
+   "sponsors": [
+    {
+     "name": "Tommy Vitolo",
+     "role": "primary"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Cynthia Stone Creem",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H4034",
+   "text_url": "https://malegislature.gov/Bills/194/H4034.pdf",
+   "docket": "HD4570",
+   "summary": "By Representative Vitolo of Brookline, a petition (accompanied by bill, House, No. 4034) of Tommy Vitolo (by vote of the town) for legislation to authorize ranked choice voting in the town of Brookline. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-04-17",
+     "chamber": "House",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-04-22",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-10-28",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-19",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5253 (under House Rule 27)"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a study order, see H5253 (under House Rule 27)",
+   "last_action_date": "2026-03-19",
+   "introduced": "2025-04-17",
+   "status": "failed",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-H76",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "H76",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act to protect against election misinformation",
+   "sponsors": [
+    {
+     "name": "Tricia Farley-Bouvier",
+     "role": "primary"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/H76",
+   "text_url": "https://malegislature.gov/Bills/194/H76.pdf",
+   "docket": "HD1181",
+   "summary": "By Representative Farley-Bouvier of Pittsfield, a petition (accompanied by bill, House, No. 76) of Tricia Farley-Bouvier relative to materially deceptive election-related communications. Advanced Information Technology, the Internet and Cybersecurity.",
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "chamber": "Joint",
+     "text": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2 and Virtual Hearing updated to include Virtual"
+    },
+    {
+     "date": "2025-12-24",
+     "chamber": "House",
+     "text": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5093"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Read second, amended (as recommended by the committee on House Ways and Means)"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "New draft substituted, see H5093"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "New draft substituted, see H5093",
+   "last_action_date": "2026-02-11",
+   "introduced": "2025-02-27",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "deceptive election"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "ma-194-S509",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "S509",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "An Act relative to the preparation of bilingual ballots in English and Haitian Creole in the city known as the town of Randolph",
+   "sponsors": [
+    {
+     "name": "William J. Driscoll, Jr.",
+     "role": "primary"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/S509",
+   "text_url": "https://malegislature.gov/Bills/194/S509.pdf",
+   "docket": "SD2491",
+   "summary": "By Mr. Driscoll, a petition (accompanied by bill, Senate, No. 509) of William J. Driscoll, Jr. (with the vote of the town) for legislation relative to the preparation of bilingual ballots in English and Haitian Creole for state elections in the city known as the town of Randolph. Election Laws. [Local Approval Received.]",
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "House concurred"
+    },
+    {
+     "date": "2025-06-10",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 06/17/2025 from 01:00 PM-05:00 PM in B-1"
+    },
+    {
+     "date": "2025-07-31",
+     "chamber": "Senate",
+     "text": "Bill reported favorably by committee and placed in the Orders of the Day for the next session"
+    },
+    {
+     "date": "2025-10-16",
+     "chamber": "Senate",
+     "text": "Read second and ordered to a third reading"
+    },
+    {
+     "date": "2026-01-22",
+     "chamber": "Senate",
+     "text": "Taken out of the Orders of the Day"
+    },
+    {
+     "date": "2026-01-22",
+     "chamber": "Senate",
+     "text": "Read third (title changed) and passed to be engrossed"
+    },
+    {
+     "date": "2026-01-23",
+     "chamber": "House",
+     "text": "Read; and referred to the committee on House Ways and Means"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Read; and referred to the committee on House Ways and Means",
+   "last_action_date": "2026-01-23",
+   "introduced": "2025-02-27",
+   "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "bilingual ballot"
+     ],
+     "subtags": [
+      "language_access"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-S531",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "S531",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "An Act providing a local option for ranked choice voting in municipal elections",
+   "sponsors": [
+    {
+     "name": "Rebecca L. Rausch",
+     "role": "primary"
+    },
+    {
+     "name": "Robyn K. Kennedy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason M. Lewis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sal N. DiDomenico",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Patricia D. Jehlen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brendan P. Crighton",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Simon Cataldo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael P. Kushmerek",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Paul W. Mark",
+     "role": "cosponsor"
+    },
+    {
+     "name": "James B. Eldridge",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John J. Cronin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Danillo A. Sena",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/S531",
+   "text_url": "https://malegislature.gov/Bills/194/S531.pdf",
+   "docket": "SD2194",
+   "summary": "By Ms. Rausch, a petition (accompanied by bill, Senate, No. 531) of Rebecca L. Rausch, Michael J. Barrett, Joanne M. Comerford, Erika Uyterhoeven and others for legislation to provide a local option for ranked choice voting in municipal elections. Election Laws.",
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "House",
+     "text": "House concurred"
+    },
+    {
+     "date": "2025-10-28",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 11/13/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-08",
+     "chamber": "Senate",
+     "text": "Reporting date extended to Friday, January 30, 2026"
+    },
+    {
+     "date": "2026-01-15",
+     "chamber": "Senate",
+     "text": "Accompanied a new draft, see S2911"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Accompanied a new draft, see S2911",
+   "last_action_date": "2026-01-15",
+   "introduced": "2025-02-27",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "single transferable vote"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-S2911",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "S2911",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "An Act providing a local option for ranked choice voting in municipal elections",
+   "sponsors": [
+    {
+     "name": "Joint Committee on Election Laws",
+     "role": "primary"
+    },
+    {
+     "name": "Robyn K. Kennedy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason M. Lewis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sal N. DiDomenico",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Patricia D. Jehlen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brendan P. Crighton",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Simon Cataldo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael P. Kushmerek",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Paul W. Mark",
+     "role": "cosponsor"
+    },
+    {
+     "name": "James B. Eldridge",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John J. Cronin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Danillo A. Sena",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rebecca L. Rausch",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/S2911",
+   "text_url": "https://malegislature.gov/Bills/194/S2911.pdf",
+   "summary": "Senate, January 15, 2026 -- The committee on Election Laws to whom was referred the petition (accompanied by bill, Senate, No. 531) of Rebecca L. Rausch, Michael J. Barrett, Joanne M. Comerford, Erika Uyterhoeven and others for legislation to provide a local option for ranked choice voting in municipal elections, report the accompanying bill (Senate, No. 2911).",
+   "actions": [
+    {
+     "date": "2026-01-15",
+     "chamber": "Senate",
+     "text": "Reported from the committee on Election Laws"
+    },
+    {
+     "date": "2026-01-15",
+     "chamber": "Senate",
+     "text": "New draft of S531"
+    },
+    {
+     "date": "2026-01-15",
+     "chamber": "Senate",
+     "text": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+   "last_action_date": "2026-01-15",
+   "introduced": "2026-01-15",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "multi-seat election"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-HD4956",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "HD4956",
+   "chamber": "House",
+   "type": "bill",
+   "title": "An Act providing a local option for ranked choice voting in municipal elections",
+   "sponsors": [
+    {
+     "name": "Russell E. Holmes",
+     "role": "primary"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marjorie C. Decker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amy Mah Sangiolo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/HD4956",
+   "text_url": "",
+   "summary": "By Representative Holmes of Boston, a petition (subject to Joint Rule 12) of Russell E. Holmes for legislation to establish a local option for ranked choice voting in municipal elections. Election Laws.",
+   "actions": [
+    {
+     "date": "2025-07-28",
+     "chamber": "House",
+     "text": "Referred to the committee on House Rules"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Referred to the committee on House Rules",
+   "last_action_date": "2025-07-28",
+   "introduced": "2025-07-28",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "single transferable vote"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "ma-194-S6",
+   "state": "MA",
+   "session": "194",
+   "session_name": "194th General Court (2025-2026)",
+   "number": "S6",
+   "chamber": "Senate",
+   "type": "proposal for constitutional amendment",
+   "title": "Proposal for a legislative amendment to the Constitution establishing an independent redistricting commission",
+   "sponsors": [
+    {
+     "name": "James B. Eldridge",
+     "role": "primary"
+    }
+   ],
+   "url": "https://malegislature.gov/Bills/194/S6",
+   "text_url": "https://malegislature.gov/Bills/194/S6.pdf",
+   "docket": "SD366",
+   "summary": "By Mr. Eldridge, a petition (accompanied by proposal for constitutional amendment, Senate, No. 6) of James B. Eldridge for a legislative amendment to the Constitution to establish an independent redistricting commission. Election Laws.",
+   "actions": [
+    {
+     "date": "2025-03-03",
+     "chamber": "Senate",
+     "text": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "chamber": "Joint",
+     "text": "Hearing scheduled for 04/01/2025 from 01:00 PM-03:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "Senate",
+     "text": "Proposal for Constitutional Amendment ought not to pass (under Joint Rule 23) and placed on file"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Placed on file, in concurrence"
+    }
+   ],
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Placed on file, in concurrence",
+   "last_action_date": "2025-05-01",
+   "introduced": "2025-03-03",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "diluting the vot"
+     ],
+     "subtags": [
+      "language_access"
+     ]
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,836 @@
+{
+ "state": "MD",
+ "name": "Maryland",
+ "generated": "2026-10-31T15:47:49Z",
+ "bills": [
+  {
+   "id": "md-2026RS-SB255",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "SB 255",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Voting Rights Act of 2026 - Counties and Municipal Corporations",
+   "summary": "Prohibiting the imposition or application of a method for electing the governing body of a county or municipal corporation that impairs the ability of members of a protected class to elect candidates of the members' choice or influence the outcome of an election by diluting or abridging the rights of voters who are members of a protected class; authorizing the Attorney General and any other person to bring a certain action in the county where the violation allegedly occurred for injunctive relief, damages, or other relief; etc.",
+   "subjects": [
+    "Elections",
+    "Attorney General",
+    "Civil Rights and Social Equity",
+    "Counties -see also- Chartered Counties; Code Counties; etc.",
+    "Discrimination",
+    "Elections",
+    "Emergency Bills",
+    "Health -see also- COVID19; EnvHlth; MedCon; etc.",
+    "Minorities",
+    "Municipal Corporations -see also- Annap; Balt",
+    "Political Candidates",
+    "Safety -see also- Occupational Safety",
+    "Voting -see also- Absentee and Mail-In Voting"
+   ],
+   "sponsors": [
+    {
+     "name": "Senator Sydnor",
+     "role": "primary"
+    },
+    {
+     "name": "Senator Harris",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-16",
+     "chamber": "Senate",
+     "text": "First reading, referred to Education, Energy, and the Environment"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Hearing in Education, Energy, and the Environment"
+    },
+    {
+     "date": "2026-02-02",
+     "chamber": "Senate",
+     "text": "Committee report: Favorable with Amendments"
+    },
+    {
+     "date": "2026-02-05",
+     "chamber": "Senate",
+     "text": "Second reading: Passed with Amendments"
+    },
+    {
+     "date": "2026-02-07",
+     "chamber": "Senate",
+     "text": "Third reading: Passed"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-03-26",
+     "chamber": "House",
+     "text": "Second reading: Passed with Amendments"
+    },
+    {
+     "date": "2026-03-27",
+     "chamber": "House",
+     "text": "Third reading: Passed with Amendments"
+    },
+    {
+     "date": "2026-04-01",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-04-10",
+     "chamber": "House",
+     "text": "Committee report: Favorable with Amendments"
+    },
+    {
+     "date": "2026-04-10",
+     "chamber": "",
+     "text": "Approved by the Governor - Chapter 157"
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-01-27T13:00",
+     "chamber": "Senate",
+     "committee": "Education, Energy, and the Environment"
+    },
+    {
+     "date": "2026-04-01T13:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "enacted",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0255?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0255E.pdf",
+   "crossfile": "HB0350",
+   "chapter": "CH0157",
+   "last_action": "Approved by the Governor - Chapter 157",
+   "last_action_date": "2026-04-10",
+   "introduced": "2026-01-16",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "protected class to elect candidates of the members' choice or influence the outcome of an elect",
+      "voting rights act of"
+     ],
+     "subtags": [
+      "comprehensive_svra"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-SB800",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "SB 800",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Task Force on the Implementation of Approval Voting and Ranked-Choice Voting",
+   "summary": "Establishing the Task Force on the Implementation of Approval Voting and Ranked-Choice Voting; and requiring the Task Force to report its findings and recommendations to the Governor and the General Assembly by December 1, 2027.",
+   "subjects": [
+    "Elections",
+    "Committees and Commissions",
+    "Elections, State Board of",
+    "Evaluations and Reviews",
+    "Governor",
+    "Reports",
+    "Studies -see also- Commitees & Commissions; Reports",
+    "Sunset",
+    "Voting -see also- Absentee and Mail-In Voting",
+    "Work, Labor, and Employment -see also- JobTrn; Leave; etc."
+   ],
+   "sponsors": [
+    {
+     "name": "Senator McKay",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-02-06",
+     "chamber": "Senate",
+     "text": "First reading, referred to Education, Energy, and the Environment"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "Senate",
+     "text": "Hearing in Education, Energy, and the Environment"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "",
+     "text": "In the Senate - Hearing 2/25 at 1:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-25T13:00",
+     "chamber": "Senate",
+     "committee": "Education, Energy, and the Environment"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0800?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0800F.pdf",
+   "crossfile": "HB1289",
+   "last_action": "In the Senate - Hearing 2/25 at 1:00 p.m.",
+   "last_action_date": "2026-02-25",
+   "introduced": "2026-02-06",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "approval voting",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "study_commission"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-HB1289",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "HB 1289",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Task Force on the Implementation of Approval Voting and Ranked-Choice Voting",
+   "summary": "Establishing the Task Force on the Implementation of Approval Voting and Ranked-Choice Voting; and requiring the Task Force to report its findings and recommendations to the Governor and the General Assembly by December 1, 2027.",
+   "subjects": [
+    "Elections",
+    "Committees and Commissions",
+    "Elections, State Board of",
+    "Evaluations and Reviews",
+    "Governor",
+    "Reports",
+    "Studies -see also- Commitees & Commissions; Reports",
+    "Sunset",
+    "Voting -see also- Absentee and Mail-In Voting",
+    "Work, Labor, and Employment -see also- JobTrn; Leave; etc."
+   ],
+   "sponsors": [
+    {
+     "name": "Delegate Terrasa",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-02-12",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "",
+     "text": "In the House - Hearing 2/25 at 1:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-25T13:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1289?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1289F.pdf",
+   "crossfile": "SB0800",
+   "last_action": "In the House - Hearing 2/25 at 1:00 p.m.",
+   "last_action_date": "2026-02-25",
+   "introduced": "2026-02-12",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "approval voting",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "study_commission"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-HB580",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "HB 580",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Montgomery County - Voting Methods MC 1-26",
+   "summary": "Authorizing the Montgomery County Council to adopt, by law, a ranked-choice voting method or an approval voting method for elections for certain local offices.",
+   "subjects": [
+    "Elections",
+    "Awareness and Outreach",
+    "Ballots -see also- Abs&MailInBallots; Abs&MailInVoting",
+    "Circuit Courts",
+    "Education, Boards of",
+    "Elections",
+    "Judges",
+    "Laws and Ordinances -see also- Pub Local Laws; Uniform Laws",
+    "Montgomery County",
+    "Public Officials -see also- Atty Gen; Compt; Coun Admin; etc",
+    "Registers of Wills",
+    "Sheriffs",
+    "Standards and Best Practices",
+    "State's Attorneys",
+    "Voting -see also- Absentee and Mail-In Voting"
+   ],
+   "sponsors": [
+    {
+     "name": "Montgomery County Delegation",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-28",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "",
+     "text": "In the House - Hearing 2/18 at 1:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-18T13:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0580?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0580F.pdf",
+   "last_action": "In the House - Hearing 2/18 at 1:00 p.m.",
+   "last_action_date": "2026-02-18",
+   "introduced": "2026-01-28",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "approval voting",
+      "ranked-choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-HB584",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "HB 584",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Clean Maryland Democracy Amendment",
+   "summary": "Guaranteeing equal voting rights for all eligible voters; establishing that the people of Maryland have the right to elections that are free from improper foreign influence, undisclosed funding, and undue domination by large corporate interests; prohibiting the State, counties, and municipal corporations from denying, diluting, or abridging the right to vote based on certain protected classes; requiring the General Assembly to provide by law for a Maryland Voting Rights Act to protect the right to vote; etc.",
+   "subjects": [
+    "Elections",
+    "Accessibility - see also- Blind; Deaf; Disabilities; etc",
+    "Campaign Financing",
+    "Civil Rights and Social Equity",
+    "Constitutional Amendments",
+    "Constitution, U.S.",
+    "Counties -see also- Chartered Counties; Code Counties; etc.",
+    "Disclosure",
+    "Discrimination",
+    "Elections",
+    "Ethics",
+    "General Assembly -see also- AELR Cmte; LegislativePolCmte",
+    "International Affairs",
+    "Language -see also- Communications; Literacy",
+    "Laws and Ordinances -see also- Pub Local Laws; Uniform Laws",
+    "Municipal Corporations -see also- Annap; Balt",
+    "Political Candidates",
+    "Safety -see also- Occupational Safety",
+    "Voting -see also- Absentee and Mail-In Voting"
+   ],
+   "sponsors": [
+    {
+     "name": "Delegate Stewart",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-28",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "",
+     "text": "In the House - Hearing 2/11 at 2:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-11T14:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0584?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0584F.pdf",
+   "last_action": "In the House - Hearing 2/11 at 2:00 p.m.",
+   "last_action_date": "2026-02-11",
+   "introduced": "2026-01-28",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "maryland voting rights act"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-HB565",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "HB 565",
+   "chamber": "House",
+   "type": "bill",
+   "title": "County Boards of Education - Elections - District Voting (Fair Representation Act)",
+   "summary": "Requiring an election of members of the Calvert County, Cecil County, Garrett County, Montgomery County, Queen Anne's County, and St. Mary's County boards of education who represent a specific district to be decided by a plurality of the votes cast within that district.",
+   "subjects": [
+    "Education - Local Bills",
+    "Elections",
+    "Calvert County",
+    "Cecil County",
+    "Counties -see also- Chartered Counties; Code Counties; etc.",
+    "Education -see also- ContEd; DrvEd; HigherEd; etc.",
+    "Elections",
+    "Garrett County",
+    "Montgomery County",
+    "Queen Anne's County",
+    "Residency -see also- Immigrants and Citizenship",
+    "St. Mary's County",
+    "Voting -see also- Absentee and Mail-In Voting"
+   ],
+   "sponsors": [
+    {
+     "name": "Delegate Long, J.",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-28",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "",
+     "text": "In the House - Hearing 2/11 at 2:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-11T14:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0565?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0565F.pdf",
+   "last_action": "In the House - Hearing 2/11 at 2:00 p.m.",
+   "last_action_date": "2026-02-11",
+   "introduced": "2026-01-28",
+   "categories": {
+    "pr": {
+     "level": "match",
+     "terms": [
+      "fair representation act"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-HB350",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "HB 350",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Voting Rights Act of 2026 - Counties and Municipal Corporations",
+   "summary": "Prohibiting the imposition or application of a method for electing the governing body of a county or municipal corporation that impairs the ability of members of a protected class to elect candidates of the members' choice or the member's ability to influence the outcome of an election as a result of the dilution or the abridgement of the rights of voters who are members of a protected class.",
+   "subjects": [
+    "Elections",
+    "Attorney General",
+    "Civil Rights and Social Equity",
+    "Counties -see also- Chartered Counties; Code Counties; etc.",
+    "Discrimination",
+    "Elections",
+    "Emergency Bills",
+    "Health -see also- COVID19; EnvHlth; MedCon; etc.",
+    "Minorities",
+    "Municipal Corporations -see also- Annap; Balt",
+    "Political Candidates",
+    "Safety -see also- Occupational Safety",
+    "Voting -see also- Absentee and Mail-In Voting"
+   ],
+   "sponsors": [
+    {
+     "name": "Delegate Wims",
+     "role": "primary"
+    },
+    {
+     "name": "Delegate Behler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Boyce",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Chang",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Coley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Conaway",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Crutchfield",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Fair",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Feldmark",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Fraser-Hidalgo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Hill",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Jones, A.",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Kaiser",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Kaufman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Lehman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Long, J.",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Lopez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Mireku-North",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Moon",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Moreno",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Odom",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Palakovich Carr",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Pasteur",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Phillips",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Pruski",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Roberson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Ruth",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Simmons",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Stinnett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Taveras",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Taylor",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Terrasa",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Toles",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Turner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Wilkins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Williams",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Woorman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Delegate Young",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-19",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "",
+     "text": "In the House - Hearing 2/11 at 2:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-11T14:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0350?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0350F.pdf",
+   "crossfile": "SB0255",
+   "last_action": "In the House - Hearing 2/11 at 2:00 p.m.",
+   "last_action_date": "2026-02-11",
+   "introduced": "2026-01-19",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "protected class to elect candidates of the members' choice or the member's ability to influence the outcome of an elect",
+      "voting rights act of"
+     ],
+     "subtags": [
+      "comprehensive_svra"
+     ]
+    }
+   }
+  },
+  {
+   "id": "md-2026RS-HB219",
+   "state": "MD",
+   "session": "2026RS",
+   "session_name": "2026 Regular Session",
+   "number": "HB 219",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Maryland Voting Rights Act of 2026 - Voter Intimidation and Suppression",
+   "summary": "Altering public notice requirements of the State Board of Elections, local boards of elections, and certain municipal corporations with respect to changes in administrative policy affecting voting rights; prohibiting acts of intimidation, deception, or obstruction that interfere with the right to vote; prohibiting local governments from taking any action related to the election process that results in a disparity between members of a protected class and other members of the electorate; etc.",
+   "subjects": [
+    "Elections",
+    "Absentee and Mail-In Ballots",
+    "Absentee and Mail-In Voting",
+    "Accessibility - see also- Blind; Deaf; Disabilities; etc",
+    "Attorney General",
+    "Baltimore City",
+    "Boundaries",
+    "Chartered Counties -see also- AACo; BCo; CecilCo; etc.",
+    "Civil Actions -see also- Small Claims",
+    "Civil Rights and Social Equity",
+    "Code Counties -see also- AllegCo; CarolineCo; ChsCo; etc.",
+    "County Commissioners",
+    "Courts -see also- AppCt; Circuit; District; Orphans'; etc.",
+    "Disabilities",
+    "Discrimination",
+    "Education, Boards of",
+    "Elections",
+    "Elections Supervisors",
+    "Elections, State Board of",
+    "Emergency Bills",
+    "Fees -see also- Attys' Fees; Devt Fees & Taxes",
+    "Fraud -see also- Forgery",
+    "Harassment -see also- Threats",
+    "Health -see also- COVID19; EnvHlth; MedCon; etc.",
+    "Internet -see also- Internet Access",
+    "Language -see also- Communications; Literacy",
+    "Laws and Ordinances -see also- Pub Local Laws; Uniform Laws",
+    "Local Government Mandates",
+    "Meetings -see also- Hearings; Open Government",
+    "Minorities",
+    "Municipal Corporations -see also- Annap; Balt",
+    "Notices",
+    "Open Government",
+    "Penalties and Sentences -see also- Death Penalty",
+    "Public Information",
+    "Registration -see also- Motor Vehicle Registration",
+    "Rules and Regulations",
+    "Safety -see also- Occupational Safety",
+    "Standards and Best Practices",
+    "Subpoenas",
+    "Threats",
+    "Time",
+    "Voting -see also- Absentee and Mail-In Voting"
+   ],
+   "sponsors": [
+    {
+     "name": "Delegate Smith",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-14",
+     "chamber": "House",
+     "text": "First reading, referred to Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Hearing in Government, Labor, and Elections"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "",
+     "text": "In the House - Hearing 2/11 at 2:00 p.m."
+    }
+   ],
+   "hearings": [
+    {
+     "date": "2026-02-11T14:00",
+     "chamber": "House",
+     "committee": "Government, Labor, and Elections"
+    }
+   ],
+   "status": "committee",
+   "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0219?ys=2026RS",
+   "text_url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0219F.pdf",
+   "last_action": "In the House - Hearing 2/11 at 2:00 p.m.",
+   "last_action_date": "2026-02-11",
+   "introduced": "2026-01-14",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "maryland voting rights act",
+      "maryland voting rights act of",
+      "protected class and other members of the electorate; etc. elections ; absentee and mail-in ballots ; absentee and mail-in vot"
+     ],
+     "subtags": [
+      "comprehensive_svra"
+     ]
+    }
+   }
+  }
+ ]
+}

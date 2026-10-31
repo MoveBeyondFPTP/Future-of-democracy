@@ -1,0 +1,1456 @@
+{
+ "state": "VA",
+ "name": "Virginia",
+ "generated": "2026-10-31T15:47:49Z",
+ "bills": [
+  {
+   "id": "va-20261-SB176",
+   "state": "VA",
+   "session": "20261",
+   "session_name": "2026 Regular Session",
+   "number": "SB176",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Elections; ranked choice voting, locally elected offices, report.",
+   "summary": "Elections; conduct of election; ranked choice voting; locally elected offices; report. Expands the option to use ranked choice voting from only elections for county board of supervisors and city councils to any local governing body. The bill requires the State Board of Elections to provide standards and to approve vote tabulating software for use with existing voting systems in elections conducted by ranked choice voting. The bill provides for copying damaged or defective ballots that cannot be properly counted by electronic voting systems. The bill allows localities to request risk-limiting audits of elections conducted using ranked choice voting and provides that no such election may be included in any random drawing required to satisfy the general requirements for risk-limiting audits. The bill specifies that the State Board is required to produce generalized voter education materials on ranked choice voting and is also permitted to create and modify recount procedures to the extent necessary to accommodate a recount of an election. The bill directs the Department of Elections to review the testing and approval framework for voting equipment in the Commonwealth and submit a report of such review no later than the first day of the 2027 Regular Session of the General Assembly. Finally, the bill repeals the 2031 expiration of the option to use ranked choice voting in elections, making such option permanent. This bill is identical to HB 630.",
+   "sponsors": [
+    {
+     "name": "Schuyler T. VanValkenburg",
+     "role": "primary"
+    },
+    {
+     "name": "Saddam Azlan Salim",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jennifer D. Carroll Foy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adam P. Ebbin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Barbara A. Favola",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Stella G. Pekarsky",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kannan Srinivasan",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-08",
+     "chamber": "Senate",
+     "text": "Prefiled and ordered printed; Offered 01-14-2026 26104635D"
+    },
+    {
+     "date": "2026-01-08",
+     "chamber": "Senate",
+     "text": "Referred to Committee on Privileges and Elections"
+    },
+    {
+     "date": "2026-01-26",
+     "chamber": "Senate",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (SB176)"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Reported from Privileges and Elections (8-Y 5-N 1-A)"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Senate",
+     "text": "Rules suspended"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed (on 1st reading) (40-Y 0-N 0-A)"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Senate",
+     "text": "Passed by for the day (Voice Vote)"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Senate",
+     "text": "Passed by for the day"
+    },
+    {
+     "date": "2026-01-30",
+     "chamber": "Senate",
+     "text": "Read second time"
+    },
+    {
+     "date": "2026-01-30",
+     "chamber": "Senate",
+     "text": "Read second time"
+    },
+    {
+     "date": "2026-01-30",
+     "chamber": "Senate",
+     "text": "Engrossed by Senate (Voice Vote)"
+    },
+    {
+     "date": "2026-02-02",
+     "chamber": "Senate",
+     "text": "Read third time and passed Senate (21-Y 19-N 0-A)"
+    },
+    {
+     "date": "2026-02-05",
+     "chamber": "House",
+     "text": "Placed on Calendar"
+    },
+    {
+     "date": "2026-02-05",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2026-02-05",
+     "chamber": "House",
+     "text": "Referred to Committee on Privileges and Elections"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "House",
+     "text": "Placed on Privileges and Elections Agenda"
+    },
+    {
+     "date": "2026-02-20",
+     "chamber": "House",
+     "text": "Reported from Privileges and Elections (15-Y 6-N)"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "House",
+     "text": "Read second time"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "House",
+     "text": "Read third time"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "House",
+     "text": "Passed House (64-Y 34-N 0-A)"
+    },
+    {
+     "date": "2026-02-27",
+     "chamber": "Senate",
+     "text": "Enrolled"
+    },
+    {
+     "date": "2026-02-27",
+     "chamber": "Senate",
+     "text": "Bill text as passed Senate and House (SB176ER)"
+    },
+    {
+     "date": "2026-02-27",
+     "chamber": "Senate",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (SB176)"
+    },
+    {
+     "date": "2026-02-27",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-02-27",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Senate",
+     "text": "Enrolled Bill communicated to Governor on March 10, 2026"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Governor",
+     "text": "Governor's Action Deadline 11:59 p.m., April 13, 2026"
+    },
+    {
+     "date": "2026-04-11",
+     "chamber": "Governor",
+     "text": "Governor's recommendation received by Senate"
+    },
+    {
+     "date": "2026-04-11",
+     "chamber": "Governor",
+     "text": "Governor's Recommendation"
+    },
+    {
+     "date": "2026-04-11",
+     "chamber": "Senate",
+     "text": "Governor's substitute printed (SB176S1)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Senate concurred in Governor's recommendation (21-Y 18-N 0-A)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "House concurred in Governor's recommendation (65-Y 33-N 0-A)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Governor",
+     "text": "Governor's recommendation adopted"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Reenrolled"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Reenrolled bill text (SB176ER2)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "",
+     "text": "Approved by Governor-Chapter 993 (effective 7/1/2026)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "",
+     "text": "Acts of Assembly Chapter text (CHAP0993)"
+    }
+   ],
+   "introduced": "2026-01-08",
+   "url": "https://lis.virginia.gov/bill-details/20261/SB176",
+   "text_url": "https://lis.virginia.gov/bill-details/20261/SB176/text/SB176",
+   "status": "enacted",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Acts of Assembly Chapter text (CHAP0993)",
+   "last_action_date": "2026-04-22",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    }
+   }
+  },
+  {
+   "id": "va-20261-HB630",
+   "state": "VA",
+   "session": "20261",
+   "session_name": "2026 Regular Session",
+   "number": "HB630",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Elections; ranked choice voting, locally elected offices, report.",
+   "summary": "Elections; conduct of election; ranked choice voting; locally elected offices; report. Expands the option to use ranked choice voting from only elections for county board of supervisors and city councils to any local governing body. The bill requires the State Board of Elections to provide standards and to approve vote tabulating software for use with existing voting systems in elections conducted by ranked choice voting. The bill provides for copying damaged or defective ballots that cannot be properly counted by electronic voting systems. The bill allows localities to request risk-limiting audits of elections conducted using ranked choice voting and provides that no such election may be included in any random drawing required to satisfy the general requirements for risk-limiting audits. The bill specifies that the State Board is required to produce generalized voter education materials on ranked choice voting and is also permitted to create and modify recount procedures to the extent necessary to accommodate a recount of an election. The bill directs the Department of Elections to review the testing and approval framework for voting equipment in the Commonwealth and submit a report of such review no later than the first day of the 2027 Regular Session of the General Assembly. Finally, the bill repeals the 2031 expiration of the option to use ranked choice voting in elections, making such option permanent. This bill is identical to SB 176.",
+   "sponsors": [
+    {
+     "name": "Katrina Callsen",
+     "role": "primary"
+    },
+    {
+     "name": "Patrick A. Hope",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adele Y. McClure",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jessica L. Anderson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Bonita G. Anthony",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Elizabeth B. Bennett-Parker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Nadarius E. Clark",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Laura Jane Cohen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joshua G. Cole",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rae Cousins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lindsey Dougherty",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Mark C. Downey",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jackie H. Glass",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rozia A. Henson, Jr.",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Phil M. Hernandez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marty Martinez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John Chilton McAuliff",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sam Rasoul",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Irene Shin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Shelly A. Simonds",
+     "role": "cosponsor"
+    },
+    {
+     "name": "JJ Singh",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kathy K.L. Tran",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-13",
+     "chamber": "House",
+     "text": "Prefiled and ordered printed; Offered 01-14-2026 26105115D"
+    },
+    {
+     "date": "2026-01-13",
+     "chamber": "House",
+     "text": "Referred to Committee on Privileges and Elections"
+    },
+    {
+     "date": "2026-01-26",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB630)"
+    },
+    {
+     "date": "2026-02-06",
+     "chamber": "House",
+     "text": "Assigned HPE sub: Election Administration"
+    },
+    {
+     "date": "2026-02-06",
+     "chamber": "House",
+     "text": "Placed on Privileges and Elections Agenda"
+    },
+    {
+     "date": "2026-02-09",
+     "chamber": "House",
+     "text": "Subcommittee recommends reporting (5-Y 2-N)"
+    },
+    {
+     "date": "2026-02-12",
+     "chamber": "House",
+     "text": "Placed on Privileges and Elections Agenda"
+    },
+    {
+     "date": "2026-02-13",
+     "chamber": "House",
+     "text": "Reported from Privileges and Elections (15-Y 6-N)"
+    },
+    {
+     "date": "2026-02-15",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2026-02-16",
+     "chamber": "House",
+     "text": "Read second time and engrossed"
+    },
+    {
+     "date": "2026-02-17",
+     "chamber": "House",
+     "text": "Read third time and passed House (62-Y 34-N 0-A)"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed (on 1st reading)"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "Senate",
+     "text": "Referred to Committee on Privileges and Elections"
+    },
+    {
+     "date": "2026-03-03",
+     "chamber": "Senate",
+     "text": "Reported from Privileges and Elections (8-Y 7-N)"
+    },
+    {
+     "date": "2026-03-05",
+     "chamber": "Senate",
+     "text": "Rules suspended"
+    },
+    {
+     "date": "2026-03-05",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed Block Vote (on 2nd reading) (39-Y 0-N 0-A)"
+    },
+    {
+     "date": "2026-03-05",
+     "chamber": "Senate",
+     "text": "Passed by for the day Block Vote (Voice Vote)"
+    },
+    {
+     "date": "2026-03-06",
+     "chamber": "Senate",
+     "text": "Passed by for the day Block Vote (Voice Vote)"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "Senate",
+     "text": "Passed by for the day"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Senate",
+     "text": "Read third time"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Senate",
+     "text": "Passed Senate (21-Y 19-N 0-A)"
+    },
+    {
+     "date": "2026-03-30",
+     "chamber": "House",
+     "text": "Enrolled"
+    },
+    {
+     "date": "2026-03-30",
+     "chamber": "House",
+     "text": "Bill text as passed House and Senate (HB630ER)"
+    },
+    {
+     "date": "2026-03-30",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-03-31",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-03-31",
+     "chamber": "House",
+     "text": "Enrolled Bill communicated to Governor on March 31, 2026"
+    },
+    {
+     "date": "2026-03-31",
+     "chamber": "Governor",
+     "text": "Governor's Action Deadline 11:59 p.m., April 13, 2026"
+    },
+    {
+     "date": "2026-04-06",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB630)"
+    },
+    {
+     "date": "2026-04-11",
+     "chamber": "House",
+     "text": "Governor's substitute printed (HB630H1)"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "House",
+     "text": "Governor's substitute printed (HB630H1)"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "Governor",
+     "text": "Governor's Recommendation"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "Governor",
+     "text": "Governor's recommendation received by House"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "House concurred in Governor's recommendation (65-Y 35-N 0-A)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Senate concurred in Governor's recommendation (21-Y 18-N 0-A)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Governor",
+     "text": "Governor's recommendation adopted"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Reenrolled"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Reenrolled bill text (HB630ER2)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "",
+     "text": "Approved by Governor-Chapter 1062 (effective 7/1/2026)"
+    },
+    {
+     "date": "2026-04-22",
+     "chamber": "",
+     "text": "Acts of Assembly Chapter text (CHAP1062)"
+    }
+   ],
+   "introduced": "2026-01-13",
+   "url": "https://lis.virginia.gov/bill-details/20261/HB630",
+   "text_url": "https://lis.virginia.gov/bill-details/20261/HB630/text/HB630",
+   "status": "enacted",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Acts of Assembly Chapter text (CHAP1062)",
+   "last_action_date": "2026-04-22",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "adoption",
+      "local_option"
+     ]
+    }
+   }
+  },
+  {
+   "id": "va-20261-HB967",
+   "state": "VA",
+   "session": "20261",
+   "session_name": "2026 Regular Session",
+   "number": "HB967",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Voting Rights Act of Virginia; revises provisions.",
+   "summary": "Elections; Voting Rights Act of Virginia. Revises provisions of the Voting Rights Act of Virginia (the Act) by (i) clarifying the legal standards for evaluating claims of alleged voter suppression and vote dilution, (ii) providing guidance to the courts to follow when determining whether a violation of the prohibition against voter suppression or vote dilution has occurred, and (iii) outlining the factors that the courts are permitted to consider and those factors that the courts are prohibited from considering. The bill expands the class of persons who may initiate a cause of action for an alleged violation of the Act to include organizations whose membership includes members of a protected class, organizations whose mission would be frustrated by a violation of the Act, and organizations that would expend resources in order to fulfill their mission as a result of a violation of the Act. The population thresholds for a locality to be designated as a covered locality for purposes of minority language accessibility pursuant to the Act are also amended. Current law designates a locality as a covered locality if, in the locality, (a) more than five percent of the voting age population or (b) more than 10,000 of the voting age population are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process; the bill reduces those thresholds from five to three percent and from 10,000 to 5,000. The bill contains technical amendments for organizational purposes.",
+   "sponsors": [
+    {
+     "name": "Marcia S. \"Cia\" Price",
+     "role": "primary"
+    },
+    {
+     "name": "Bonita G. Anthony",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Karen R. \"Kacey\" Carnegie",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Betsy B. Carr",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Nadarius E. Clark",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joshua G. Cole",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Nicole Cole",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kelly K. Convirs-Fowler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rae Cousins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret A. Franklin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Debra D. Gardner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jackie H. Glass",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Elizabeth R. Guzman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Dan I. Helmer",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rozia A. Henson, Jr.",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Patrick A. Hope",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Karen Keys-Gamarra",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Destiny LeVere Bolling",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michelle Lopes Maldonado",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marty Martinez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "May Nivar",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kimberly Pope Adams",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sam Rasoul",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Charlie Schmidt",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Irene Shin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kathy K.L. Tran",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rodney T. Willett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lashrecse D. Aird",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Saddam Azlan Salim",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kannan Srinivasan",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-13",
+     "chamber": "House",
+     "text": "Prefiled and ordered printed; Offered 01-14-2026 26101432D"
+    },
+    {
+     "date": "2026-01-13",
+     "chamber": "House",
+     "text": "Referred to Committee on Privileges and Elections"
+    },
+    {
+     "date": "2026-02-03",
+     "chamber": "House",
+     "text": "Assigned HPE sub: Voting Rights"
+    },
+    {
+     "date": "2026-02-03",
+     "chamber": "House",
+     "text": "Placed on Privileges and Elections Agenda"
+    },
+    {
+     "date": "2026-02-06",
+     "chamber": "House",
+     "text": "Subcommittee recommends reporting (6-Y 2-N)"
+    },
+    {
+     "date": "2026-02-06",
+     "chamber": "House",
+     "text": "Placed on Privileges and Elections Agenda"
+    },
+    {
+     "date": "2026-02-06",
+     "chamber": "House",
+     "text": "Reported from Privileges and Elections (15-Y 7-N)"
+    },
+    {
+     "date": "2026-02-10",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB967)"
+    },
+    {
+     "date": "2026-02-11",
+     "chamber": "House",
+     "text": "Read second time and engrossed"
+    },
+    {
+     "date": "2026-02-12",
+     "chamber": "House",
+     "text": "Read third time and passed House (63-Y 35-N 0-A)"
+    },
+    {
+     "date": "2026-02-13",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed (on 1st reading)"
+    },
+    {
+     "date": "2026-02-13",
+     "chamber": "Senate",
+     "text": "Referred to Committee on Privileges and Elections"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Senate committee offered"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Reported from Privileges and Elections with amendments and rereferred to Finance and Appropriations (8-Y 7-N)"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Rereferred to Finance and Appropriations"
+    },
+    {
+     "date": "2026-03-03",
+     "chamber": "Senate",
+     "text": "Reported from Finance and Appropriations (10-Y 5-N)"
+    },
+    {
+     "date": "2026-03-03",
+     "chamber": "Senate",
+     "text": "Rules suspended"
+    },
+    {
+     "date": "2026-03-03",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed (on 2nd reading) (40-Y 0-N 0-A)"
+    },
+    {
+     "date": "2026-03-03",
+     "chamber": "Senate",
+     "text": "Passed by for the day (Voice Vote)"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Read third time"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Committee amendments agreed to"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Engrossed by Senate as amended"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Passed Senate with amendments (21-Y 18-N 0-A)"
+    },
+    {
+     "date": "2026-03-06",
+     "chamber": "House",
+     "text": "Senate amendments agreed to by House (62-Y 35-N 0-A)"
+    },
+    {
+     "date": "2026-03-13",
+     "chamber": "House",
+     "text": "Enrolled"
+    },
+    {
+     "date": "2026-03-13",
+     "chamber": "House",
+     "text": "Bill text as passed House and Senate (HB967ER)"
+    },
+    {
+     "date": "2026-03-13",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-03-13",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-03-14",
+     "chamber": "House",
+     "text": "Enrolled Bill communicated to Governor on March 14, 2026"
+    },
+    {
+     "date": "2026-03-14",
+     "chamber": "Governor",
+     "text": "Governor's Action Deadline 11:59 p.m., April 13, 2026"
+    },
+    {
+     "date": "2026-03-16",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB967)"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "",
+     "text": "Approved by Governor-Chapter 717 (effective 7/1/2026)"
+    },
+    {
+     "date": "2026-04-13",
+     "chamber": "",
+     "text": "Acts of Assembly Chapter text (CHAP0717)"
+    }
+   ],
+   "introduced": "2026-01-13",
+   "url": "https://lis.virginia.gov/bill-details/20261/HB967",
+   "text_url": "https://lis.virginia.gov/bill-details/20261/HB967/text/HB967",
+   "status": "enacted",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Acts of Assembly Chapter text (CHAP0717)",
+   "last_action_date": "2026-04-13",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "vote dilution",
+      "voter suppression",
+      "voting rights act of"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "dilution_cause_of_action"
+     ]
+    }
+   }
+  },
+  {
+   "id": "va-20261-HB168",
+   "state": "VA",
+   "session": "20261",
+   "session_name": "2026 Regular Session",
+   "number": "HB168",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Election of certain governing bodies; conversion to single-member districts.",
+   "summary": "Election of certain governing bodies; conversion to single-member districts. Requires every locality with a population of 400,000 or greater to elect the members of its governing body by individual single-member districts. The bill provides that a governing body's presiding officer may be elected at large. The bill further provides that any such governing body that does not already meet the requirements of the bill shall establish the required districts and shall reapportion the representation in the governing body in accordance with general law. Finally, the bill provides that for any such governing body that, prior to 2026, adopted an ordinance with a map to elect its members by individual single-member districts, such ordinance shall become effective upon the effective date of this act. This bill is identical to SB 51.",
+   "sponsors": [
+    {
+     "name": "Alex Q. Askew",
+     "role": "primary"
+    },
+    {
+     "name": "Kelly K. Convirs-Fowler",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Nadarius E. Clark",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-01-06",
+     "chamber": "House",
+     "text": "Prefiled and ordered printed; Offered 01-14-2026 26103668D"
+    },
+    {
+     "date": "2026-01-06",
+     "chamber": "House",
+     "text": "Referred to Committee on Counties, Cities and Towns"
+    },
+    {
+     "date": "2026-01-20",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB168)"
+    },
+    {
+     "date": "2026-01-20",
+     "chamber": "House",
+     "text": "Assigned HCCT sub: Subcommittee #3"
+    },
+    {
+     "date": "2026-01-22",
+     "chamber": "House",
+     "text": "Placed on Counties, Cities and Towns Agenda"
+    },
+    {
+     "date": "2026-01-23",
+     "chamber": "House",
+     "text": "House subcommittee offered"
+    },
+    {
+     "date": "2026-01-23",
+     "chamber": "House",
+     "text": "Subcommittee recommends reporting with substitute (6-Y 1-N)"
+    },
+    {
+     "date": "2026-01-23",
+     "chamber": "House",
+     "text": "Placed on Counties, Cities and Towns Agenda"
+    },
+    {
+     "date": "2026-01-23",
+     "chamber": "House",
+     "text": "Reported from Counties, Cities and Towns with substitute (15-Y 4-N)"
+    },
+    {
+     "date": "2026-01-23",
+     "chamber": "House",
+     "text": "Committee substitute printed 26105950D-H1"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "House",
+     "text": "Read second time"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "House",
+     "text": "committee substitute agreed to"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "House",
+     "text": "Engrossed by House - committee substitute"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "House",
+     "text": "Read third time and passed House (75-Y 24-N 0-A)"
+    },
+    {
+     "date": "2026-01-30",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed (on 1st reading)"
+    },
+    {
+     "date": "2026-01-30",
+     "chamber": "Senate",
+     "text": "Referred to Committee on Local Government"
+    },
+    {
+     "date": "2026-02-04",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB168)"
+    },
+    {
+     "date": "2026-02-23",
+     "chamber": "Senate",
+     "text": "Reported from Local Government with substitute (9-Y 6-N)"
+    },
+    {
+     "date": "2026-02-23",
+     "chamber": "Senate",
+     "text": "Senate committee offered"
+    },
+    {
+     "date": "2026-02-23",
+     "chamber": "Senate",
+     "text": "Committee substitute printed 26108414D-S1"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Rules suspended"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed Block Vote (on 2nd reading) (39-Y 0-N 0-A)"
+    },
+    {
+     "date": "2026-02-24",
+     "chamber": "Senate",
+     "text": "Passed by for the day Block Vote (Voice Vote)"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "Senate",
+     "text": "Read third time"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "Senate",
+     "text": "Local Government Substitute agreed to"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "Senate",
+     "text": "Engrossed by Senate - committee substitute"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "Senate",
+     "text": "Passed Senate with substitute (23-Y 17-N 0-A)"
+    },
+    {
+     "date": "2026-02-26",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB168)"
+    },
+    {
+     "date": "2026-02-27",
+     "chamber": "House",
+     "text": "Senate substitute agreed to by House (66-Y 30-N 0-A)"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "House",
+     "text": "Enrolled"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "House",
+     "text": "Bill text as passed House and Senate (HB168ER)"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "House",
+     "text": "Enrolled Bill communicated to Governor on March 04, 2026"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Governor",
+     "text": "Governor's Action Deadline 11:59 p.m., March 11, 2026"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Governor",
+     "text": "Governor's recommendation received by House"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Governor",
+     "text": "Governor's Recommendation"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-03-06",
+     "chamber": "House",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (HB168)"
+    },
+    {
+     "date": "2026-03-06",
+     "chamber": "House",
+     "text": "House concurred in Governor's recommendation (67-Y 30-N 0-A)"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Senate",
+     "text": "Senate concurred in Governor's recommendation (22-Y 18-N 0-A)"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Governor",
+     "text": "Governor's recommendation adopted"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "House",
+     "text": "Reenrolled"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "House",
+     "text": "Reenrolled bill text (HB168ER2)"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "",
+     "text": "Approved by Governor - Chapter 10 (effective - 3/10/2026)"
+    },
+    {
+     "date": "2026-03-10",
+     "chamber": "",
+     "text": "Acts of Assembly Chapter text (CHAP0010)"
+    }
+   ],
+   "introduced": "2026-01-06",
+   "url": "https://lis.virginia.gov/bill-details/20261/HB168",
+   "text_url": "https://lis.virginia.gov/bill-details/20261/HB168/text/HB168",
+   "status": "enacted",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Acts of Assembly Chapter text (CHAP0010)",
+   "last_action_date": "2026-03-10",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial election system",
+      "voting rights laws"
+     ],
+     "subtags": [
+      "at_large_conversion"
+     ]
+    }
+   }
+  },
+  {
+   "id": "va-20261-SB51",
+   "state": "VA",
+   "session": "20261",
+   "session_name": "2026 Regular Session",
+   "number": "SB51",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Election of certain governing bodies; conversion to single-member districts.",
+   "summary": "Election of certain governing bodies; conversion to single-member districts. Requires every locality with a population of 400,000 or greater to elect the members of its governing body by individual single-member districts. The bill provides that a governing body's presiding officer may be elected at large. The bill further provides that any such governing body that does not already meet the requirements of the bill shall establish the required districts and shall reapportion the representation in the governing body in accordance with general law. Finally, the bill provides that for any such governing body that, prior to 2026, adopted an ordinance with a map to elect its members by individual single-member districts, such ordinance shall become effective upon the effective date of this act. This bill is identical to HB 168.",
+   "sponsors": [
+    {
+     "name": "Aaron R. Rouse",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-11-24",
+     "chamber": "Senate",
+     "text": "Prefiled and ordered printed; Offered 01-14-2026 26100881D"
+    },
+    {
+     "date": "2025-11-24",
+     "chamber": "Senate",
+     "text": "Referred to Committee on Local Government"
+    },
+    {
+     "date": "2026-01-26",
+     "chamber": "Senate",
+     "text": "Senate committee offered"
+    },
+    {
+     "date": "2026-01-26",
+     "chamber": "Senate",
+     "text": "Reported from Local Government with substitute (14-Y 0-N)"
+    },
+    {
+     "date": "2026-01-26",
+     "chamber": "Senate",
+     "text": "Committee substitute printed 26106179D-S1"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Constitutional reading dispensed Block Vote (on 1st reading) (39-Y 0-N 0-A)"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Rules suspended"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Passed by for the day Block Vote (Voice Vote)"
+    },
+    {
+     "date": "2026-01-27",
+     "chamber": "Senate",
+     "text": "Passed by for the day"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "Senate",
+     "text": "Read second time"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "Senate",
+     "text": "Local Government Substitute agreed to"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "Senate",
+     "text": "Engrossed by Senate - committee substitute Block Vote (Voice Vote)"
+    },
+    {
+     "date": "2026-01-28",
+     "chamber": "Senate",
+     "text": "Committee substitute agreed to"
+    },
+    {
+     "date": "2026-01-29",
+     "chamber": "Senate",
+     "text": "Read third time and passed Senate (26-Y 14-N 0-A)"
+    },
+    {
+     "date": "2026-01-30",
+     "chamber": "Senate",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (SB51)"
+    },
+    {
+     "date": "2026-02-04",
+     "chamber": "House",
+     "text": "Placed on Calendar"
+    },
+    {
+     "date": "2026-02-04",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2026-02-04",
+     "chamber": "House",
+     "text": "Referred to Committee on Counties, Cities and Towns"
+    },
+    {
+     "date": "2026-02-12",
+     "chamber": "House",
+     "text": "Placed on Counties, Cities and Towns Agenda"
+    },
+    {
+     "date": "2026-02-13",
+     "chamber": "House",
+     "text": "Reported from Counties, Cities and Towns (16-Y 5-N)"
+    },
+    {
+     "date": "2026-02-15",
+     "chamber": "House",
+     "text": "Read second time"
+    },
+    {
+     "date": "2026-02-16",
+     "chamber": "House",
+     "text": "Read third time"
+    },
+    {
+     "date": "2026-02-16",
+     "chamber": "House",
+     "text": "Passed House (72-Y 26-N 0-A)"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "Senate",
+     "text": "Enrolled"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "Senate",
+     "text": "Bill text as passed Senate and House (SB51ER)"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-02-18",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-02-25",
+     "chamber": "Senate",
+     "text": "Fiscal Impact Statement from Department of Planning and Budget (SB51)"
+    },
+    {
+     "date": "2026-02-26",
+     "chamber": "Senate",
+     "text": "Enrolled Bill communicated to Governor on February 26, 2026"
+    },
+    {
+     "date": "2026-02-26",
+     "chamber": "Governor",
+     "text": "Governor's Action Deadline 11:59 p.m., March 05, 2026"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Governor",
+     "text": "Governor's recommendation received by Senate"
+    },
+    {
+     "date": "2026-03-04",
+     "chamber": "Governor",
+     "text": "Governor's Recommendation"
+    },
+    {
+     "date": "2026-03-05",
+     "chamber": "Senate",
+     "text": "Senate concurred in Governor's recommendation (20-Y 19-N 0-A)"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "House",
+     "text": "House concurred in Governor's recommendation (67-Y 29-N 0-A)"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "Governor",
+     "text": "Governor's recommendation adopted"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "Senate",
+     "text": "Reenrolled"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "Senate",
+     "text": "Reenrolled bill text (SB51ER2)"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "House",
+     "text": "Signed by Speaker"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "Senate",
+     "text": "Signed by President"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "",
+     "text": "Approved by Governor-Chapter 8 (Effective 3/9/2026)"
+    },
+    {
+     "date": "2026-03-09",
+     "chamber": "",
+     "text": "Acts of Assembly Chapter text (CHAP0008)"
+    }
+   ],
+   "introduced": "2025-11-24",
+   "url": "https://lis.virginia.gov/bill-details/20261/SB51",
+   "text_url": "https://lis.virginia.gov/bill-details/20261/SB51/text/SB51",
+   "status": "enacted",
+   "subjects": [],
+   "hearings": [],
+   "last_action": "Acts of Assembly Chapter text (CHAP0008)",
+   "last_action_date": "2026-03-09",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial election system",
+      "voting rights laws"
+     ],
+     "subtags": [
+      "at_large_conversion"
+     ]
+    }
+   }
+  }
+ ]
+}
