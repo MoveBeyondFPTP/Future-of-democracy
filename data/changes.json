@@ -228,6 +228,19 @@
   "text": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2 and Virtual Hearing updated to include Virtual"
  },
  {
+  "bill": "tx-892-SJR2",
+  "state": "TX",
+  "number": "SJR 2",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-08-15",
+  "text": "Now tracked: Filed"
+ },
+ {
   "bill": "tx-892-SB31",
   "state": "TX",
   "number": "SB 31",
@@ -264,6 +277,19 @@
   "seen": "2026-10-26T06:06:00Z",
   "kind": "new",
   "date": "2025-07-30",
+  "text": "Now tracked: Filed"
+ },
+ {
+  "bill": "tx-891-SJR3",
+  "state": "TX",
+  "number": "SJR 3",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-07-25",
   "text": "Now tracked: Filed"
  },
  {
@@ -352,6 +378,19 @@
   "categories": [
    "rcv"
   ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-05-27",
+  "text": "Now tracked: Postponed"
+ },
+ {
+  "bill": "tx-89R-SB310",
+  "state": "TX",
+  "number": "SB 310",
+  "title": "Relating to the determination of a majority vote in certain elections.",
+  "categories": [
+   "rcv"
+  ],
   "seen": "2026-10-26T06:06:00Z",
   "kind": "new",
   "date": "2025-05-27",
@@ -369,6 +408,19 @@
   "kind": "new",
   "date": "2025-05-23",
   "text": "Now tracked: Reported enrolled"
+ },
+ {
+  "bill": "tx-89R-SB29",
+  "state": "TX",
+  "number": "SB 29",
+  "title": "Relating to the formation, governance, and internal management of domestic entities.",
+  "categories": [
+   "pr"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-05-14",
+  "text": "Now tracked: Effective immediately"
  },
  {
   "bill": "tx-89R-HB3243",
@@ -395,6 +447,19 @@
   "kind": "new",
   "date": "2025-05-14",
   "text": "Now tracked: Effective immediately"
+ },
+ {
+  "bill": "tx-89R-HB817",
+  "state": "TX",
+  "number": "HB 817",
+  "title": "Relating to the determination of a majority vote in certain elections.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-05-07",
+  "text": "Now tracked: Considered in Calendars"
  },
  {
   "bill": "tx-89R-HB817",
@@ -449,6 +514,21 @@
   "text": "Now tracked: Considered in Calendars"
  },
  {
+  "bill": "tx-89R-HB5258",
+  "state": "TX",
+  "number": "HB 5258",
+  "title": "Relating to racial discrimination in voting.",
+  "categories": [
+   "pr",
+   "rcv",
+   "svra"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "category",
+  "date": "2025-04-07",
+  "text": "Added to: pr, rcv"
+ },
+ {
   "bill": "tx-89R-HB5158",
   "state": "TX",
   "number": "HB 5158",
@@ -488,6 +568,19 @@
   "kind": "new",
   "date": "2025-04-07",
   "text": "Now tracked: Referred to Education K-16"
+ },
+ {
+  "bill": "tx-89R-SB2770",
+  "state": "TX",
+  "number": "SB 2770",
+  "title": "Relating to equitable representation in decision making for transportation planning.",
+  "categories": [
+   "pr"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-04-03",
+  "text": "Now tracked: Referred to Transportation"
  },
  {
   "bill": "tx-89R-HB4453",
@@ -633,6 +726,19 @@
   "text": "Now tracked: Referred to Redistricting"
  },
  {
+  "bill": "tx-89R-HJR123",
+  "state": "TX",
+  "number": "HJR 123",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-03-17",
+  "text": "Now tracked: Referred to Redistricting"
+ },
+ {
   "bill": "tx-89R-HB2419",
   "state": "TX",
   "number": "HB 2419",
@@ -735,6 +841,19 @@
   "kind": "new",
   "date": "2025-02-27",
   "text": "Now tracked: Referred to State Affairs"
+ },
+ {
+  "bill": "tx-89R-SJR43",
+  "state": "TX",
+  "number": "SJR 43",
+  "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected f",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-11-02T20:24:58Z",
+  "kind": "new",
+  "date": "2025-02-13",
+  "text": "Now tracked: Referred to Finance"
  },
  {
   "bill": "tx-89R-SJR43",
