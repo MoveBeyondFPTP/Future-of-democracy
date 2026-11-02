@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-01T16:50:59Z",
+ "generated": "2026-11-02T01:35:44Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -604,11 +604,11 @@
      "role": "primary"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     }
    ],
@@ -845,22 +845,6 @@
      "role": "primary"
     },
     {
-     "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Adam Gómez",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joan B. Lovely",
-     "role": "cosponsor"
-    },
-    {
      "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
@@ -934,6 +918,22 @@
     },
     {
      "name": "Lydia Edwards",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     }
    ],
@@ -1012,7 +1012,7 @@
      "role": "primary"
     },
     {
-     "name": "Adam Gómez",
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
     {
@@ -1020,7 +1020,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Robyn K. Kennedy",
+     "name": "Adam Gómez",
      "role": "cosponsor"
     },
     {
