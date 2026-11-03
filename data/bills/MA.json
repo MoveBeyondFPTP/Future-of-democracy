@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-03T03:30:34Z",
+ "generated": "2026-11-03T17:55:02Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -229,11 +229,11 @@
      "role": "primary"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "Michael J. Barrett",
      "role": "cosponsor"
     }
    ],
@@ -1012,6 +1012,18 @@
      "role": "primary"
     },
     {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
+     "role": "cosponsor"
+    },
+    {
      "name": "Natalie M. Higgins",
      "role": "cosponsor"
     },
@@ -1052,11 +1064,11 @@
      "role": "cosponsor"
     },
     {
-     "name": "Manny Cruz",
+     "name": "Patricia D. Jehlen",
      "role": "cosponsor"
     },
     {
-     "name": "Patricia D. Jehlen",
+     "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
     {
@@ -1089,18 +1101,6 @@
     },
     {
      "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joanne M. Comerford",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
     {
