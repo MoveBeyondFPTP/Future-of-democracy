@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-03T17:55:02Z",
+ "generated": "2026-11-04T02:27:23Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -1012,42 +1012,6 @@
      "role": "primary"
     },
     {
-     "name": "Joanne M. Comerford",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Manny Cruz",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Danillo A. Sena",
-     "role": "cosponsor"
-    },
-    {
-     "name": "John J. Cronin",
-     "role": "cosponsor"
-    },
-    {
-     "name": "James B. Eldridge",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Paul W. Mark",
-     "role": "cosponsor"
-    },
-    {
      "name": "Michael P. Kushmerek",
      "role": "cosponsor"
     },
@@ -1068,11 +1032,11 @@
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "Sal N. DiDomenico",
      "role": "cosponsor"
     },
     {
-     "name": "Sal N. DiDomenico",
+     "name": "Paul W. Mark",
      "role": "cosponsor"
     },
     {
@@ -1092,6 +1056,10 @@
      "role": "cosponsor"
     },
     {
+     "name": "James B. Eldridge",
+     "role": "cosponsor"
+    },
+    {
      "name": "Adam Gómez",
      "role": "cosponsor"
     },
@@ -1101,6 +1069,38 @@
     },
     {
      "name": "Robyn K. Kennedy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John J. Cronin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Danillo A. Sena",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
     {
