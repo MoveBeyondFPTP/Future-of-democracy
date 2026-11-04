@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-04T02:27:23Z",
+ "generated": "2026-11-04T18:05:15Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -1012,6 +1012,50 @@
      "role": "primary"
     },
     {
+     "name": "Rebecca L. Rausch",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Danillo A. Sena",
+     "role": "cosponsor"
+    },
+    {
+     "name": "John J. Cronin",
+     "role": "cosponsor"
+    },
+    {
+     "name": "James B. Eldridge",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Paul W. Mark",
+     "role": "cosponsor"
+    },
+    {
      "name": "Michael P. Kushmerek",
      "role": "cosponsor"
     },
@@ -1036,10 +1080,6 @@
      "role": "cosponsor"
     },
     {
-     "name": "Paul W. Mark",
-     "role": "cosponsor"
-    },
-    {
      "name": "Liz Miranda",
      "role": "cosponsor"
     },
@@ -1056,10 +1096,6 @@
      "role": "cosponsor"
     },
     {
-     "name": "James B. Eldridge",
-     "role": "cosponsor"
-    },
-    {
      "name": "Adam Gómez",
      "role": "cosponsor"
     },
@@ -1069,42 +1105,6 @@
     },
     {
      "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "John J. Cronin",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Danillo A. Sena",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Manny Cruz",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joanne M. Comerford",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Michael J. Barrett",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Rebecca L. Rausch",
      "role": "cosponsor"
     }
    ],
@@ -1171,7 +1171,7 @@
      "role": "primary"
     },
     {
-     "name": "Carmine Lawrence Gentile",
+     "name": "Erika Uyterhoeven",
      "role": "cosponsor"
     },
     {
@@ -1179,15 +1179,11 @@
      "role": "cosponsor"
     },
     {
-     "name": "Erika Uyterhoeven",
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     },
     {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     },
     {
@@ -1195,7 +1191,11 @@
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
      "role": "cosponsor"
     }
    ],
