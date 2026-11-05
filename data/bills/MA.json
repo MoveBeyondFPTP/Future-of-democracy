@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-04T18:05:15Z",
+ "generated": "2026-11-05T02:35:40Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -604,11 +604,11 @@
      "role": "primary"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     }
    ],
@@ -1171,7 +1171,7 @@
      "role": "primary"
     },
     {
-     "name": "Erika Uyterhoeven",
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     },
     {
@@ -1179,15 +1179,11 @@
      "role": "cosponsor"
     },
     {
-     "name": "Carmine Lawrence Gentile",
+     "name": "Erika Uyterhoeven",
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Amy Mah Sangiolo",
+     "name": "Brian W. Murray",
      "role": "cosponsor"
     },
     {
@@ -1195,7 +1191,11 @@
      "role": "cosponsor"
     },
     {
-     "name": "Brian W. Murray",
+     "name": "Amy Mah Sangiolo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     }
    ],
