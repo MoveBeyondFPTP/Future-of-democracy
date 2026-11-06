@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-05T18:07:48Z",
+ "generated": "2026-11-06T02:35:17Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -229,11 +229,11 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     }
    ],
@@ -381,7 +381,7 @@
      "role": "primary"
     },
     {
-     "name": "Kenneth I. Gordon",
+     "name": "Cindy F. Friedman",
      "role": "cosponsor"
     },
     {
@@ -389,7 +389,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Cindy F. Friedman",
+     "name": "Kenneth I. Gordon",
      "role": "cosponsor"
     }
    ],
@@ -845,6 +845,18 @@
      "role": "primary"
     },
     {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
      "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
@@ -858,6 +870,10 @@
     },
     {
      "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Manny Cruz",
      "role": "cosponsor"
     },
     {
@@ -918,22 +934,6 @@
     },
     {
      "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Manny Cruz",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joanne M. Comerford",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Michael J. Barrett",
      "role": "cosponsor"
     }
    ],
@@ -1012,15 +1012,7 @@
      "role": "primary"
     },
     {
-     "name": "Lydia Edwards",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joan B. Lovely",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Adam Gómez",
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
     {
@@ -1028,7 +1020,15 @@
      "role": "cosponsor"
     },
     {
-     "name": "Robyn K. Kennedy",
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
      "role": "cosponsor"
     },
     {
@@ -1171,23 +1171,7 @@
      "role": "primary"
     },
     {
-     "name": "Carmine Lawrence Gentile",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Marjorie C. Decker",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     },
     {
@@ -1195,7 +1179,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marjorie C. Decker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     }
    ],
