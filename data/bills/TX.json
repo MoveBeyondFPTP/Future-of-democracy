@@ -1,0 +1,1641 @@
+{
+ "state": "TX",
+ "name": "Texas",
+ "generated": "2026-11-07T02:01:47Z",
+ "bills": [
+  {
+   "id": "tx-892-SJR2",
+   "state": "TX",
+   "session": "892",
+   "session_name": "89th Legislature, 2nd Called Session (2025)",
+   "number": "SJR 2",
+   "chamber": "Senate",
+   "type": "joint resolution",
+   "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
+   "subjects": [
+    "Legislature",
+    "Redistricting",
+    "Resolutions--Constitutional Amendments",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "HOUSE OF REPRESENTATIVES",
+    "HOUSE OF REPRESENTATIVES, US",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION",
+    "LEGISLATIVE REDISTRICTING BOARD",
+    "SENATE, TEXAS"
+   ],
+   "sponsors": [
+    {
+     "name": "Johnson",
+     "role": "primary"
+    },
+    {
+     "name": "Blanco",
+     "role": "primary"
+    },
+    {
+     "name": "Cook",
+     "role": "primary"
+    },
+    {
+     "name": "Eckhardt",
+     "role": "primary"
+    },
+    {
+     "name": "Gutierrez",
+     "role": "primary"
+    },
+    {
+     "name": "Hinojosa, Juan \"Chuy\"",
+     "role": "primary"
+    },
+    {
+     "name": "Menéndez",
+     "role": "primary"
+    },
+    {
+     "name": "Miles",
+     "role": "primary"
+    },
+    {
+     "name": "West",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-08-15",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2025-08-15",
+     "chamber": "Senate",
+     "text": "Filed"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=892&Bill=SJR2",
+   "text_url": "https://capitol.texas.gov/tlodocs/892/billtext/html/SJ00002I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Filed",
+   "last_action_date": "2025-08-15",
+   "introduced": "2025-08-15",
+   "status": "introduced",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial redistricting plan"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-891-SJR3",
+   "state": "TX",
+   "session": "891",
+   "session_name": "89th Legislature, 1st Called Session (2025)",
+   "number": "SJR 3",
+   "chamber": "Senate",
+   "type": "joint resolution",
+   "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
+   "subjects": [
+    "Legislature",
+    "Redistricting",
+    "Resolutions--Constitutional Amendments",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "HOUSE OF REPRESENTATIVES",
+    "HOUSE OF REPRESENTATIVES, US",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION",
+    "LEGISLATIVE REDISTRICTING BOARD",
+    "SENATE, TEXAS"
+   ],
+   "sponsors": [
+    {
+     "name": "Johnson",
+     "role": "primary"
+    },
+    {
+     "name": "Cook",
+     "role": "primary"
+    },
+    {
+     "name": "Eckhardt",
+     "role": "primary"
+    },
+    {
+     "name": "Gutierrez",
+     "role": "primary"
+    },
+    {
+     "name": "Hinojosa, Juan \"Chuy\"",
+     "role": "primary"
+    },
+    {
+     "name": "Menéndez",
+     "role": "primary"
+    },
+    {
+     "name": "Miles",
+     "role": "primary"
+    },
+    {
+     "name": "West",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-07-25",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2025-07-25",
+     "chamber": "Senate",
+     "text": "Filed"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=891&Bill=SJR3",
+   "text_url": "https://capitol.texas.gov/tlodocs/891/billtext/html/SJ00003I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Filed",
+   "last_action_date": "2025-07-25",
+   "introduced": "2025-07-25",
+   "status": "introduced",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial redistricting plan"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB310",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 310",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to the determination of a majority vote in certain elections.",
+   "subjects": [
+    "Elections--Administration",
+    "Elections--General",
+    "Elections--Voting Systems"
+   ],
+   "sponsors": [
+    {
+     "name": "Hughes",
+     "role": "primary"
+    },
+    {
+     "name": "Flores",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kolkhorst",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Patterson",
+     "role": "sponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-12",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2024-11-12",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Referred to State Affairs"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "Senate",
+     "text": "Scheduled for public hearing on . . ."
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "Senate",
+     "text": "Considered in public hearing"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "Senate",
+     "text": "Testimony taken in committee"
+    },
+    {
+     "date": "2025-03-20",
+     "chamber": "Senate",
+     "text": "Left pending in committee"
+    },
+    {
+     "date": "2025-03-24",
+     "chamber": "Senate",
+     "text": "Considered in public hearing"
+    },
+    {
+     "date": "2025-03-24",
+     "chamber": "Senate",
+     "text": "Vote taken in committee"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Reported favorably w/o amendments"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Recommended for local & uncontested calendar"
+    },
+    {
+     "date": "2025-03-26",
+     "chamber": "Senate",
+     "text": "Committee report printed and distributed"
+    },
+    {
+     "date": "2025-04-10",
+     "chamber": "Senate",
+     "text": "Co-author authorized"
+    },
+    {
+     "date": "2025-04-14",
+     "chamber": "Senate",
+     "text": "Placed on intent calendar"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Co-author authorized"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Rules suspended-Regular order of business"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Read 2nd time & passed to engrossment"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Three day rule suspended"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Read 3rd time"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Passed"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "Senate",
+     "text": "Reported engrossed"
+    },
+    {
+     "date": "2025-04-16",
+     "chamber": "House",
+     "text": "Received from the Senate"
+    },
+    {
+     "date": "2025-04-17",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-17",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-04-28",
+     "chamber": "House",
+     "text": "Considered in formal meeting"
+    },
+    {
+     "date": "2025-04-28",
+     "chamber": "House",
+     "text": "Reported favorably w/o amendment(s)"
+    },
+    {
+     "date": "2025-05-06",
+     "chamber": "House",
+     "text": "Comte report filed with Committee Coordinator"
+    },
+    {
+     "date": "2025-05-06",
+     "chamber": "House",
+     "text": "Committee report distributed"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "House",
+     "text": "Committee report sent to Calendars"
+    },
+    {
+     "date": "2025-05-22",
+     "chamber": "House",
+     "text": "Considered in Calendars"
+    },
+    {
+     "date": "2025-05-24",
+     "chamber": "House",
+     "text": "Placed on General State Calendar"
+    },
+    {
+     "date": "2025-05-27",
+     "chamber": "House",
+     "text": "Read 2nd time"
+    },
+    {
+     "date": "2025-05-27",
+     "chamber": "House",
+     "text": "Point of order withdrawn"
+    },
+    {
+     "date": "2025-05-27",
+     "chamber": "House",
+     "text": "Postponed"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB310",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00310H.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Postponed",
+   "last_action_date": "2025-05-27",
+   "introduced": "2024-11-12",
+   "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB29",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 29",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to the formation, governance, and internal management of domestic entities.",
+   "subjects": [
+    "Business & Commerce--General",
+    "Civil Remedies & Liabilities",
+    "Corporations & Associations",
+    "Courts--General",
+    "Financial--General",
+    "EMAIL & ELECTRONIC COMMUNICATIONS",
+    "RECORDS MANAGEMENT",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Hughes",
+     "role": "primary"
+    },
+    {
+     "name": "Hagenbuch",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hancock",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Schwertner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Meyer",
+     "role": "sponsor"
+    },
+    {
+     "name": "Leach",
+     "role": "sponsor"
+    },
+    {
+     "name": "Schofield",
+     "role": "sponsor"
+    },
+    {
+     "name": "Anchía",
+     "role": "sponsor"
+    },
+    {
+     "name": "Longoria",
+     "role": "sponsor"
+    },
+    {
+     "name": "Vasut",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2025-02-27",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-28",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-28",
+     "chamber": "Senate",
+     "text": "Referred to State Affairs"
+    },
+    {
+     "date": "2025-03-10",
+     "chamber": "Senate",
+     "text": "Scheduled for public hearing on . . ."
+    },
+    {
+     "date": "2025-03-10",
+     "chamber": "Senate",
+     "text": "Considered in public hearing"
+    },
+    {
+     "date": "2025-03-10",
+     "chamber": "Senate",
+     "text": "Testimony taken in committee"
+    },
+    {
+     "date": "2025-03-10",
+     "chamber": "Senate",
+     "text": "Left pending in committee"
+    },
+    {
+     "date": "2025-03-19",
+     "chamber": "Senate",
+     "text": "Co-author authorized"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Considered in public hearing"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "Senate",
+     "text": "Vote taken in committee"
+    },
+    {
+     "date": "2025-03-31",
+     "chamber": "Senate",
+     "text": "Reported favorably as substituted"
+    },
+    {
+     "date": "2025-03-31",
+     "chamber": "Senate",
+     "text": "Recommended for local & uncontested calendar"
+    },
+    {
+     "date": "2025-03-31",
+     "chamber": "Senate",
+     "text": "Committee report printed and distributed"
+    },
+    {
+     "date": "2025-04-01",
+     "chamber": "Senate",
+     "text": "Co-author authorized"
+    },
+    {
+     "date": "2025-04-02",
+     "chamber": "Senate",
+     "text": "Co-author authorized"
+    },
+    {
+     "date": "2025-04-02",
+     "chamber": "Senate",
+     "text": "Placed on intent calendar"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Rules suspended-Regular order of business"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Vote recorded in Journal"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Read 2nd time & passed to engrossment"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Vote recorded in Journal"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Three day rule suspended"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Read 3rd time"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Passed"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Reported engrossed"
+    },
+    {
+     "date": "2025-04-07",
+     "chamber": "House",
+     "text": "Received from the Senate"
+    },
+    {
+     "date": "2025-04-17",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-17",
+     "chamber": "House",
+     "text": "Referred to Judiciary & Civil Jurisprudence"
+    },
+    {
+     "date": "2025-04-24",
+     "chamber": "House",
+     "text": "Considered in formal meeting"
+    },
+    {
+     "date": "2025-04-24",
+     "chamber": "House",
+     "text": "Reported favorably w/o amendment(s)"
+    },
+    {
+     "date": "2025-04-30",
+     "chamber": "House",
+     "text": "Considered in formal meeting"
+    },
+    {
+     "date": "2025-04-30",
+     "chamber": "House",
+     "text": "Vote reconsidered in committee"
+    },
+    {
+     "date": "2025-04-30",
+     "chamber": "House",
+     "text": "Committee substitute considered in committee"
+    },
+    {
+     "date": "2025-04-30",
+     "chamber": "House",
+     "text": "Reported favorably as substituted"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Comte report filed with Committee Coordinator"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Committee report distributed"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Laid out in lieu of companion"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Read 2nd time"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Amended"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Amended"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Passed to 3rd reading as amended"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Statement(s) of vote recorded in Journal"
+    },
+    {
+     "date": "2025-05-01",
+     "chamber": "House",
+     "text": "Committee report sent to Calendars"
+    },
+    {
+     "date": "2025-05-02",
+     "chamber": "House",
+     "text": "Read 3rd time"
+    },
+    {
+     "date": "2025-05-02",
+     "chamber": "House",
+     "text": "Passed"
+    },
+    {
+     "date": "2025-05-02",
+     "chamber": "House",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-05-02",
+     "chamber": "House",
+     "text": "Statement(s) of vote recorded in Journal"
+    },
+    {
+     "date": "2025-05-05",
+     "chamber": "Senate",
+     "text": "House passage as amended reported"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "Senate",
+     "text": "House amendment(s) laid before the Senate"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "Senate",
+     "text": "Read"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "Senate",
+     "text": "Senate concurs in House amendment(s)"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "Senate",
+     "text": "Record vote"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "House",
+     "text": "Senate concurs in House amendment(s)-reported"
+    },
+    {
+     "date": "2025-05-08",
+     "chamber": "Senate",
+     "text": "Reported enrolled"
+    },
+    {
+     "date": "2025-05-08",
+     "chamber": "Senate",
+     "text": "Signed in the Senate"
+    },
+    {
+     "date": "2025-05-08",
+     "chamber": "House",
+     "text": "Signed in the House"
+    },
+    {
+     "date": "2025-05-08",
+     "chamber": "Executive",
+     "text": "Sent to the Governor"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "Executive",
+     "text": "Signed by the Governor"
+    },
+    {
+     "date": "2025-05-14",
+     "chamber": "Executive",
+     "text": "Effective immediately"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB29",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00029F.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Effective immediately",
+   "last_action_date": "2025-05-14",
+   "introduced": "2025-02-27",
+   "status": "enacted",
+   "categories": {
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting"
+     ],
+     "subtags": [
+      "semi_proportional",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB817",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 817",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to the determination of a majority vote in certain elections.",
+   "subjects": [
+    "Elections--Administration",
+    "Elections--General",
+    "Elections--Voting Systems"
+   ],
+   "sponsors": [
+    {
+     "name": "Cain",
+     "role": "primary"
+    },
+    {
+     "name": "Harris",
+     "role": "primary"
+    },
+    {
+     "name": "Cook",
+     "role": "primary"
+    },
+    {
+     "name": "Geren",
+     "role": "primary"
+    },
+    {
+     "name": "Patterson",
+     "role": "primary"
+    },
+    {
+     "name": "Alders",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Buckley",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Bumgarner",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Curry",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Hayes",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Kitzman",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Metcalf",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Olcott",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Oliverson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Richardson",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Shofner",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-03-05",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Scheduled for public hearing on . . ."
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Considered in public hearing"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Testimony taken/registration(s) recorded in committee"
+    },
+    {
+     "date": "2025-03-27",
+     "chamber": "House",
+     "text": "Left pending in committee"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "House",
+     "text": "Considered in public hearing"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "House",
+     "text": "Reported favorably w/o amendment(s)"
+    },
+    {
+     "date": "2025-04-14",
+     "chamber": "House",
+     "text": "Comte report filed with Committee Coordinator"
+    },
+    {
+     "date": "2025-04-14",
+     "chamber": "House",
+     "text": "Committee report distributed"
+    },
+    {
+     "date": "2025-04-15",
+     "chamber": "House",
+     "text": "Committee report sent to Calendars"
+    },
+    {
+     "date": "2025-05-07",
+     "chamber": "House",
+     "text": "Considered in Calendars"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB817",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00817H.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Considered in Calendars",
+   "last_action_date": "2025-05-07",
+   "introduced": "2024-11-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB5258",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 5258",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to racial discrimination in voting.",
+   "subjects": [
+    "Education--Higher--General",
+    "Elections--Administration",
+    "Elections--General",
+    "Elections--Voting Systems",
+    "Electronic Information Systems",
+    "Human Relations",
+    "Lawyers",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "State Finances--Management & Control",
+    "BARBARA JORDAN TEXAS VOTING RIGHTS ACT (PA12N)",
+    "DISCRIMINATION",
+    "SECRETARY OF STATE",
+    "TEXAS VOTING AND ELECTION INSTITUTE (VR2PP)",
+    "VOTING RIGHTS COMMISSION, TEXAS (VI8JA)"
+   ],
+   "sponsors": [
+    {
+     "name": "Bucy",
+     "role": "primary"
+    },
+    {
+     "name": "Morales Shaw",
+     "role": "cosponsor"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-14",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-07",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-07",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5258",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB05258I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-04-07",
+   "introduced": "2025-03-14",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "diluting the vot",
+      "polarized voting",
+      "racially polarized voting",
+      "texas voting rights act",
+      "vote dilution",
+      "voter suppression"
+     ],
+     "subtags": [
+      "comprehensive_svra",
+      "data_repository"
+     ]
+    },
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "single transferable vote"
+     ],
+     "subtags": []
+    },
+    "pr": {
+     "level": "match",
+     "terms": [
+      "cumulative voting",
+      "limited voting",
+      "single transferable vote"
+     ],
+     "subtags": [
+      "stv_proportional_rcv",
+      "party_list_mixed",
+      "semi_proportional",
+      "electoral_college",
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB2770",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 2770",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to equitable representation in decision making for transportation planning.",
+   "subjects": [
+    "Transportation--Miscellaneous",
+    "TRANSPORTATION COMMISSION, TEXAS",
+    "TRANSPORTATION, TEXAS DEPARTMENT OF"
+   ],
+   "sponsors": [
+    {
+     "name": "Cook",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-14",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2025-03-14",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "Senate",
+     "text": "Referred to Transportation"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2770",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02770I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Transportation",
+   "last_action_date": "2025-04-03",
+   "introduced": "2025-03-14",
+   "status": "committee",
+   "categories": {
+    "pr": {
+     "level": "match",
+     "terms": [
+      "proportional voting system"
+     ],
+     "subtags": [
+      "local_government"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB4528",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 4528",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--Administration",
+    "Elections--General",
+    "Elections--Primaries",
+    "TEXAS PREFERENTIAL VOTING ACT (PO34L)",
+    "STAFF DEVELOPMENT & TRAINING",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Bhojani",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-03-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-04-03",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4528",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04528I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-04-03",
+   "introduced": "2025-03-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HJR123",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HJR 123",
+   "chamber": "House",
+   "type": "joint resolution",
+   "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
+   "subjects": [
+    "Legislature",
+    "Redistricting",
+    "Resolutions--Constitutional Amendments",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "HOUSE OF REPRESENTATIVES",
+    "HOUSE OF REPRESENTATIVES, US",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION",
+    "LEGISLATIVE REDISTRICTING BOARD",
+    "SENATE, TEXAS"
+   ],
+   "sponsors": [
+    {
+     "name": "Howard",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-24",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-17",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-03-17",
+     "chamber": "House",
+     "text": "Referred to Redistricting"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HJR123",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HJ00123I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Redistricting",
+   "last_action_date": "2025-03-17",
+   "introduced": "2025-01-24",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial redistricting plan"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB1406",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 1406",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to preferential voting in a primary election.",
+   "subjects": [
+    "Elections--Political Parties",
+    "Elections--Primaries",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Meza",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-19",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-11",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-03-11",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1406",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01406I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-11",
+   "introduced": "2024-11-19",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB540",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 540",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--General",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Goodwin",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-03-03",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB540",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00540I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-03-03",
+   "introduced": "2024-11-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-HB465",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "HB 465",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to preferential voting in runoff elections for certain voters voting by mail.",
+   "subjects": [
+    "Elections--General",
+    "Military & Veterans",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Cortez",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-12",
+     "chamber": "House",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-28",
+     "chamber": "House",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-28",
+     "chamber": "House",
+     "text": "Referred to Elections"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB465",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00465I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Elections",
+   "last_action_date": "2025-02-28",
+   "introduced": "2024-11-12",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SJR43",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SJR 43",
+   "chamber": "Senate",
+   "type": "joint resolution",
+   "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
+   "subjects": [
+    "Legislature",
+    "Redistricting",
+    "Resolutions--Constitutional Amendments",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "HOUSE OF REPRESENTATIVES",
+    "HOUSE OF REPRESENTATIVES, US",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION",
+    "LEGISLATIVE REDISTRICTING BOARD",
+    "SENATE, TEXAS"
+   ],
+   "sponsors": [
+    {
+     "name": "Johnson",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2025-01-24",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2025-01-24",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-13",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-13",
+     "chamber": "Senate",
+     "text": "Referred to Finance"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SJR43",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SJ00043I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to Finance",
+   "last_action_date": "2025-02-13",
+   "introduced": "2025-01-24",
+   "status": "committee",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial redistricting plan"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB342",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 342",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--General",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Eckhardt",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Referred to State Affairs"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB342",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00342I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to State Affairs",
+   "last_action_date": "2025-02-03",
+   "introduced": "2024-11-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  },
+  {
+   "id": "tx-89R-SB341",
+   "state": "TX",
+   "session": "89R",
+   "session_name": "89th Legislature (2025)",
+   "number": "SB 341",
+   "chamber": "Senate",
+   "type": "bill",
+   "title": "Relating to the use of preferential voting in certain elections.",
+   "subjects": [
+    "Elections--General",
+    "Elections--Registration & Suffrage",
+    "Elections--Voting Systems",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Eckhardt",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Received by the Secretary of the Senate"
+    },
+    {
+     "date": "2024-11-13",
+     "chamber": "Senate",
+     "text": "Filed"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Read first time"
+    },
+    {
+     "date": "2025-02-03",
+     "chamber": "Senate",
+     "text": "Referred to State Affairs"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB341",
+   "text_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00341I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Referred to State Affairs",
+   "last_action_date": "2025-02-03",
+   "introduced": "2024-11-13",
+   "status": "committee",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  }
+ ]
+}
