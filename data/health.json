@@ -1,15 +1,15 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
-  "bills_total": 12050,
+  "bills_total": 12051,
   "tracked": 15,
   "sessions": {
    "194": {
-    "bills": 12050,
-    "seconds": 47
+    "bills": 12051,
+    "seconds": 57
    },
    "195": {
     "bills": 0,
@@ -23,8 +23,8 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 12787,
   "tracked": 15,
@@ -43,7 +43,7 @@
    },
    "90R": {
     "bills": 0,
-    "seconds": 10
+    "seconds": 15
    }
   },
   "requests": 0,
@@ -51,10 +51,10 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
-  "bills_total": 4420,
+  "bills_total": 4421,
   "tracked": 5,
   "sessions": {
    "20261": {
@@ -66,7 +66,7 @@
     "seconds": 1
    },
    "20271": {
-    "bills": 462,
+    "bills": 463,
     "seconds": 2
    }
   },
@@ -75,8 +75,8 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 2677,
   "tracked": 8,
@@ -95,8 +95,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -119,15 +119,15 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 4251,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4251,
-    "seconds": 57
+    "seconds": 24
    },
    "2027-2028": {
     "bills": 0,
@@ -139,15 +139,15 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 47
+    "seconds": 69
    },
    "0952027": {
     "bills": 0,
@@ -159,8 +159,8 @@
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 2749,
   "tracked": 5,
@@ -179,39 +179,36 @@
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
   "last_success": "2026-11-06T17:34:27Z",
-  "ok": true,
+  "ok": false,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
-    "bills": 5480,
-    "seconds": 52
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.legis.ga.gov', port=443): Max retries exceeded with url: /api/authentication/token?key=4309e7650d1fe92d617a536e43fb59ff642b3751dcd62e2ef3b36a645295baa2f2a969326ba036805e34a5f2d41dda0d79b5da5be2ca72cc7d73b2caf2df286a&ms=1794017185368 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.legis.ga.gov', port=443) at 0x7f1a740f00b0>, 'Connection to www.legis.ga.gov timed out. (connect timeout=60)'))"
    },
    "2026EX": {
-    "bills": 176,
-    "seconds": 2
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.legis.ga.gov', port=443): Max retries exceeded with url: /api/authentication/token?key=e2d9f903cd595a060cdb9bf6648fae8ea7970d162262c6acb475e9bf98511eb8a090c2a5d36b678fde3046c7976713852ecfb49b330c05caf815ab12a895dc1b&ms=1794017514202 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.legis.ga.gov', port=443) at 0x7f1a740f0b00>, 'Connection to www.legis.ga.gov timed out. (connect timeout=60)'))"
    },
    "20272028": {
-    "bills": 0,
-    "note": "not published yet"
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='www.legis.ga.gov', port=443): Max retries exceeded with url: /api/authentication/token?key=9e586d892b7eb3f3afcaf1f59d9f38942839ce5f34f78caeb13e1763c8318f6b4a74a400433bfc54fd8387f4e9e0b9b7f670354c0fc57872744e92aa5ac08d8c&ms=1794017842923 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.legis.ga.gov', port=443) at 0x7f1a740f2360>, 'Connection to www.legis.ga.gov timed out. (connect timeout=60)'))"
    }
   },
-  "requests": 31,
+  "requests": 3,
   "warnings": []
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-11-06T17:34:27Z",
-  "last_success": "2026-11-06T17:34:27Z",
+  "last_run": "2026-11-07T02:01:47Z",
+  "last_success": "2026-11-07T02:01:47Z",
   "ok": true,
   "bills_total": 2338,
   "tracked": 3,
   "sessions": {
    "2025": {
     "bills": 2338,
-    "seconds": 33
+    "seconds": 28
    },
    "2027": {
     "bills": 0,
