@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-09T01:46:21Z",
+ "generated": "2026-11-09T20:51:30Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     }
    ],
@@ -1012,14 +1012,6 @@
      "role": "primary"
     },
     {
-     "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
      "name": "Adam Gómez",
      "role": "cosponsor"
     },
@@ -1028,19 +1020,23 @@
      "role": "cosponsor"
     },
     {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Robyn K. Kennedy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sal N. DiDomenico",
+     "role": "cosponsor"
+    },
+    {
      "name": "Lydia Edwards",
      "role": "cosponsor"
     },
     {
      "name": "Jason M. Lewis",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Liz Miranda",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Sal N. DiDomenico",
      "role": "cosponsor"
     },
     {
@@ -1069,6 +1065,10 @@
     },
     {
      "name": "James B. Eldridge",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
      "role": "cosponsor"
     },
     {
@@ -1171,23 +1171,7 @@
      "role": "primary"
     },
     {
-     "name": "Natalie M. Higgins",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Amy Mah Sangiolo",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     },
     {
@@ -1195,7 +1179,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Carmine Lawrence Gentile",
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amy Mah Sangiolo",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     }
    ],
