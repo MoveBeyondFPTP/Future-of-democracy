@@ -1,8 +1,55 @@
 {
  "state": "TX",
  "name": "Texas",
- "generated": "2026-11-09T20:51:30Z",
+ "generated": "2026-11-10T04:11:54Z",
  "bills": [
+  {
+   "id": "tx-90R-HJR31",
+   "state": "TX",
+   "session": "90R",
+   "session_name": "90th Legislature (2027)",
+   "number": "HJR 31",
+   "chamber": "House",
+   "type": "joint resolution",
+   "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
+   "subjects": [
+    "Redistricting",
+    "Resolutions--Constitutional Amendments"
+   ],
+   "sponsors": [
+    {
+     "name": "Howard",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-11-09",
+     "chamber": "House",
+     "text": "Filed"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HJR31",
+   "text_url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HJ00031I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Filed",
+   "last_action_date": "2026-11-09",
+   "introduced": "2026-11-09",
+   "status": "introduced",
+   "categories": {
+    "svra": {
+     "level": "match",
+     "terms": [
+      "remedial redistricting plan"
+     ],
+     "subtags": [
+      "dilution_cause_of_action",
+      "constitutional_amendment"
+     ]
+    }
+   }
+  },
   {
    "id": "tx-892-SJR2",
    "state": "TX",

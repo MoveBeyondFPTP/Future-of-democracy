@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-09T20:51:30Z",
+ "generated": "2026-11-10T04:11:54Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -1012,6 +1012,14 @@
      "role": "primary"
     },
     {
+     "name": "Robyn K. Kennedy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
      "name": "Adam Gómez",
      "role": "cosponsor"
     },
@@ -1020,23 +1028,19 @@
      "role": "cosponsor"
     },
     {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Sal N. DiDomenico",
-     "role": "cosponsor"
-    },
-    {
      "name": "Lydia Edwards",
      "role": "cosponsor"
     },
     {
      "name": "Jason M. Lewis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sal N. DiDomenico",
      "role": "cosponsor"
     },
     {
@@ -1065,10 +1069,6 @@
     },
     {
      "name": "James B. Eldridge",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Liz Miranda",
      "role": "cosponsor"
     },
     {
