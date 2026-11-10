@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-10T04:11:54Z",
+ "generated": "2026-11-10T17:58:16Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -604,11 +604,11 @@
      "role": "primary"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     }
    ],
