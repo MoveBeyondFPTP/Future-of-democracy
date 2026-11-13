@@ -1,7 +1,7 @@
 {
  "state": "TX",
  "name": "Texas",
- "generated": "2026-11-12T18:25:26Z",
+ "generated": "2026-11-13T02:42:49Z",
  "bills": [
   {
    "id": "tx-90R-HJR31",
@@ -13,8 +13,15 @@
    "type": "joint resolution",
    "title": "Proposing a constitutional amendment establishing an independent redistricting commission to establish districts for the election of the members of the United States House of Representatives elected from this state, the Texas Senate, and the Texas House of Representatives.",
    "subjects": [
+    "Legislature",
     "Redistricting",
-    "Resolutions--Constitutional Amendments"
+    "Resolutions--Constitutional Amendments",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "HOUSE OF REPRESENTATIVES",
+    "HOUSE OF REPRESENTATIVES, US",
+    "INDEPENDENT CITIZEN REDISTRICTING COMMISSION",
+    "LEGISLATIVE REDISTRICTING BOARD",
+    "SENATE, TEXAS"
    ],
    "sponsors": [
     {
