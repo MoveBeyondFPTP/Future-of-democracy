@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-13T17:53:40Z",
+ "generated": "2026-11-14T02:30:21Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -229,11 +229,11 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -604,11 +604,11 @@
      "role": "primary"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     }
    ],
