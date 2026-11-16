@@ -1,8 +1,57 @@
 {
  "state": "TX",
  "name": "Texas",
- "generated": "2026-11-16T02:14:56Z",
+ "generated": "2026-11-16T20:34:17Z",
  "bills": [
+  {
+   "id": "tx-90R-HB1178",
+   "state": "TX",
+   "session": "90R",
+   "session_name": "90th Legislature (2027)",
+   "number": "HB 1178",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Relating to preferential voting in runoff elections for federal postcard applicants.",
+   "subjects": [
+    "Elections--Administration",
+    "Elections--Early Voting",
+    "Elections--General",
+    "Military & Veterans",
+    "SECRETARY OF STATE"
+   ],
+   "sponsors": [
+    {
+     "name": "Cortez",
+     "role": "primary"
+    }
+   ],
+   "actions": [
+    {
+     "date": "2026-11-16",
+     "chamber": "House",
+     "text": "Filed"
+    }
+   ],
+   "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB1178",
+   "text_url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01178I.HTM",
+   "summary": "",
+   "hearings": [],
+   "last_action": "Filed",
+   "last_action_date": "2026-11-16",
+   "introduced": "2026-11-16",
+   "status": "introduced",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "preferential voting"
+     ],
+     "subtags": [
+      "adoption"
+     ]
+    }
+   }
+  },
   {
    "id": "tx-90R-HJR31",
    "state": "TX",

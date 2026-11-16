@@ -1,7 +1,7 @@
 {
  "state": "NC",
  "name": "North Carolina",
- "generated": "2026-11-16T02:14:56Z",
+ "generated": "2026-11-16T20:34:17Z",
  "bills": [
   {
    "id": "nc-2025-H1038",
@@ -69,6 +69,45 @@
    "last_action": "Reptd Fav Com Substitute",
    "last_action_date": "2026-06-09",
    "status": "passed_one",
+   "categories": {
+    "svra": {
+     "level": "possible",
+     "terms": [
+      "at-large elections"
+     ],
+     "subtags": []
+    }
+   }
+  },
+  {
+   "id": "nc-2027-H1038",
+   "state": "NC",
+   "session": "2027",
+   "session_name": "2027-2028 Session",
+   "number": "HB 1038",
+   "chamber": "House",
+   "type": "bill",
+   "title": "At-Large Elections/Jacksonville City Council.",
+   "summary": "An act to require that all members of the jacksonville city council be elected at-large.",
+   "sponsors": [
+    {
+     "name": "Gable",
+     "role": "primary"
+    },
+    {
+     "name": "Shepard",
+     "role": "primary"
+    }
+   ],
+   "introduced": "2026-04-22",
+   "url": "https://www.ncleg.gov/BillLookUp/2027/H1038",
+   "subjects": [],
+   "actions": [],
+   "hearings": [],
+   "text_url": "",
+   "last_action": "",
+   "last_action_date": "2026-04-22",
+   "status": "introduced",
    "categories": {
     "svra": {
      "level": "possible",
@@ -160,6 +199,47 @@
    "last_action": "Passed 1st Reading",
    "last_action_date": "2025-04-09",
    "status": "passed_one",
+   "categories": {
+    "rcv": {
+     "level": "match",
+     "terms": [
+      "ranked choice"
+     ],
+     "subtags": [
+      "ban"
+     ]
+    }
+   }
+  },
+  {
+   "id": "nc-2027-H825",
+   "state": "NC",
+   "session": "2027",
+   "session_name": "2027-2028 Session",
+   "number": "HB 825",
+   "chamber": "House",
+   "type": "bill",
+   "title": "Election Improvements.",
+   "summary": "An act to prohibit ranked choice voting, clarify the laws regarding election-related activity, reduce the early voting period, and amend the requirements for acceptable forms of identification when a voter requests an absentee ballot.",
+   "sponsors": [
+    {
+     "name": "Echevarria",
+     "role": "primary"
+    },
+    {
+     "name": "Scott",
+     "role": "primary"
+    }
+   ],
+   "introduced": "2025-04-08",
+   "url": "https://www.ncleg.gov/BillLookUp/2027/H825",
+   "subjects": [],
+   "actions": [],
+   "hearings": [],
+   "text_url": "",
+   "last_action": "",
+   "last_action_date": "2025-04-08",
+   "status": "introduced",
    "categories": {
     "rcv": {
      "level": "match",

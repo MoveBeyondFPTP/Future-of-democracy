@@ -1,5 +1,18 @@
 [
  {
+  "bill": "tx-90R-HB1178",
+  "state": "TX",
+  "number": "HB 1178",
+  "title": "Relating to preferential voting in runoff elections for federal postcard applicants.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-11-16T20:34:17Z",
+  "kind": "new",
+  "date": "2026-11-16",
+  "text": "Now tracked: Filed"
+ },
+ {
   "bill": "tx-90R-HJR31",
   "state": "TX",
   "number": "HJR 31",
@@ -25,6 +38,19 @@
   "kind": "action",
   "date": "2026-09-15",
   "text": "Hearing rescheduled to 09/15/2026 from 01:00 PM-02:00 PM in A-2 Hearing updated to New End Time"
+ },
+ {
+  "bill": "nc-2027-H1038",
+  "state": "NC",
+  "number": "HB 1038",
+  "title": "At-Large Elections/Jacksonville City Council.",
+  "categories": [
+   "svra"
+  ],
+  "seen": "2026-11-16T20:34:17Z",
+  "kind": "new",
+  "date": "2026-04-22",
+  "text": "Now tracked: filed"
  },
  {
   "bill": "ma-194-H850",
@@ -525,6 +551,19 @@
   "kind": "new",
   "date": "2025-04-17",
   "text": "Now tracked: Considered in Calendars"
+ },
+ {
+  "bill": "nc-2027-H825",
+  "state": "NC",
+  "number": "HB 825",
+  "title": "Election Improvements.",
+  "categories": [
+   "rcv"
+  ],
+  "seen": "2026-11-16T20:34:17Z",
+  "kind": "new",
+  "date": "2025-04-08",
+  "text": "Now tracked: filed"
  },
  {
   "bill": "tx-89R-HB5258",
