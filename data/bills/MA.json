@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-17T04:37:19Z",
+ "generated": "2026-11-17T19:14:10Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -604,11 +604,11 @@
      "role": "primary"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     }
    ],
@@ -1012,15 +1012,7 @@
      "role": "primary"
     },
     {
-     "name": "Lydia Edwards",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joan B. Lovely",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Adam Gómez",
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
     {
@@ -1028,7 +1020,15 @@
      "role": "cosponsor"
     },
     {
-     "name": "Robyn K. Kennedy",
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
      "role": "cosponsor"
     },
     {
