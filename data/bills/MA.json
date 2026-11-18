@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-18T03:44:34Z",
+ "generated": "2026-11-18T18:53:57Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     }
    ],
@@ -1012,35 +1012,7 @@
      "role": "primary"
     },
     {
-     "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Adam Gómez",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joan B. Lovely",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Lydia Edwards",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Jason M. Lewis",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Liz Miranda",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Sal N. DiDomenico",
+     "name": "Brendan P. Crighton",
      "role": "cosponsor"
     },
     {
@@ -1048,11 +1020,39 @@
      "role": "cosponsor"
     },
     {
-     "name": "Brendan P. Crighton",
+     "name": "Sal N. DiDomenico",
      "role": "cosponsor"
     },
     {
      "name": "Carmine Lawrence Gentile",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason M. Lewis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
     {
