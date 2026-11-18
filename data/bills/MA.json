@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-17T19:14:10Z",
+ "generated": "2026-11-18T03:44:34Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
