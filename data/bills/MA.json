@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-18T18:53:57Z",
+ "generated": "2026-11-19T03:41:23Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -229,11 +229,11 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -303,7 +303,7 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     },
     {
@@ -311,7 +311,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -1012,39 +1012,7 @@
      "role": "primary"
     },
     {
-     "name": "Brendan P. Crighton",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Patricia D. Jehlen",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Sal N. DiDomenico",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Carmine Lawrence Gentile",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Liz Miranda",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Jason M. Lewis",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Lydia Edwards",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joan B. Lovely",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Adam Gómez",
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
     {
@@ -1052,7 +1020,39 @@
      "role": "cosponsor"
     },
     {
-     "name": "Robyn K. Kennedy",
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason M. Lewis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Sal N. DiDomenico",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Patricia D. Jehlen",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brendan P. Crighton",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     },
     {
@@ -1171,18 +1171,6 @@
      "role": "primary"
     },
     {
-     "name": "Carmine Lawrence Gentile",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Marjorie C. Decker",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
      "name": "Brian W. Murray",
      "role": "cosponsor"
     },
@@ -1196,6 +1184,18 @@
     },
     {
      "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marjorie C. Decker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
      "role": "cosponsor"
     }
    ],
