@@ -1,0 +1,242 @@
+{
+ "MA": {
+  "name": "Massachusetts",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 12108,
+  "tracked": 15,
+  "sessions": {
+   "194": {
+    "bills": 12108,
+    "seconds": 45
+   },
+   "195": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 26,
+  "warnings": [
+   "detail H5658: HTTPSConnectionPool(host='malegislature.gov', port=443): Max retries exceeded with url: /api/GeneralCourts/194/Documents/H5658 (Caused by ResponseError('too many 500 error responses'))"
+  ]
+ },
+ "TX": {
+  "name": "Texas",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 14509,
+  "tracked": 17,
+  "sessions": {
+   "89R": {
+    "bills": 11503,
+    "seconds": 10
+   },
+   "891": {
+    "bills": 592,
+    "seconds": 0
+   },
+   "892": {
+    "bills": 692,
+    "seconds": 1
+   },
+   "90R": {
+    "bills": 1722,
+    "seconds": 42
+   }
+  },
+  "requests": 0,
+  "warnings": []
+ },
+ "VA": {
+  "name": "Virginia",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 4431,
+  "tracked": 5,
+  "sessions": {
+   "20261": {
+    "bills": 3646,
+    "seconds": 11
+   },
+   "20262": {
+    "bills": 312,
+    "seconds": 1
+   },
+   "20271": {
+    "bills": 473,
+    "seconds": 2
+   }
+  },
+  "requests": 12,
+  "warnings": []
+ },
+ "MD": {
+  "name": "Maryland",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-12T18:25:26Z",
+  "ok": false,
+  "bills_total": 2671,
+  "tracked": 8,
+  "sessions": {
+   "2026RS": {
+    "bills": 2671,
+    "seconds": 7
+   },
+   "2027RS": {
+    "error": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
+   }
+  },
+  "requests": 2,
+  "warnings": []
+ },
+ "CO": {
+  "name": "Colorado",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 749,
+  "tracked": 3,
+  "sessions": {
+   "2025B": {
+    "bills": 35,
+    "seconds": 2
+   },
+   "2026A": {
+    "bills": 714,
+    "seconds": 62
+   },
+   "2027A": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 32,
+  "warnings": []
+ },
+ "MI": {
+  "name": "Michigan",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 4312,
+  "tracked": 7,
+  "sessions": {
+   "2025-2026": {
+    "bills": 4312,
+    "seconds": 16
+   },
+   "2027-2028": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 21,
+  "warnings": []
+ },
+ "MN": {
+  "name": "Minnesota",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 10581,
+  "tracked": 12,
+  "sessions": {
+   "0942025": {
+    "bills": 10581,
+    "seconds": 152
+   },
+   "0952027": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 472,
+  "warnings": []
+ },
+ "WI": {
+  "name": "Wisconsin",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T03:17:21Z",
+  "ok": false,
+  "bills_total": 2749,
+  "tracked": 5,
+  "sessions": {
+   "2025": {
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7aebf8639d30>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+   },
+   "2027": {
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7aebf863bd70>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+   }
+  },
+  "requests": 2,
+  "warnings": []
+ },
+ "GA": {
+  "name": "Georgia",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 5656,
+  "tracked": 2,
+  "sessions": {
+   "20252026": {
+    "bills": 5480,
+    "seconds": 51
+   },
+   "2026EX": {
+    "bills": 176,
+    "seconds": 2
+   },
+   "20272028": {
+    "bills": 0,
+    "note": "not published yet"
+   }
+  },
+  "requests": 31,
+  "warnings": []
+ },
+ "NC": {
+  "name": "North Carolina",
+  "last_run": "2026-11-21T17:38:48Z",
+  "last_success": "2026-11-21T17:38:48Z",
+  "ok": true,
+  "bills_total": 4684,
+  "tracked": 5,
+  "sessions": {
+   "2025": {
+    "bills": 2342,
+    "seconds": 36
+   },
+   "2027": {
+    "bills": 2342,
+    "seconds": 2975
+   }
+  },
+  "requests": 111,
+  "warnings": [
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1246: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1246 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1240: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1240 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1233: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1233 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1231: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1231 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1230: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1230 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1222: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1222 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1221: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1221 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1217: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1217 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1215: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1215 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1192: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1192 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1168: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1168 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1161: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1161 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1122: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1122 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1117: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1117 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1084: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1084 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1067: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1067 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1038: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1038 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1037: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1037 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1035: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1035 (Caused by ResponseError('too many 500 error responses'))",
+   "detail https://www.ncleg.gov/BillLookUp/2027/H1025: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1025 (Caused by ResponseError('too many 500 error responses'))"
+  ]
+ }
+}
