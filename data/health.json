@@ -1,15 +1,15 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 12108,
   "tracked": 15,
   "sessions": {
    "194": {
     "bills": 12108,
-    "seconds": 43
+    "seconds": 55
    },
    "195": {
     "bills": 0,
@@ -23,15 +23,15 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
-  "bills_total": 14487,
+  "bills_total": 14509,
   "tracked": 17,
   "sessions": {
    "89R": {
     "bills": 11503,
-    "seconds": 7
+    "seconds": 10
    },
    "891": {
     "bills": 592,
@@ -39,27 +39,27 @@
    },
    "892": {
     "bills": 692,
-    "seconds": 0
+    "seconds": 1
    },
    "90R": {
-    "bills": 1700,
-    "seconds": 40
+    "bills": 1722,
+    "seconds": 41
    }
   },
-  "requests": 3,
+  "requests": 13,
   "warnings": []
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 4431,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 9
+    "seconds": 12
    },
    "20262": {
     "bills": 312,
@@ -75,7 +75,7 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
   "last_success": "2026-11-12T18:25:26Z",
   "ok": false,
   "bills_total": 2671,
@@ -83,7 +83,7 @@
   "sessions": {
    "2026RS": {
     "bills": 2671,
-    "seconds": 5
+    "seconds": 7
    },
    "2027RS": {
     "error": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
@@ -94,8 +94,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -118,15 +118,15 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 4312,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4312,
-    "seconds": 12
+    "seconds": 15
    },
    "2027-2028": {
     "bills": 0,
@@ -138,15 +138,15 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 41
+    "seconds": 42
    },
    "0952027": {
     "bills": 0,
@@ -158,15 +158,15 @@
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2749,
-    "seconds": 3
+    "seconds": 5
    },
    "2027": {
     "bills": 0,
@@ -178,15 +178,15 @@
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
     "bills": 5480,
-    "seconds": 56
+    "seconds": 55
    },
    "2026EX": {
     "bills": 176,
@@ -202,22 +202,22 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-11-20T18:39:33Z",
-  "last_success": "2026-11-20T18:39:33Z",
+  "last_run": "2026-11-21T03:17:21Z",
+  "last_success": "2026-11-21T03:17:21Z",
   "ok": true,
   "bills_total": 4684,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2342,
-    "seconds": 38
+    "seconds": 27
    },
    "2027": {
     "bills": 2342,
-    "seconds": 2986
+    "seconds": 3000
    }
   },
-  "requests": 110,
+  "requests": 111,
   "warnings": [
    "detail https://www.ncleg.gov/BillLookUp/2027/H1246: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1246 (Caused by ResponseError('too many 500 error responses'))",
    "detail https://www.ncleg.gov/BillLookUp/2027/H1240: HTTPSConnectionPool(host='www.ncleg.gov', port=443): Max retries exceeded with url: /BillLookUp/2027/H1240 (Caused by ResponseError('too many 500 error responses'))",
