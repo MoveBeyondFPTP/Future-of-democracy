@@ -1,15 +1,15 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 12108,
   "tracked": 15,
   "sessions": {
    "194": {
     "bills": 12108,
-    "seconds": 45
+    "seconds": 43
    },
    "195": {
     "bills": 0,
@@ -23,15 +23,15 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 14509,
   "tracked": 17,
   "sessions": {
    "89R": {
     "bills": 11503,
-    "seconds": 10
+    "seconds": 7
    },
    "891": {
     "bills": 592,
@@ -39,11 +39,11 @@
    },
    "892": {
     "bills": 692,
-    "seconds": 1
+    "seconds": 0
    },
    "90R": {
     "bills": 1722,
-    "seconds": 42
+    "seconds": 20
    }
   },
   "requests": 0,
@@ -51,22 +51,22 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
-  "bills_total": 4431,
+  "bills_total": 4433,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 11
+    "seconds": 9
    },
    "20262": {
     "bills": 312,
     "seconds": 1
    },
    "20271": {
-    "bills": 473,
+    "bills": 475,
     "seconds": 2
    }
   },
@@ -75,7 +75,7 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
   "last_success": "2026-11-12T18:25:26Z",
   "ok": false,
   "bills_total": 2671,
@@ -83,7 +83,7 @@
   "sessions": {
    "2026RS": {
     "bills": 2671,
-    "seconds": 7
+    "seconds": 5
    },
    "2027RS": {
     "error": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
@@ -94,15 +94,15 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
   "sessions": {
    "2025B": {
     "bills": 35,
-    "seconds": 2
+    "seconds": 3
    },
    "2026A": {
     "bills": 714,
@@ -118,15 +118,15 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 4312,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4312,
-    "seconds": 16
+    "seconds": 13
    },
    "2027-2028": {
     "bills": 0,
@@ -138,46 +138,48 @@
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 152
+    "seconds": 57
    },
    "0952027": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 472,
+  "requests": 52,
   "warnings": []
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T03:17:21Z",
-  "ok": false,
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
+  "ok": true,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2025/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7aebf8639d30>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+    "bills": 2749,
+    "seconds": 4
    },
    "2027": {
-    "error": "ConnectTimeout: HTTPSConnectionPool(host='docs.legis.wisconsin.gov', port=443): Max retries exceeded with url: /2027/proposals/reg/asm/bill (Caused by ConnectTimeoutError(<HTTPSConnection(host='docs.legis.wisconsin.gov', port=443) at 0x7aebf863bd70>, 'Connection to docs.legis.wisconsin.gov timed out. (connect timeout=120)'))"
+    "bills": 0,
+    "note": "not published yet"
    }
   },
-  "requests": 2,
+  "requests": 17,
   "warnings": []
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
@@ -200,19 +202,19 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-11-21T17:38:48Z",
-  "last_success": "2026-11-21T17:38:48Z",
+  "last_run": "2026-11-22T02:21:38Z",
+  "last_success": "2026-11-22T02:21:38Z",
   "ok": true,
   "bills_total": 4684,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2342,
-    "seconds": 36
+    "seconds": 31
    },
    "2027": {
     "bills": 2342,
-    "seconds": 2975
+    "seconds": 2995
    }
   },
   "requests": 111,
