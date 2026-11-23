@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-23T02:54:35Z",
+ "generated": "2026-11-23T22:06:00Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -42,14 +42,19 @@
      "date": "2026-09-15",
      "chamber": "Joint",
      "text": "Hearing rescheduled to 09/15/2026 from 01:00 PM-02:00 PM in A-2 Hearing updated to New End Time"
+    },
+    {
+     "date": "2026-11-23",
+     "chamber": "House",
+     "text": "Accompanied a study order, see H5724 (under House Rule 27)"
     }
    ],
    "subjects": [],
    "hearings": [],
-   "last_action": "Hearing rescheduled to 09/15/2026 from 01:00 PM-02:00 PM in A-2 Hearing updated to New End Time",
-   "last_action_date": "2026-09-15",
+   "last_action": "Accompanied a study order, see H5724 (under House Rule 27)",
+   "last_action_date": "2026-11-23",
    "introduced": "2026-07-16",
-   "status": "committee",
+   "status": "failed",
    "categories": {
     "rcv": {
      "level": "match",
@@ -303,7 +308,7 @@
      "role": "primary"
     },
     {
-     "name": "Simon Cataldo",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     },
     {
@@ -311,7 +316,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "James B. Eldridge",
+     "name": "Simon Cataldo",
      "role": "cosponsor"
     }
    ],
@@ -381,7 +386,7 @@
      "role": "primary"
     },
     {
-     "name": "Cindy F. Friedman",
+     "name": "Kenneth I. Gordon",
      "role": "cosponsor"
     },
     {
@@ -389,7 +394,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Kenneth I. Gordon",
+     "name": "Cindy F. Friedman",
      "role": "cosponsor"
     }
    ],
@@ -1012,23 +1017,7 @@
      "role": "primary"
     },
     {
-     "name": "James B. Eldridge",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Paul W. Mark",
-     "role": "cosponsor"
-    },
-    {
-     "name": "John J. Cronin",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Danillo A. Sena",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
+     "name": "Manny Cruz",
      "role": "cosponsor"
     },
     {
@@ -1036,23 +1025,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Manny Cruz",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     },
     {
-     "name": "Erika Uyterhoeven",
+     "name": "Danillo A. Sena",
      "role": "cosponsor"
     },
     {
-     "name": "Joanne M. Comerford",
+     "name": "John J. Cronin",
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
+     "name": "James B. Eldridge",
      "role": "cosponsor"
     },
     {
-     "name": "Rebecca L. Rausch",
+     "name": "Paul W. Mark",
      "role": "cosponsor"
     },
     {
@@ -1105,6 +1094,22 @@
     },
     {
      "name": "Robyn K. Kennedy",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rebecca L. Rausch",
      "role": "cosponsor"
     }
    ],
@@ -1171,23 +1176,7 @@
      "role": "primary"
     },
     {
-     "name": "Carmine Lawrence Gentile",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Marjorie C. Decker",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     },
     {
@@ -1195,7 +1184,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marjorie C. Decker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     }
    ],

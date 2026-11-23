@@ -1,5 +1,33 @@
 [
  {
+  "bill": "ma-194-H5584",
+  "state": "MA",
+  "number": "H5584",
+  "title": "An Act authorizing ranked choice voting for local elections in the city of Salem",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-11-23T22:06:00Z",
+  "kind": "action",
+  "date": "2026-11-23",
+  "text": "Accompanied a study order, see H5724 (under House Rule 27)"
+ },
+ {
+  "bill": "ma-194-H5584",
+  "state": "MA",
+  "number": "H5584",
+  "title": "An Act authorizing ranked choice voting for local elections in the city of Salem",
+  "categories": [
+   "pr",
+   "rcv"
+  ],
+  "seen": "2026-11-23T22:06:00Z",
+  "kind": "status",
+  "date": "2026-11-23",
+  "text": "Status: In committee → Failed / dead"
+ },
+ {
   "bill": "tx-90R-HB1178",
   "state": "TX",
   "number": "HB 1178",
