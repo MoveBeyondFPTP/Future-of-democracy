@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-24T20:43:07Z",
+ "generated": "2026-11-25T04:56:32Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -386,7 +386,7 @@
      "role": "primary"
     },
     {
-     "name": "Cindy F. Friedman",
+     "name": "Kenneth I. Gordon",
      "role": "cosponsor"
     },
     {
@@ -394,7 +394,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Kenneth I. Gordon",
+     "name": "Cindy F. Friedman",
      "role": "cosponsor"
     }
    ],
