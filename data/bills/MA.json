@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-26T04:12:43Z",
+ "generated": "2026-11-26T19:42:39Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -850,34 +850,6 @@
      "role": "primary"
     },
     {
-     "name": "Robyn K. Kennedy",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Adam Gómez",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joan B. Lovely",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Lydia Edwards",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Jason M. Lewis",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Liz Miranda",
-     "role": "cosponsor"
-    },
-    {
      "name": "Michael J. Barrett",
      "role": "cosponsor"
     },
@@ -939,6 +911,34 @@
     },
     {
      "name": "Sal N. DiDomenico",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Liz Miranda",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Jason M. Lewis",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Lydia Edwards",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joan B. Lovely",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Adam Gómez",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     }
    ],
@@ -1017,10 +1017,6 @@
      "role": "primary"
     },
     {
-     "name": "Rebecca L. Rausch",
-     "role": "cosponsor"
-    },
-    {
      "name": "Robyn K. Kennedy",
      "role": "cosponsor"
     },
@@ -1093,15 +1089,7 @@
      "role": "cosponsor"
     },
     {
-     "name": "Michael J. Barrett",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Joanne M. Comerford",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     },
     {
@@ -1109,7 +1097,19 @@
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Joanne M. Comerford",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Michael J. Barrett",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Rebecca L. Rausch",
      "role": "cosponsor"
     }
    ],
@@ -1176,23 +1176,7 @@
      "role": "primary"
     },
     {
-     "name": "Carmine Lawrence Gentile",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Marjorie C. Decker",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Erika Uyterhoeven",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Brian W. Murray",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Margaret R. Scarsdale",
+     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     },
     {
@@ -1200,7 +1184,23 @@
      "role": "cosponsor"
     },
     {
-     "name": "Natalie M. Higgins",
+     "name": "Margaret R. Scarsdale",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Brian W. Murray",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Erika Uyterhoeven",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Marjorie C. Decker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     }
    ],
