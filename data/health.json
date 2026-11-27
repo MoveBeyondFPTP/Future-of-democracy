@@ -1,15 +1,15 @@
 {
  "MA": {
   "name": "Massachusetts",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 12129,
   "tracked": 15,
   "sessions": {
    "194": {
     "bills": 12129,
-    "seconds": 47
+    "seconds": 45
    },
    "195": {
     "bills": 0,
@@ -23,15 +23,15 @@
  },
  "TX": {
   "name": "Texas",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 14525,
   "tracked": 17,
   "sessions": {
    "89R": {
     "bills": 11503,
-    "seconds": 10
+    "seconds": 7
    },
    "891": {
     "bills": 592,
@@ -43,7 +43,7 @@
    },
    "90R": {
     "bills": 1738,
-    "seconds": 32
+    "seconds": 18
    }
   },
   "requests": 0,
@@ -51,15 +51,15 @@
  },
  "VA": {
   "name": "Virginia",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 4433,
   "tracked": 5,
   "sessions": {
    "20261": {
     "bills": 3646,
-    "seconds": 20
+    "seconds": 9
    },
    "20262": {
     "bills": 312,
@@ -75,7 +75,7 @@
  },
  "MD": {
   "name": "Maryland",
-  "last_run": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
   "last_success": "2026-11-12T18:25:26Z",
   "ok": false,
   "bills_total": 2671,
@@ -83,7 +83,7 @@
   "sessions": {
    "2026RS": {
     "bills": 2671,
-    "seconds": 7
+    "seconds": 6
    },
    "2027RS": {
     "error": "JSONDecodeError: Expecting value: line 2 column 1 (char 2)"
@@ -94,8 +94,8 @@
  },
  "CO": {
   "name": "Colorado",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 749,
   "tracked": 3,
@@ -118,35 +118,35 @@
  },
  "MI": {
   "name": "Michigan",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 4312,
   "tracked": 7,
   "sessions": {
    "2025-2026": {
     "bills": 4312,
-    "seconds": 17
+    "seconds": 14
    },
    "2027-2028": {
     "bills": 0,
     "note": "not published yet"
    }
   },
-  "requests": 23,
+  "requests": 21,
   "warnings": []
  },
  "MN": {
   "name": "Minnesota",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 10581,
   "tracked": 12,
   "sessions": {
    "0942025": {
     "bills": 10581,
-    "seconds": 79
+    "seconds": 48
    },
    "0952027": {
     "bills": 0,
@@ -158,15 +158,15 @@
  },
  "WI": {
   "name": "Wisconsin",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 2749,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2749,
-    "seconds": 5
+    "seconds": 4
    },
    "2027": {
     "bills": 0,
@@ -178,15 +178,15 @@
  },
  "GA": {
   "name": "Georgia",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 5656,
   "tracked": 2,
   "sessions": {
    "20252026": {
     "bills": 5480,
-    "seconds": 49
+    "seconds": 51
    },
    "2026EX": {
     "bills": 176,
@@ -202,19 +202,19 @@
  },
  "NC": {
   "name": "North Carolina",
-  "last_run": "2026-11-27T04:19:54Z",
-  "last_success": "2026-11-27T04:19:54Z",
+  "last_run": "2026-11-27T19:31:51Z",
+  "last_success": "2026-11-27T19:31:51Z",
   "ok": true,
   "bills_total": 4684,
   "tracked": 5,
   "sessions": {
    "2025": {
     "bills": 2342,
-    "seconds": 30
+    "seconds": 29
    },
    "2027": {
     "bills": 2342,
-    "seconds": 2976
+    "seconds": 2973
    }
   },
   "requests": 110,
