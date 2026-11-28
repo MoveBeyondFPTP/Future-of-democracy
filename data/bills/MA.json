@@ -1,7 +1,7 @@
 {
  "state": "MA",
  "name": "Massachusetts",
- "generated": "2026-11-27T19:31:51Z",
+ "generated": "2026-11-28T03:59:56Z",
  "bills": [
   {
    "id": "ma-194-H5584",
@@ -609,11 +609,11 @@
      "role": "primary"
     },
     {
-     "name": "Cynthia Stone Creem",
+     "name": "Margaret R. Scarsdale",
      "role": "cosponsor"
     },
     {
-     "name": "Margaret R. Scarsdale",
+     "name": "Cynthia Stone Creem",
      "role": "cosponsor"
     }
    ],
@@ -1176,11 +1176,19 @@
      "role": "primary"
     },
     {
-     "name": "Carmine Lawrence Gentile",
+     "name": "Natalie M. Higgins",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Amy Mah Sangiolo",
      "role": "cosponsor"
     },
     {
      "name": "Marjorie C. Decker",
+     "role": "cosponsor"
+    },
+    {
+     "name": "Carmine Lawrence Gentile",
      "role": "cosponsor"
     },
     {
@@ -1193,14 +1201,6 @@
     },
     {
      "name": "Margaret R. Scarsdale",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Amy Mah Sangiolo",
-     "role": "cosponsor"
-    },
-    {
-     "name": "Natalie M. Higgins",
      "role": "cosponsor"
     }
    ],
